@@ -1,0 +1,916 @@
+<body><c:if test="false"></c:if><title> chain number - Wolfram|Alpha</title><!--<meta property="og:title" content="chain number - Wolfram|Alpha"/><meta property="og:description" content="Check out these dynamically computed results from Wolfram|Alpha!"/>--><meta content="316919218403687" property="fb:app_id"><meta name="description" content="The answer to chain number... Enter what you want to calculate or know about in science, nutrition, history, geography, engineering, mathematics, linguistics, sports, finance, music..."><!--[if IE]><![endif]--><link href="/compress/css/Alpha-201509021349-concatenated-min.css" rel="stylesheet"><link href="/css/qckpatch.css" rel="stylesheet"><link href="//www.wolframalpha.com/favicon.ico" rel="Shortcut Icon"><link href="//www.wolframcdn.com/images/alpha.fav.png" rel="icon" type="image/png"><link href="www.wolframalpha.com/images/Wolfram-Alpha-default.jpg" rel="image_src"><link title="Wolfram|Alpha" href="/searchDescription.xml" rel="search" type="application/opensearchdescription+xml"><link href="https://chrome.google.com/webstore/detail/icncamkooinmbehmkeilcccmoljfkdhp" rel="chrome-webstore-item"><!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]--><!--[if IE]><script>
+(function(){
+  // prepare base perf object
+  if (typeof window.performance === 'undefined') {
+      window.performance = {};
+  }
+  if (!window.performance.now){
+    var nowOffset = Date.now();
+    if (performance.timing && performance.timing.navigationStart){
+      nowOffset = performance.timing.navigationStart
+    }
+    window.performance.now = function now(){
+      return Date.now() - nowOffset;
+    }
+  }
+})();
+</script><![endif]--><!--[if lt IE 9]><script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><!--[if lt IE 9]><link rel='stylesheet' media='screen' href='/compress/css/Alpha-201509021349-ie-min.css' /><![endif]--><!--[if lt IE 10]><link rel='stylesheet' media='screen' href='/Calculate/ie9.css' /><![endif]--><script src="http://w.sharethis.com/button/light.js#publisher=1c0e0d54-547d-4312-9dde-61539c24e22f" type="text/javascript" async=""></script><script src="//www.google-analytics.com/analytics.js" async=""></script><script>
+window.startTime = (new Date).getTime();
+try {
+var cookieDomain = document.domain;
+document.domain = "wolframalpha.com";
+} catch (err) { }
+var jsonArray = {"popups":{}, "imgs":{}, "ajaxHandles":{}};
+document.documentElement.className += " loading";
+/* TEST for data uri support */
+var data = new Image();
+data.onload = data.onerror = function(){
+        if(this.width != 1 || this.height != 1)
+                document.documentElement.className += " no-datauri";
+}
+data.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script> 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  /* To enable cross domain linking, we must have an
+     array of all other related wolframalpha.com domains
+     which can refer a user to this page. This prevents
+     sessions from ending prematurely */
+  function getDomainArray () {
+    var currentDomain = window.location.hostname; 
+    var domains = ['m.wolframalpha.com',
+      'www.wolframalpha.com', 'products.wolframalpha.com',
+      'developer.wolframalpha.com'];
+    var index = domains.indexOf(currentDomain);
+    if (index > -1) {
+      domains.splice(index, 1);
+    }
+    return domains;
+  }
+
+  /* Just incase things go wrong */
+  ga('create', 'UA-5677369-16', 'auto', {
+    'name': 'homepage',
+    'allowLinker': true
+  });
+
+  ga('homepage.require', 'linker');
+  ga('homepage.linker:autoLink', getDomainArray());
+  ga('homepage.send', 'pageview');
+
+  /* These two variables can be set from the global scope
+     before this script is included on a page if you would like
+     to define more dimensions or send the tracker to a different
+     property than the default 'UA-5677369-3' */
+  var waGoogleAnalytics_dims = waGoogleAnalytics_dims || null;
+  var waGoogleAnalytics_prop = waGoogleAnalytics_prop || null;
+
+  var waGoogleAnalytics  = (function (dims, property) { 
+
+    /* This function will simply return the value stored for a cookie */
+    function getCookie(cookieName) {
+      var cookieString = RegExp("" + cookieName + "[^;]+").exec(document.cookie);
+      return unescape(!!cookieString ? cookieString.toString().replace(/^[^=]+./, "") : "");
+    }
+
+    /* create alphaads tracker */
+    ga('create', 'UA-23571504-1', 'wolframalpha.com', {
+      'name': 'alphaads',
+      'legacyCookieDomain': 'none',
+      'allowLinker': true
+    });
+ 
+    ga('alphaads.send', 'pageview');
+
+    /* Begin default tracker */
+    var property = property || 'UA-5677369-3';
+
+    /* create default tracker */
+    ga('create', property, 'auto', {
+      'allowLinker': true
+    });
+
+    ga('require', 'linker');
+    ga('linker:autoLink', getDomainArray());
+
+    var sessionID = getCookie('wa_ga_session');
+    var date = new Date();
+    var minutes = 30;
+    date.setTime(date.getTime() + (minutes * 60 * 1000));
+
+    if (sessionID == "") {
+      var id = Math.floor(Math.random() * 1e20);
+      document.cookie = "wa_ga_session=" + id + "; expires=" + date.toGMTString() + "; domain=.wolframalpha.com; path=/";
+      sessionID = id;
+    } else {
+      document.cookie = "wa_ga_session=" + sessionID + "; expires=" + date.toGMTString() + "; domain=.wolframalpha.com; path=/";
+    }
+
+    ga('set', 'dimension2', "" + sessionID);
+
+    var userID = getCookie('wa_pro_u') || 'unauthenticated';
+    ga('set', '&uid', "" + userID);
+    ga('set', 'dimension3', "" + userID);
+      
+    var proLevel = "None";
+    ga('set', 'dimension4', proLevel);
+
+    ga(function(tracker) {
+      ga('set', 'dimension5', tracker.get('clientId'));
+    });
+
+    var dimensions = dims || {};
+
+    ga('send', 'pageview', dimensions);
+  })(waGoogleAnalytics_dims, waGoogleAnalytics_prop); 
+
+</script>
+<div class="rw-large" id="wrap"><header class="common"><nav id="navbar"><ul id="siteNav"><li><a title="Wolfram|Alpha Pro" href="/pro">Pro</a></li><li><a title="Wolfram|Alpha Mobile Apps" href="//products.wolframalpha.com/mobile/">Mobile Apps</a></li><li><a title="Wolfram|Alpha Products" href="http://products.wolframalpha.com">Products</a></li><li><a title="Wolfram|Alpha Examples by Topic" href="/examples/">Examples</a></li><li><a title="Wolfram|Alpha Blog" href="http://blog.wolframalpha.com">Blog</a></li><li><a title="About Wolfram|Alpha" href="/about.html">About</a></li><li id="navMore"><ul id="sitesmenu"><li><a id="sitestitle" href="#">Wolfram Sites</a><ul id="sitesitems"><li><!--[if lt IE 10]><div id="IEtitle"><![endif]--><a id="firstSite" href="#"><!--[if lt IE 10]>
+Wolfram Sites
+<![endif]--></a><!--[if lt IE 10]></div><![endif]--></li><li><a href="http://www.wolfram.com/">Wolfram Research</a></li><li class="hr"></li><li><a href="http://www.wolfram.com/products/mathematica/">Wolfram <i>Mathematica</i></a></li><li><a href="http://demonstrations.wolfram.com/">Wolfram Demonstrations</a></li><li><a href="http://mathworld.wolfram.com/">Wolfram <i>MathWorld</i></a></li><li><a href="http://www.wolframscience.com/">Wolfram Science</a></li><li><a href="http://tones.wolfram.com/">Wolfram<i>Tones</i></a></li><li class="hr"></li><li><a id="lastSite" href="http://www.wolfram.com/webresources.html">More &gt;&gt;</a></li></ul></li></ul></li></ul><a id="oauth_signin" href="#"><div class="person_icon"><span>&nbsp;</span></div><div class="oauth_signin_text">
+          Sign in »
+        </div><div class="clearfix"></div></a></nav></header>
+
+<article class="headerad-pro-1" id="headerad-pro"><div class="headerad-close" id="headerad-close"><p>x</p></div><a class="headerad-placeholder-linkwrap" id="headerad-linkwrap" href="/pro?src=pro-banner-5"><div class="headerad-def-container" id="headerad-container"><div class="headerad-pro-text proAd-5" id="headerad-text"><div id="headerad-text-top"></div><div id="headerad-text-middle"></div><div id="headerad-text-bottom"></div><div class="headerad-pro-button-5" id="headerad-button"></div></div><div class="headerad-placeholder-img-1" id="headerad-img-1"></div><div class="headerad-placeholder-img-2" id="headerad-img-2"></div><br class="clear"></div></a></article><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script type="text/javascript">
+        $(document).ready(function() {
+            $.getScript("javascript/bannerad.js");
+        });
+    </script><div class=" " id="calculatecontain"><div class="un-spacer "><div id="moreInput"><div class="inputtab" id="inputtab-keyboard"><a href="#"></a></div><div class="inputtab" id="inputtab-images"><a href="#"></a></div><div class="inputtab disabled" id="inputtab-drawing"><a href="#"></a></div><div class="inputtab disabled" id="inputtab-audio"><a href="#"></a></div><div class="inputtab" id="inputtab-datainput"><a href="#"></a></div><div class="inputtab" id="inputtab-genfiles"><a href="#"></a></div><div class="inputtab disabled" id="inputtab-connections"><a href="#"></a></div></div><div id="shadowCover"></div><div id="inputTabs"><div id="inputTabs-wrap"><div class="inputpanel empty" id="inputpanel-images"><h2 class="tray-input-heading pro-branding" id="imageinput-heading">Image Input<a class="inputpanel-closebtn">X</a></h2><a id="images-info" href="#"></a><div class="disabled" id="imginput-topcontain"><div id="imginput-upforms"><div id="imginput-browselabel">
+        Upload an image from your computer:
+      </div><input name="imageupload" disabled="disabled" id="imginput-upload" type="file" size="33"><div id="imginput-urllabel">
+        Enter a URL for an image:
+      </div><input name="imageurl" disabled="disabled" id="imginput-url" type="text">&nbsp;<input disabled="disabled" class="wa-button  disabled" id="imginput-urlgo" type="button" value="Go"></div><br class="clear"><div class="input-terms" id="imginput-termsfooter"><a id="imginput-terms" href="/termsofuse/" target="_blank">Terms</a> | <a id="imginput-policy" href="/privacypolicy.html" target="_blank">Privacy</a></div></div><div id="imginput-bottomcontain"><div id="imginput-listctrl"></div><div id="imginput-listcontain"><a id="imginput-allfiles" href="#">All images »</a><a id="imginput-filestoggle" href="#"><span class="icon plusminus"></span>Recent images</a><div class="empty " id="imginput-fileslist">
+	Loading...
+      </div><a class="on" id="imginput-samplestoggle" href="#"><span class="icon plusminus"></span>Sample images</a><div class="show" id="imginput-sampleslist"><div id="imginput-sampleslist-wrap"><div id="imginput-sampleslist-images"><div class="imglib-sampleitem" id="imglib-sampleitem1" data-querieslist="colorize+components,detect+edges,colorize+image,gradient+filter" data-filepath="ImageInput/QuinSconce.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/QuinSconce_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem2" data-querieslist="oilpainting+effect,gradient+filter,convert+to+grayscale,permute+colors" data-filepath="ImageInput/TwoLions.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/TwoLions_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem3" data-querieslist="detect+edges,colorize+components,gradient+filter,create+a+sepia+image" data-filepath="ImageInput/ClockTicks.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/ClockTicks_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem4" data-querieslist="oilpainting+effect,colorize+image,gradient+filter,colorize+components" data-filepath="ImageInput/WestminsterAbbey.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/WestminsterAbbey_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem5" data-querieslist="highlight+red+components,binarize,foresting+components,morphological+perimeter" data-filepath="ImageInput/BloodCells.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/BloodCells_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem6" data-querieslist="ocr,binarize,sharpen,add+border" data-filepath="ImageInput/OriginOfSpecies.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/OriginOfSpecies_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem7" data-querieslist="separate+colors,highlight+blue+components,geometric+mean+filter,quantize+colors" data-filepath="ImageInput/ColorPlates.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/ColorPlates_thumb.png"></span></div></div><div class="imglib-sampleitem" id="imglib-sampleitem8" data-querieslist="colorize+components,count+components,fill+holes,delete+border+components" data-filepath="ImageInput/PaisleyPattern.png"><div class="filename-mdown"><span class="imglib-item" data-imgsrc="/input/samplethumb/PaisleyPattern_thumb.png"></span></div></div></div><div title="Try these sample images and see what Wolfram|Alpha Pro can do." id="imglib-sampletext"></div><br class="clear"></div></div></div></div></div>
+<div class="inputpanel empty" id="inputpanel-datainput"><h2 class="tray-input-heading pro-branding" id="datainput-heading">Data Input<a class="inputpanel-closebtn">X</a></h2><div class="disabled" id="datainput-topcontain"><div id="datainput-givedata"><span id="datainput-blurb">Give numeric, tabular, or other data. </span><span style="font-size: 11px;"> More information »</span></div><textarea disabled="disabled" id="datainput-textarea" style="height: 130px; -ms-overflow-y: hidden;" autocomplete="off"></textarea><div id="datainput-savedone"><div class="datainput-savedonewrap"><a class="wa-button disabled" id="datainput-save" href="#">Save for Later Use</a><br></div><div class="datainput-savedonewrap"><a class="bubblebtn  wa-button disabled" id="datainput-done" href="#">Use without Saving</a><br></div></div><br class="clear"><div class="input-terms" id="datainput-termsfooter"><span style="font-size: 11px; float: left;">Upload a file »</span><a id="datainput-terms" href="/termsofuse/" target="_blank">Terms</a> | <a id="datainput-policy" href="/privacypolicy.html" target="_blank">Privacy</a></div></div><div id="datainput-bottomcontain"><div id="datainput-listcontain"><a id="datainput-allfiles" href="#">All data »</a><a id="datainput-filestoggle" href="#"><span class="icon"></span>Recent data</a><div class="empty " id="datainput-fileslist">
+	Loading...
+      </div><a class="on" id="datainput-samplestoggle" href="#"><span class="icon"></span>Sample data</a><div class="show" id="datainput-sampleslist"><div class="datainput-item" data-querieslist="ANOVA,data+summaries,regression" data-filepath="DataInput/categories-currency" data-description="Funds raised by political candidates"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      categories-currency</a></div></div><div class="datainput-item" data-querieslist="timeline+plot,label+counts" data-filepath="DataInput/dates-categories" data-description="Timeline of personal emails"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      dates-categories</a></div></div><div class="datainput-item" data-querieslist="heat+map,statistics,possible+distributions,regression+analysis" data-filepath="DataInput/countries-currency-numbers" data-description="GDP vs homicide for various countries"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      countries-currency-numbers</a></div></div><div class="datainput-item" data-querieslist="timeseries+statistics,timeseries+plot" data-filepath="DataInput/dates-currency-1" data-description="Intel corporation stock data over three months"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      dates-currency-1</a></div></div><div class="datainput-item" data-querieslist="timeseries+plot,timeseries+statistics,fit" data-filepath="DataInput/dates-numbers" data-description="Daily temperatures in Rome over ten years"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      dates-numbers</a></div></div><div class="datainput-item" data-querieslist="regression,distribution+fit" data-filepath="DataInput/categories-numbers" data-description="Salaries and statistics of college faculty members"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      categories-numbers</a></div></div><div class="datainput-item" data-querieslist="possible+fit,growth+summary" data-filepath="DataInput/dates-currency-2" data-description="Median house prices in Boston, spanning 21 years"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      dates-currency-2</a></div></div><div class="datainput-item" data-querieslist="ANOVA,regression" data-filepath="DataInput/categories-numbers-genders" data-description="Titanic survivors by gender, age, and class"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      categories-numbers-genders</a></div></div><div class="datainput-item" data-querieslist="shortest+tour" data-filepath="DataInput/cities" data-description="Cities along the silk road"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      cities</a></div></div><div class="datainput-item" data-querieslist="statistics,analysis+of+variance,timeseries+statistics" data-filepath="DataInput/dates-categories-names-currency" data-description="List of credit card expenses"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      dates-categories-names-currency</a></div></div><div class="datainput-item" data-querieslist="statistics,histogram" data-filepath="DataInput/countries-currency" data-description="Costs of flights starting in London"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      countries-currency</a></div></div><div class="datainput-item" data-querieslist="regression,heat+map" data-filepath="DataInput/states-genders-counts-currencies" data-description="Movie purchases in different states"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      states-genders-counts-currencies</a></div></div><div class="datainput-item" data-querieslist="venn+diagram" data-filepath="DataInput/email-addresses" data-description="Subset of Enron email correspondences"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      email-addresses</a></div></div><div class="datainput-item" data-querieslist="map" data-filepath="DataInput/cities-types-currency" data-description="Roofing materials cost in different cities"><div class="filename-mdown"><div class="datainput-icon"></div><a class="datainput-name" href="#">
+	      cities-types-currency</a></div></div><div title="Try this sample data and see what Wolfram|Alpha Pro can do." id="datainput-sampleslist-tip"></div></div></div></div></div>
+<div class="inputpanel empty" id="inputpanel-genfiles"><h2 class="tray-input-heading pro-branding" id="genfilesinput-heading">File Upload<a class="inputpanel-closebtn">X</a></h2><div class="disabled" id="genfiles-topcontain"><div id="genfiles-upforms"><div id="genfiles-browselabel">
+        Upload a file from your computer:
+      </div><input name="genfileupload" disabled="disabled" id="genfiles-upload" type="file" size="33"><div id="genfiles-urllabel">
+        Enter a URL for a file:
+      </div><input name="genfileurl" disabled="disabled" id="genfiles-url" type="text">&nbsp;<input disabled="disabled" class="wa-button disabled" id="genfiles-urlgo" type="button" value="Go"><br class="clear"></div><br class="clear"><div class="input-terms" id="genfiles-termsfooter"><br><span style="float: left;">Copy &amp; paste as input »</span><a id="genfiles-terms" href="/termsofuse/" target="_blank">Terms</a> | <a id="genfiles-policy" href="/privacypolicy.html" target="_blank">Privacy</a></div><br class="clear"></div><div id="genfiles-bottomcontain"><div id="genfiles-listcontain"><a id="genfiles-allfiles" href="#">All files »</a><a id="genfiles-filestoggle" href="#"><span class="icon plusminus"></span>Recent files</a><div id="genfiles-fileslist">
+	  Loading
+	</div><a id="genfiles-samplestoggle" href="#"><span class="icon plusminus"></span>Supported formats and sample files</a><div class="trayArrow"></div><div class="gen-samples lightbox-shadows-light lightbox-rounded" id="genfiles-allsamples"><h2 class="lightbox-roundedtop" id="genfiles-samplesheading">Supported formats and sample files</h2><div id="genfiles-allsamplescontain"><a class="close" href="#">X</a><div id="genfiles-samplescontent"><div class="genfiles-samplessect"><h3>Basic formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/AliceInWonderland.txt">Text</a>, <a class="genfiles-sampletype" href="#" data-querieslist="byte+occurrences,longest+alphanumeric+runs,bitmap+image,file+size,null+byte+density" data-filepath="FileUpload/UnixBinary.bin">Binary</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Campaign.xls">XLS</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Shape.tsv">TSV</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Months.csv">CSV</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/1970.xlsx">XLSX</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Image formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="colorize+image,standard+deviation+filter,lighten+image+by+.25,apply+commonest+filter,reflect+image+along+the+diagonal" data-filepath="FileUpload/ZebraHead.gif">GIF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="color+permutation,highlight+red+objects,shen-castan+edge+detection,commonest+filter+with+radius+4,sepia+effect" data-filepath="FileUpload/Ladybug.jpg">JPEG</a>, <a class="genfiles-sampletype" href="#" data-querieslist="image+smoothing,posterize+image+using+10+colors,image+closing,show+image+histogram,subtract+.5+from+image" data-filepath="FileUpload/Snail.png">PNG</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="invert+colors,image+erosion,binarize+image+with+threshold+t,apply+gradient+filter+with+radius+r,apply+laplacian+filter" data-filepath="FileUpload/Gate.tif">TIFF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="charcoal+effect,top+hat+transform,add+.5+to+image,distort+image,take+image+deconvolution" data-filepath="FileUpload/SubmarineGauges.jp2">JPEG2000</a>, <a class="genfiles-sampletype" href="#" data-querieslist="max+filter,apply+wiener+filter,marr+edges,permute+colors,find+morphological+components" data-filepath="FileUpload/Dragonfly.bmp">BMP</a>, <a class="genfiles-sampletype" href="#" data-querieslist="swatch,RGB+value,red,green,blue" data-filepath="FileUpload/WebColors.aco">ACO</a>, <a class="genfiles-sampletype" href="#" data-querieslist="color+separation,oil+painting,get+image+color+space,image+closing+with+radius+8,crop+60+pixels+from+the+left" data-filepath="FileUpload/BaldEagle.tga">TGA</a>, <a class="genfiles-sampletype" href="#" data-querieslist="colorize+image,convert+to+grayscale,apply+laplacian+filter,highlight+red+objects,shen-castan+edge+detection" data-filepath="FileUpload/Mathematica.ico">ICO</a>, <a class="genfiles-sampletype" href="#" data-querieslist="increase+brightness+by+.5,get+the+number+of+color+channels,embossing+effect,detect+edges,subtract+.5+from+image" data-filepath="FileUpload/Oblivion.pcx">PCX</a>, <a class="genfiles-sampletype" href="#" data-querieslist="find+morphological+components,morphological+perimeter,image+type,distort+image,fill+image+holes" data-filepath="FileUpload/LunchTime.pbm">PBM</a>, <a class="genfiles-sampletype" href="#" data-querieslist="rotate+image+by+45+degrees,invert+colors,find+edges,oil+painting,image+smoothing" data-filepath="FileUpload/Bullfight.pgm">PGM</a>, <a class="genfiles-sampletype" href="#" data-querieslist="apply+geometric+mean+filter,apply+entropy+filter,set+gamma+to+.7,sobel+edge+detection,apply+perona+malik+filter" data-filepath="FileUpload/CowSkull.pnm">PNM</a>, <a class="genfiles-sampletype" href="#" data-querieslist="get+the+number+of+color+channels,increase+image+contrast+by+.5,sample+pixel+value,apply+gradient+filter+with+radius+r,clip+color+values+to+.25%2C+.75" data-filepath="FileUpload/BookTunnel.ppm">PPM</a>, <a class="genfiles-sampletype" href="#" data-querieslist="optimize+palette+to+10+colors,chan-vese+binarization,set+gamma+to+2.2,normalize+image,apply+range+filter" data-filepath="FileUpload/Teapot.pxr">PXR</a>, <a class="genfiles-sampletype" href="#" data-querieslist="invert+colors,get+image+border+size,apply+commonest+filter,partition+image,image+perspective+transform" data-filepath="FileUpload/RomanescoBroccoli.sct">SCT</a>, <a class="genfiles-sampletype" href="#" data-querieslist="image+components,apply+skeleton+transform,remove+small+components,apply+radon+transform,hit+miss+transform+%7B%7B-1%2C-1%7D%2C%7B-1%2C1%7D%7D" data-filepath="FileUpload/SpiralPhyllotaxis.xbm">XBM</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Vector graphics formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/AboutWolframAlpha.pdf">PDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Dahlia.eps">EPS</a></div><hr class="divider"><div class="genfiles-samplessect"><h3>3D geometry &amp; modeling formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/Guitar.ply">PLY</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/Seashell.off">OFF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/KleinBottle.noff">NOFF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/Rings.byu">BYU</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/Wrench.obj">OBJ</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/SphericalModel.vtk">VTK</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3d+image,creation+date,tree,image,valid" data-filepath="FileUpload/BlendingSpheres.jvx">JVX</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/CartesianModel.lwo">LWO</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/LegoMan.3ds">3DS</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/CubeStack.rib">RIB</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/Spikey.dxf">DXF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="3D+image,properties,bounding+box,volume,polygons" data-filepath="FileUpload/CubePattern.stl">STL</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Audio formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="file+type,sample+rate,channels,source+information,sample+encoding,bit+depth" data-filepath="FileUpload/FrequencyModulation.aiff">AIFF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="file+type,source+information,file+size,bit+depth,channels,duration" data-filepath="FileUpload/LogisticMapBifurcation.flac">FLAC</a>, <a class="genfiles-sampletype" href="#" data-querieslist="bit+depth,duration,reverse,sample+encoding,waveform,sample+rate" data-filepath="FileUpload/SquareWave.wav">WAV</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="reverse,source+information,number+of+channels,bit+depth,spectrogram,file+size" data-filepath="FileUpload/RisingGlissando.au">AU</a>, <a class="genfiles-sampletype" href="#" data-querieslist="file+size,sample+encoding,data+size,spectrogram,waveform,reverse" data-filepath="FileUpload/WhiteNoise.snd">SND</a>, <a class="genfiles-sampletype" href="#" data-querieslist="sample+encoding,waveform,file+type,bit+depth,reverse,source+information" data-filepath="FileUpload/SquareWave.w64">WAVE64</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Scientific &amp; medical formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="datasets,format,dimension" data-filepath="FileUpload/OzoneMap.hdf">HDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="datasets,metadata,format,dimension,attributes" data-filepath="FileUpload/RoseRaster.h5">HDF5</a>, <a class="genfiles-sampletype" href="#" data-querieslist="datasets,metadata,format,dimension,attributes" data-filepath="FileUpload/SeaSurfaceTemperature.cdf">NASACDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="datasets,metadata,format,dimension,attributes" data-filepath="FileUpload/Precipitation.nc">NetCDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Messier61.fits">FITS</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/HeadMRI.dcm">DICOM</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="datasets,label,device,range+of+data" data-filepath="FileUpload/Calibration.bdf">BDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="datasets,label,device,range+of+data" data-filepath="FileUpload/EEG.edf">EDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="datasets,metadata,format,dimension,attributes" data-filepath="FileUpload/Temperature.grb">GRIB</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Chemical formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="3D+structure,molecular+weight,elemental+composition" data-filepath="FileUpload/CaffeineMolecule.xyz">XYZ</a>, <a class="genfiles-sampletype" href="#" data-querieslist="structure+diagram,3D+structure,molecular+weight,elemental+composition,bonds" data-filepath="FileUpload/FluoxetineMolecule.mol">MOL</a>, <a class="genfiles-sampletype" href="#" data-querieslist="structure+diagram,3D+structure,molecular+weight,elemental+composition,bonds" data-filepath="FileUpload/AbacavirMolecule.mol2">MOL2</a>, <a class="genfiles-sampletype" href="#" data-querieslist="structure+diagram,3D+structure,molecular+weight,elemental+composition,bonds" data-filepath="FileUpload/PineOilMolecule.sdf">SDF</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="structure+diagram,compound+formula,molecular+weight,elemental+composition" data-filepath="FileUpload/CarbolicAcidMolecule.smi">SMILES</a>, <a class="genfiles-sampletype" href="#" data-querieslist="sequence,properties,length,melting+point,GC-content" data-filepath="FileUpload/Mitochondrion.fa">FASTA</a>, <a class="genfiles-sampletype" href="#" data-querieslist="sequence,properties,length,melting+point,GC-content" data-filepath="FileUpload/Mitochondrion.gbk">GenBank</a>, <a class="genfiles-sampletype" href="#" data-querieslist="sequence,properties,length,melting+point,GC-content" data-filepath="FileUpload/PrimateMitochondrion.nex">NEXUS</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/DNA.pdb">PDB</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Mathematical formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/Moth.gml">Graphlet</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/CompleteTree2-3.gv">DOT</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/PentagonalPan.graphml">GraphML</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/BowTie.gxl">GXL</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/Diamond.col">DIMACS</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/Octahedral.g6">Graph6</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/Parachute.s6">Sparse6</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/Pentatope.lgr">LEDA</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/RisingSun.net">Pajek</a>, <a class="genfiles-sampletype" href="#" data-querieslist="vertex+count,edge+count,features,chromatic+polynomial,adjacency+matrix" data-filepath="FileUpload/BidirectedTriangle.tgf">TGF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/Gaussian.mat">MAT</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/DodecahedralAdjacency.mtx">MTX</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/CoshIntegral.rse">HarwellBoeing</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div><hr class="divider"><div class="genfiles-samplessect"><h3>Document formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="version,DTD,size,depth,namespace,tree,type,valid" data-filepath="FileUpload/SimpleTable6x2.html">HTML</a>, <a class="genfiles-sampletype" href="#" data-querieslist="" data-filepath="FileUpload/AboutWolframAlpha.pdf">PDF</a>, <a class="genfiles-sampletype" href="#" data-querieslist="messages,number+messages,beginning,ending,histogram,recipients,senders,timeline" data-filepath="FileUpload/MathXPloratoriumList5Klines.mbox">MBOX</a></div><hr class="divider"><div class="genfiles-samplessect"><h3>XML formats</h3><a class="genfiles-sampletype" href="#" data-querieslist="version,DTD,size,depth,namespace,tree,type,valid" data-filepath="FileUpload/AnimatedMethane.xml">XML</a>, <a class="genfiles-sampletype" href="#" data-querieslist="version,DTD,size,depth,namespace,tree,type,valid" data-filepath="FileUpload/First10MersennePrimes.xhtml">XHTML</a>, <a class="genfiles-sampletype" href="#" data-querieslist="display+form,tree" data-filepath="FileUpload/NestedFraction.mml">MathML</a>, <span class="genfiles-sampleshidden"><a class="genfiles-sampletype" href="#" data-querieslist="version,DTD,size,depth,namespace,tree,type,valid" data-filepath="FileUpload/NestedFractionMathML.xml">XHTMLMathML</a>, <a class="genfiles-sampletype" href="#" data-querieslist="version,DTD,size,depth,namespace,tree,type,valid" data-filepath="FileUpload/NestedFractionExpressionML.xml">ExpressionML</a></span><a class="genfiles-samplesmore" href="#">more »</a><br></div></div></div></div>
+<div title="Try these sample files and see what Wolfram|Alpha Pro can do." id="genfiles-sampletext"></div></div></div></div>
+</div></div><div class="formLinks" id="moreSearches"><a id="searchExamples" href="/examples/?src=input">Examples</a><a id="searchRandom" href="/input/random.jsp">Random</a>
+</div><div id="haloGradient"></div></div><div class="spacer"><div class="ir normalLogo" id="logo-wrapper"><a title="Wolfram|Alpha Computational Knowledge Engine" class="ir normalLogo" id="logo" href="/">Wolfram|Alpha Computational Knowledge Engine</a></div><label class="hidden" id="calcform-enterwhat" for="i">Enter what you want to calculate or know about:</label><form id="calculate" action="/input/" method="get" accept-charset="UTF-8"><fieldset id="input"><input name="i" id="i" type="text" maxlength="200" value="chain number" autocomplete="off"><input name="dataset" id="dataset-input" type="hidden" value=""><div id="imath"></div><noscript>&lt;input type="hidden" name="asynchronous" value="false" /&gt;</noscript><a class="star-input star-disabled" id="star-inputfield" href="#"></a><div title="compute" id="equal"></div></fieldset></form></div></div><div class="fadechildren" id="results"><div class="nofade fadechildren" id="solutions"><noscript>&lt;p class="noscript"&gt;To see full output on this page you need to enable JavaScript in your browser. &lt;a href="nojs.jsp"&gt;More info &amp;raquo;&lt;/a&gt;&lt;/p&gt;</noscript><form class="fade" id="assumptions" action="/input/" method="get"><fieldset class="assuming" id="assumingSimple"><input name="i" id="iAssum" type="hidden" value="chain number">
+      <div>Assuming "chain" is a word <span class="separator">|</span> Use as <a href="javascript:applyAssumption(1,'*C.chain-_*Unit-')">a unit</a> or <a href="javascript:applyAssumption(1,'*C.chain-_*MathWorld-')"> referring to a mathematical definition</a> or <a href="javascript:applyAssumption(1,'*C.chain-_*Movie-')">a movie</a> instead<input name="a" id="a1" type="hidden" value="*C.chain-_*Word.dflt-"></div></fieldset></form>
+
+<section class="results-pod fade" id="answers"><section class="pod " id="pod_0100"><header><h2>
+      Input interpretation<span class="colon">:</span></h2><ul class="h"></ul></header><div class="sub " id="subpod_0100_1" data-mo="" data-mi="V29yZERhdGEmI3g1YjsmcXVvdDtjaGFpbiZxdW90OyYjeDVkOw==" data-s="Y2hhaW4gICYjeDI4O0VuZ2xpc2ggd29yZCYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0100_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP429620baaacc8306501f000061hg2ag8ec4i76h9?MSPStoreType=image/gif&amp;s=35&amp;w=141.&amp;h=18.") no-repeat; padding: 0px; width: 141px; height: 18px; display: block; position: relative;'><canvas width="141" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 141px; height: 18px; position: absolute;"></canvas><img width="141" height="18" class="maphilighted" id="i_0100_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP429620baaacc8306501f000061hg2ag8ec4i76h9?MSPStoreType=image/gif&amp;s=35&amp;w=141.&amp;h=18." usemap="#map-0100_126" data-attribution=""></div><map name="map-0100_126" id="map-0100_126"><area title="" href="/input/?i=chain&amp;lk=1&amp;a=ClashPrefs_*Word.chain-" shape="rect" coords="0,0,36,18" alt="link to /input/?i=chain&amp;lk=1&amp;a=ClashPrefs_*Word.chain-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0100_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0100_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><b class="pt fish" id="pod_0100_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a><a id="mathsource" href="javascript:showmathpop('WordData[&quot;chain&quot;]');"><i>Mathematica</i> form »</a></b></section><section class="pod " id="pod_0200"><header><h2>
+      Definitions<span class="colon">:</span></h2><ul class="h"><li class="first btn"><a id="substitute_0200_0" href="pod.jsp?id=MSP429820baaacc8306501f0000678ih83ii1116hih&amp;s=35&amp;button=1false">Show all</a></li><li class="btn"><a id="substitute_0200_1" href="pod.jsp?id=MSP429920baaacc8306501f00003f6eh7b7beg487af&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_0200_1" data-mo="" data-mi="" data-s="MSAmI3g3Yzsgbm91biAmI3g3YzsgYSBzZXJpZXMgb2YgdGhpbmdzIGRlcGVuZGluZyBvbiBlYWNoIG90aGVyIGFzIGlmIGxpbmtlZCB0b2dldGhlciYjeGE7MiAmI3g3Yzsgbm91biAmI3g3YzsgJiN4Mjg7Y2hlbWlzdHJ5JiN4Mjk7IGEgc2VyaWVzIG9mIGxpbmtlZCBhdG9tcyAmI3gyODtnZW5lcmFsbHkgaW4gYW4gb3JnYW5pYyBtb2xlY3VsZSYjeDI5OyYjeGE7MyAmI3g3Yzsgbm91biAmI3g3YzsgYSBzZXJpZXMgb2YgJiN4Mjg7dXN1YWxseSBtZXRhbCYjeDI5OyByaW5ncyBvciBsaW5rcyBmaXR0ZWQgaW50byBvbmUgYW5vdGhlciB0byBtYWtlIGEgZmxleGlibGUgbGlnYW1lbnQmI3hhOzQgJiN4N2M7IG5vdW4gJiN4N2M7ICYjeDI4O2J1c2luZXNzJiN4Mjk7IGEgbnVtYmVyIG9mIHNpbWlsYXIgZXN0YWJsaXNobWVudHMgJiN4Mjg7c3RvcmVzIG9yIHJlc3RhdXJhbnRzIG9yIGJhbmtzIG9yIGhvdGVscyBvciB0aGVhdGVycyYjeDI5OyB1bmRlciBvbmUgb3duZXJzaGlwJiN4YTs1ICYjeDdjOyBub3VuICYjeDdjOyBhbnl0aGluZyB0aGF0IGFjdHMgYXMgYSByZXN0cmFpbnQmI3hhOzYgJiN4N2M7IG5vdW4gJiN4N2M7IGEgdW5pdCBvZiBsZW5ndGgmI3hhOzcgJiN4N2M7IG5vdW4gJiN4N2M7IGEgc2VyaWVzIG9mIGhpbGxzIG9yIG1vdW50YWlucyYjeGE7OCAmI3g3Yzsgbm91biAmI3g3YzsgYSBsaW5rZWQgb3IgY29ubmVjdGVkIHNlcmllcyBvZiBvYmplY3RzJiN4YTsmI3gyODsxMSBtZWFuaW5ncyYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0200_1"><img width="576" height="275" id="i_0200_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP430220baaacc8306501f00004b1f666980ch5ccb?MSPStoreType=image/gif&amp;s=35&amp;w=576.&amp;h=275." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0200_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0200_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><b class="pt fish" id="pod_0200_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a></b></section><section class="pod " id="pod_0300"><header><h2>
+      American pronunciation<span class="colon">:</span></h2></header><div class="sub " id="subpod_0300_1" data-mo="" data-mi="" data-s="Y2gmI3gyNztleW4gICYjeDI4O0lQQSYjeDNhOyB0JiN4MjgzOyYjeDJjODtlJiN4MjZhO24mI3gyOTs=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0300_1"><img width="119" height="18" id="i_0300_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP430620baaacc8306501f00005d8008933g45bf56?MSPStoreType=image/gif&amp;s=35&amp;w=119.&amp;h=18." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0300_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0300_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><b class="pt fish" id="pod_0300_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a></b></section><section class="pod " id="pod_0400"><header><h2>
+      Hyphenation<span class="colon">:</span></h2></header><div class="sub " id="subpod_0400_1" data-mo="" data-mi="" data-s="Y2hhaW4gICYjeDI4O25vIGh5cGhlbmF0aW9uJiN4Mjk7ICAmI3gyODs1IGxldHRlcnMgICYjeDdjOyAxIHN5bGxhYmxlJiN4Mjk7" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0400_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP431020baaacc8306501f00004bdh6ca879ddg28b?MSPStoreType=image/gif&amp;s=35&amp;w=301.&amp;h=18.") no-repeat; padding: 0px; width: 301px; height: 18px; display: block; position: relative;'><canvas width="301" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 301px; height: 18px; position: absolute;"></canvas><img width="301" height="18" class="maphilighted" id="i_0400_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP431020baaacc8306501f00004bdh6ca879ddg28b?MSPStoreType=image/gif&amp;s=35&amp;w=301.&amp;h=18." usemap="#map-0400_138" data-attribution=""></div><map name="map-0400_138" id="map-0400_138"><area title="" href="/input/?i=5+letters&amp;lk=1" shape="rect" coords="166,0,174,18" alt="link to /input/?i=5+letters&amp;lk=1"><area title="" href="/input/?i=5+letters&amp;lk=1" shape="rect" coords="177,2,216,18" alt="link to /input/?i=5+letters&amp;lk=1"><area title="" href="/input/?i=1+syllable&amp;lk=1" shape="rect" coords="237,0,245,18" alt="link to /input/?i=1+syllable&amp;lk=1"><area title="" href="/input/?i=1+syllable&amp;lk=1" shape="rect" coords="248,2,296,18" alt="link to /input/?i=1+syllable&amp;lk=1"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0400_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0400_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><b class="pt fish" id="pod_0400_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a></b></section><section class="pod " id="pod_0500"><header><h2>
+      First known use in English<span class="colon">:</span></h2></header><div class="sub " id="subpod_0500_1" data-mo="" data-mi="" data-s="MTMwMCAgJiN4Mjg7SGlnaCBNaWRkbGUgYWdlcyYjeDI5OyAgJiN4Mjg7NzE1IHllYXJzIGFnbyYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0500_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP431420baaacc8306501f0000594hfe87426h4d4a?MSPStoreType=image/gif&amp;s=35&amp;w=251.&amp;h=18.") no-repeat; padding: 0px; width: 251px; height: 18px; display: block; position: relative;'><canvas width="251" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 251px; height: 18px; position: absolute;"></canvas><img width="251" height="18" class="maphilighted" id="i_0500_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP431420baaacc8306501f0000594hfe87426h4d4a?MSPStoreType=image/gif&amp;s=35&amp;w=251.&amp;h=18." usemap="#map-0500_129" data-attribution=""></div><map name="map-0500_129" id="map-0500_129"><area title="" href="/input/?i=year+1300&amp;lk=1" shape="rect" coords="0,0,32,18" alt="link to /input/?i=year+1300&amp;lk=1"><area title="" href="/input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-" shape="rect" coords="43,0,79,18" alt="link to /input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-"><area title="" href="/input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-" shape="rect" coords="79,0,127,18" alt="link to /input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-"><area title="" href="/input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-" shape="rect" coords="127,0,156,18" alt="link to /input/?i=High+Middle+ages&amp;lk=1&amp;a=ClashPrefs_*HistoricalPeriod.HighMiddleAges-"><area title="" href="/input/?i=715+years&amp;lk=1" shape="rect" coords="171,4,192,17" alt="link to /input/?i=715+years&amp;lk=1"><area title="" href="/input/?i=715+years&amp;lk=1" shape="rect" coords="194,5,223,17" alt="link to /input/?i=715+years&amp;lk=1"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0500_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0500_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a><button class="subpod-sources">Sources</button></div></div></div><b class="pt fish" id="pod_0500_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a></b></section><section class="pod " id="pod_0600"><header><h2>
+      Word origins<span class="colon">:</span></h2></header><div class="sub " id="subpod_0600_1" data-mo="" data-mi="" data-s="T2xkIEZyZW5jaCAgJiN4N2M7ICBMYXRpbg==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0600_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP431820baaacc8306501f00001bih71i49d5iigf2?MSPStoreType=image/gif&amp;s=35&amp;w=133.&amp;h=18.") no-repeat; padding: 0px; width: 133px; height: 18px; display: block; position: relative;'><canvas width="133" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 133px; height: 18px; position: absolute;"></canvas><img width="133" height="18" class="maphilighted" id="i_0600_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP431820baaacc8306501f00001bih71i49d5iigf2?MSPStoreType=image/gif&amp;s=35&amp;w=133.&amp;h=18." usemap="#map-0600_136" data-attribution=""></div><map name="map-0600_136" id="map-0600_136"><area title="" href="/input/?i=Old+French&amp;lk=1&amp;a=ClashPrefs_*Language.OldFrench-" shape="rect" coords="0,0,27,18" alt="link to /input/?i=Old+French&amp;lk=1&amp;a=ClashPrefs_*Language.OldFrench-"><area title="" href="/input/?i=Old+French&amp;lk=1&amp;a=ClashPrefs_*Language.OldFrench-" shape="rect" coords="27,0,73,18" alt="link to /input/?i=Old+French&amp;lk=1&amp;a=ClashPrefs_*Language.OldFrench-"><area title="" href="/input/?i=Latin&amp;lk=1&amp;a=ClashPrefs_*Language.Latin-" shape="rect" coords="99,0,133,18" alt="link to /input/?i=Latin&amp;lk=1&amp;a=ClashPrefs_*Language.Latin-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0600_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0600_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><b class="pt fish" id="pod_0600_button"><a class="saveAsImg" href="#">Save as image »</a><a class="copyablept" href="#">Copyable plaintext »</a></b></section><section class="pod" id="pod_0700" style="display: block;"><header><h2>
+      Overall typical frequency<span class="colon">:</span></h2></header><div class="sub " id="subpod_0700_1" data-mo="" data-mi="" data-s="d3JpdHRlbiYjeDNhOyAyNjYwdGggbW9zdCBjb21tb24gICYjeDI4OzEgaW4gMjU2NDEgd29yZHMmI3gyOTsgICYjeDI4OyAmZ3Q7IDk5JiN4MjU7IG5vdW4gJiN4N2M7IDAmI3gyNTsgdmVyYiYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0700_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP432420baaacc8306501f000010d2718d01fb8f89?MSPStoreType=image/gif&amp;s=35&amp;w=468.&amp;h=18.") no-repeat; padding: 0px; width: 468px; height: 18px; display: block; position: relative;'><canvas width="468" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 468px; height: 18px; position: absolute;"></canvas><img width="468" height="18" class="maphilighted" id="i_0700_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP432420baaacc8306501f000010d2718d01fb8f89?MSPStoreType=image/gif&amp;s=35&amp;w=468.&amp;h=18." usemap="#map-0700_128" data-attribution=""></div><map name="map-0700_128" id="map-0700_128"><area title="" href="/input/?i=25641+words&amp;lk=1" shape="rect" coords="233,4,270,17" alt="link to /input/?i=25641+words&amp;lk=1"><area title="" href="/input/?i=25641+words&amp;lk=1" shape="rect" coords="272,5,303,17" alt="link to /input/?i=25641+words&amp;lk=1"><area title="" href="/input/?i=99+percent&amp;lk=1" shape="rect" coords="335,2,351,18" alt="link to /input/?i=99+percent&amp;lk=1"><area title="" href="/input/?i=99+percent&amp;lk=1" shape="rect" coords="351,4,361,17" alt="link to /input/?i=99+percent&amp;lk=1"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0700_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0700_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><hr class="div"><div class="sub " id="subpod_0700_2" data-mo="" data-mi="" data-s="c3Bva2VuJiN4M2E7IDIzNTNyZCBtb3N0IGNvbW1vbiAgJiN4Mjg7MSBpbiA0NzYxOSB3b3JkcyYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0700_2"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP432720baaacc8306501f0000248hie926252hb47?MSPStoreType=image/gif&amp;s=35&amp;w=305.&amp;h=18.") no-repeat; padding: 0px; width: 305px; height: 18px; display: block; position: relative;'><canvas width="305" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 305px; height: 18px; position: absolute;"></canvas><img width="305" height="18" class="maphilighted" id="i_0700_2" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP432720baaacc8306501f0000248hie926252hb47?MSPStoreType=image/gif&amp;s=35&amp;w=305.&amp;h=18." usemap="#map-0700_229" data-attribution=""></div><map name="map-0700_229" id="map-0700_229"><area title="" href="/input/?i=47619+words&amp;lk=1" shape="rect" coords="231,4,268,17" alt="link to /input/?i=47619+words&amp;lk=1"><area title="" href="/input/?i=47619+words&amp;lk=1" shape="rect" coords="270,5,301,17" alt="link to /input/?i=47619+words&amp;lk=1"></map></div><footer><div class="annotpod clearfix">
+        <div class="right" id="notes-MSP432820baaacc8306501f00000g9c83078if29a7f">
+ <a href="http://www5b.wolframalpha.com/Calculate/MSP/MSP432820baaacc8306501f00000g9c83078if29a7f?MSPStoreType=image/gif&amp;s=35">Definition »</a>
+</div></div></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0700_2_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0700_2_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div><hr class="div"><div class="sub " id="subpod_0700_3" data-mo="" data-mi="" data-s="JiN4Mjg7aW5jbHVkZXMgc29tZSBpbmZsZWN0ZWQgZm9ybXMmI3gyOTs=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0700_3"><img width="172" height="18" id="i_0700_3" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP433120baaacc8306501f0000674i5i9a6g15e184?MSPStoreType=image/gif&amp;s=35&amp;w=172.&amp;h=18." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0700_3_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0700_3_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_0800" style="display: block;"><header><h2>
+      Word frequency history<span class="colon">:</span></h2><ul class="h"><li class="first"><a class="menu selected jump" id="substituteValue_0800_0" href="#pulldown_0800_0">Linear scale</a><ul class="menu" id="pulldown_0800_0"><li><a class="highlight" href="pod.jsp?id=MSP187620baaga49c0i56gc00006aca032hg23cgif5&amp;s=35&amp;button=1&amp;selection=Linear+scale">Linear scale</a></li><li><a href="pod.jsp?id=MSP187620baaga49c0i56gc00006aca032hg23cgif5&amp;s=35&amp;button=1&amp;selection=Log+scale">Log scale</a></li></ul>
+</li><li><a class="menu selected jump" id="substituteValue_0800_1" href="#pulldown_0800_1">Binned</a><ul class="menu" id="pulldown_0800_1"><li><a class="highlight" href="pod.jsp?id=MSP187720baaga49c0i56gc00000g67cf620bfdf98f&amp;s=35&amp;button=1&amp;selection=Binned">Binned</a></li><li><a href="pod.jsp?id=MSP187720baaga49c0i56gc00000g67cf620bfdf98f&amp;s=35&amp;button=1&amp;selection=Raw">Raw</a></li></ul>
+</li></ul></header><div class="sub " id="subpod_0800_1" data-mo="" data-mi="" data-s="" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0800_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP188020baaga49c0i56gc000050c277h0d3gce8f9?MSPStoreType=image/gif&amp;s=35&amp;w=432.&amp;h=126.&amp;cdf=Coordinates&amp;cdf=Tooltips") no-repeat; padding: 0px; width: 432px; height: 126px; display: block; position: relative;'><canvas width="432" height="126" class="ch" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 432px; height: 126px; position: absolute;"></canvas><img width="432" height="126" class="maphilighted" id="i_0800_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP188020baaga49c0i56gc000050c277h0d3gce8f9?MSPStoreType=image/gif&amp;s=35&amp;w=432.&amp;h=126.&amp;cdf=Coordinates&amp;cdf=Tooltips" usemap="#map-0800_121" data-attribution=""></div><map name="map-0800_121" id="map-0800_121"><area title="" href="/input/?i=0%3A00am+Jan+1%2C+1539&amp;lk=1" shape="rect" coords="33,110,61,124" alt="link to /input/?i=0%3A00am+Jan+1%2C+1539&amp;lk=1"><area title="" href="/input/?i=0%3A00am+Jan+1%2C+2007&amp;lk=1" shape="rect" coords="78,110,106,124" alt="link to /input/?i=0%3A00am+Jan+1%2C+2007&amp;lk=1"><area title="" shape="rect" coords="16,6,426,88" alt="Frame"></map></div><footer><div class="annotpod clearfix">
+        <div class="right" id="notes-MSP188120baaga49c0i56gc0000200130dd8i934bai">
+ <a href="http://www5b.wolframalpha.com/Calculate/MSP/MSP188120baaga49c0i56gc0000200130dd8i934bai?MSPStoreType=image/gif&amp;s=35">Definition »</a>
+</div></div></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0800_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0800_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_0900" style="display: block;"><header><h2>
+      Inflected forms<span class="colon">:</span></h2></header><div class="sub " id="subpod_0900_1" data-mo="" data-mi="" data-s="Y2hhaW5zICAmI3g3YzsgIGNoYWluZWQgICYjeDdjOyAgY2hhaW5pbmc=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_0900_1"><img width="202" height="18" id="i_0900_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP8820bab288e08h922b00003259gae0bddh4ag8?MSPStoreType=image/gif&amp;s=35&amp;w=202.&amp;h=18." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_0900_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_0900_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1000" style="display: block;"><header><h2>
+      Synonyms<span class="colon">:</span></h2><ul class="h"><li class="first btn"><a id="substitute_1000_0" href="pod.jsp?id=MSP47120bab1i9353g3fa700004c587cf9a1i92cc9&amp;s=35&amp;button=1false">Show synonym network</a></li><li><a class="menu selected jump" id="substituteValue_1000_1" href="#pulldown_1000_1">Meanings combined</a><ul class="menu" id="pulldown_1000_1"><li><a href="pod.jsp?id=MSP47220bab1i9353g3fa700006472c3af8859fg79&amp;s=35&amp;button=1&amp;selection=Meanings+divided">Meanings divided</a></li><li><a class="highlight" href="pod.jsp?id=MSP47220bab1i9353g3fa700006472c3af8859fg79&amp;s=35&amp;button=1&amp;selection=Meanings+combined">Meanings combined</a></li></ul>
+</li></ul></header><div class="sub " id="subpod_1000_1" data-mo="" data-mi="" data-s="Y29uY2F0ZW5hdGlvbiAgJiN4N2M7ICBjaGVtaWNhbCBjaGFpbiAgJiN4N2M7ICBjaGFpbiBvZiBtb3VudGFpbnMgICYjeDdjOyAgbW91bnRhaW4gY2hhaW4gICYjeDdjOyAgbW91bnRhaW4gcmFuZ2UgICYjeDdjOyAgcmFuZ2UgICYjeDdjOyAgcmFuZ2Ugb2YgbW91bnRhaW5zICAmI3g3YzsgIHN0cmFuZCAgJiN4N2M7ICBzdHJpbmcgICAmI3gyODt0b3RhbCYjeDNhOyA5JiN4Mjk7" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1000_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP47520bab1i9353g3fa700005c8030edeb2a923a?MSPStoreType=image/gif&amp;s=35&amp;w=531.&amp;h=38.") no-repeat; padding: 0px; width: 531px; height: 38px; display: block; position: relative;'><canvas width="531" height="38" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 531px; height: 38px; position: absolute;"></canvas><img width="531" height="38" class="maphilighted" id="i_1000_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP47520bab1i9353g3fa700005c8030edeb2a923a?MSPStoreType=image/gif&amp;s=35&amp;w=531.&amp;h=38." usemap="#map-1000_131" data-attribution=""></div><map name="map-1000_131" id="map-1000_131"><area title="" href="/input/?i=concatenation&amp;lk=1&amp;a=ClashPrefs_*Word.concatenation-" shape="rect" coords="0,0,94,18" alt="link to /input/?i=concatenation&amp;lk=1&amp;a=ClashPrefs_*Word.concatenation-"><area title="" href="/input/?i=chemical+chain&amp;lk=1&amp;a=ClashPrefs_*Word.chemical+chain-" shape="rect" coords="120,0,183,18" alt="link to /input/?i=chemical+chain&amp;lk=1&amp;a=ClashPrefs_*Word.chemical+chain-"><area title="" href="/input/?i=chemical+chain&amp;lk=1&amp;a=ClashPrefs_*Word.chemical+chain-" shape="rect" coords="183,0,219,18" alt="link to /input/?i=chemical+chain&amp;lk=1&amp;a=ClashPrefs_*Word.chemical+chain-"><area title="" href="/input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-" shape="rect" coords="245,0,285,18" alt="link to /input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-"><area title="" href="/input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-" shape="rect" coords="285,0,303,18" alt="link to /input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-"><area title="" href="/input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-" shape="rect" coords="303,0,374,18" alt="link to /input/?i=chain+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.chain+of+mountains-"><area title="" href="/input/?i=mountain+chain&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+chain-" shape="rect" coords="400,0,469,18" alt="link to /input/?i=mountain+chain&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+chain-"><area title="" href="/input/?i=mountain+chain&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+chain-" shape="rect" coords="469,0,505,18" alt="link to /input/?i=mountain+chain&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+chain-"><area title="" href="/input/?i=mountain+range&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+range-" shape="rect" coords="0,19,70,37" alt="link to /input/?i=mountain+range&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+range-"><area title="" href="/input/?i=mountain+range&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+range-" shape="rect" coords="70,19,108,37" alt="link to /input/?i=mountain+range&amp;lk=1&amp;a=ClashPrefs_*Word.mountain+range-"><area title="" href="/input/?i=range&amp;lk=1&amp;a=ClashPrefs_*Word.range-" shape="rect" coords="134,19,172,37" alt="link to /input/?i=range&amp;lk=1&amp;a=ClashPrefs_*Word.range-"><area title="" href="/input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-" shape="rect" coords="198,19,240,37" alt="link to /input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-"><area title="" href="/input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-" shape="rect" coords="240,19,258,37" alt="link to /input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-"><area title="" href="/input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-" shape="rect" coords="258,19,328,37" alt="link to /input/?i=range+of+mountains&amp;lk=1&amp;a=ClashPrefs_*Word.range+of+mountains-"><area title="" href="/input/?i=strand&amp;lk=1&amp;a=ClashPrefs_*Word.strand-" shape="rect" coords="354,19,396,37" alt="link to /input/?i=strand&amp;lk=1&amp;a=ClashPrefs_*Word.strand-"><area title="" href="/input/?i=string&amp;lk=1&amp;a=ClashPrefs_*Word.string-" shape="rect" coords="422,19,460,37" alt="link to /input/?i=string&amp;lk=1&amp;a=ClashPrefs_*Word.string-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1000_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1000_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1100" style="display: block;"><header><h2>
+      Antonym<span class="colon">:</span></h2></header><div class="sub " id="subpod_1100_1" data-mo="" data-mi="" data-s="dW5jaGFpbg==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1100_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP9220bab288e08h922b00000if5b13i223a086b?MSPStoreType=image/gif&amp;s=35&amp;w=55.&amp;h=18.") no-repeat; padding: 0px; width: 55px; height: 18px; display: block; position: relative;'><canvas width="55" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 55px; height: 18px; position: absolute;"></canvas><img width="55" height="18" class="maphilighted" id="i_1100_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP9220bab288e08h922b00000if5b13i223a086b?MSPStoreType=image/gif&amp;s=35&amp;w=55.&amp;h=18." usemap="#map-1100_119" data-attribution=""></div><map name="map-1100_119" id="map-1100_119"><area title="" href="/input/?i=unchain&amp;lk=1&amp;a=ClashPrefs_*Word.unchain-" shape="rect" coords="0,0,55,18" alt="link to /input/?i=unchain&amp;lk=1&amp;a=ClashPrefs_*Word.unchain-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1100_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1100_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1200" style="display: block;"><header><h2>
+      Narrower terms<span class="colon">:</span></h2><ul class="h"><li class="first"><a class="menu selected jump" id="substituteValue_1200_0" href="#pulldown_1200_0">Meanings combined</a><ul class="menu" id="pulldown_1200_0"><li><a href="pod.jsp?id=MSP47720bab1i9353g3fa70000218b38hh099efic1&amp;s=35&amp;button=1&amp;selection=Meanings+divided">Meanings divided</a></li><li><a class="highlight" href="pod.jsp?id=MSP47720bab1i9353g3fa70000218b38hh099efic1&amp;s=35&amp;button=1&amp;selection=Meanings+combined">Meanings combined</a></li></ul>
+</li><li class="btn"><a id="substitute_1200_1" href="pod.jsp?id=MSP47820bab1i9353g3fa7000049acf1be4c24f830&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_1200_1" data-mo="" data-mi="" data-s="Y2F0ZW5hICAmI3g3YzsgIGRhaXN5IGNoYWluICAmI3g3YzsgIGNsb3NlZCBjaGFpbiAgJiN4N2M7ICBsb25nIGNoYWluICAmI3g3YzsgIGxvbmctY2hhaW4gbW9sZWN1bGUgICYjeDdjOyAgb3BlbiBjaGFpbiAgJiN4N2M7ICByaW5nICAmI3g3YzsgIGFuY2hvciBjaGFpbiAgJiN4N2M7ICBhbmNob3Igcm9wZSAgJiN4N2M7ICBiaWN5Y2xlIGNoYWluICAmI3g3YzsgIGNoYXRlbGFpbmUgICYjeDdjOyAgZm9iICAmI3g3YzsgIHBhcGVyIGNoYWluICAmI3g3YzsgIHB1bGwgY2hhaW4gICYjeDdjOyAgc25vdyBjaGFpbiAgJiN4N2M7ICAuLi4gICAmI3gyODt0b3RhbCYjeDNhOyAxMTcmI3gyOTs=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1200_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP48120bab1i9353g3fa700005he5ach4163h67g6?MSPStoreType=image/gif&amp;s=35&amp;w=566.&amp;h=57.") no-repeat; padding: 0px; width: 566px; height: 57px; display: block; position: relative;'><canvas width="566" height="57" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 566px; height: 57px; position: absolute;"></canvas><img width="566" height="57" class="maphilighted" id="i_1200_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP48120bab1i9353g3fa700005he5ach4163h67g6?MSPStoreType=image/gif&amp;s=35&amp;w=566.&amp;h=57." usemap="#map-1200_116" data-attribution=""></div><map name="map-1200_116" id="map-1200_116"><area title="" href="/input/?i=catena&amp;lk=1&amp;a=ClashPrefs_*Word.catena-" shape="rect" coords="0,0,44,18" alt="link to /input/?i=catena&amp;lk=1&amp;a=ClashPrefs_*Word.catena-"><area title="" href="/input/?i=daisy+chain&amp;lk=1&amp;a=ClashPrefs_*Word.daisy+chain-" shape="rect" coords="70,0,108,18" alt="link to /input/?i=daisy+chain&amp;lk=1&amp;a=ClashPrefs_*Word.daisy+chain-"><area title="" href="/input/?i=daisy+chain&amp;lk=1&amp;a=ClashPrefs_*Word.daisy+chain-" shape="rect" coords="108,0,144,18" alt="link to /input/?i=daisy+chain&amp;lk=1&amp;a=ClashPrefs_*Word.daisy+chain-"><area title="" href="/input/?i=closed+chain&amp;lk=1&amp;a=ClashPrefs_*Word.closed+chain-" shape="rect" coords="170,0,214,18" alt="link to /input/?i=closed+chain&amp;lk=1&amp;a=ClashPrefs_*Word.closed+chain-"><area title="" href="/input/?i=closed+chain&amp;lk=1&amp;a=ClashPrefs_*Word.closed+chain-" shape="rect" coords="214,0,250,18" alt="link to /input/?i=closed+chain&amp;lk=1&amp;a=ClashPrefs_*Word.closed+chain-"><area title="" href="/input/?i=long+chain&amp;lk=1&amp;a=ClashPrefs_*Word.long+chain-" shape="rect" coords="276,0,309,18" alt="link to /input/?i=long+chain&amp;lk=1&amp;a=ClashPrefs_*Word.long+chain-"><area title="" href="/input/?i=long+chain&amp;lk=1&amp;a=ClashPrefs_*Word.long+chain-" shape="rect" coords="309,0,345,18" alt="link to /input/?i=long+chain&amp;lk=1&amp;a=ClashPrefs_*Word.long+chain-"><area title="" href="/input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-" shape="rect" coords="371,0,405,18" alt="link to /input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-"><area title="" href="/input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-" shape="rect" coords="405,0,445,18" alt="link to /input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-"><area title="" href="/input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-" shape="rect" coords="445,0,504,18" alt="link to /input/?i=long-chain+molecule&amp;lk=1&amp;a=ClashPrefs_*Word.long%21-chain+molecule-"><area title="" href="/input/?i=open+chain&amp;lk=1&amp;a=ClashPrefs_*Word.open+chain-" shape="rect" coords="530,0,566,18" alt="link to /input/?i=open+chain&amp;lk=1&amp;a=ClashPrefs_*Word.open+chain-"><area title="" href="/input/?i=open+chain&amp;lk=1&amp;a=ClashPrefs_*Word.open+chain-" shape="rect" coords="1,19,37,37" alt="link to /input/?i=open+chain&amp;lk=1&amp;a=ClashPrefs_*Word.open+chain-"><area title="" href="/input/?i=ring&amp;lk=1&amp;a=ClashPrefs_*Word.ring-" shape="rect" coords="63,19,90,37" alt="link to /input/?i=ring&amp;lk=1&amp;a=ClashPrefs_*Word.ring-"><area title="" href="/input/?i=anchor+chain&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+chain-" shape="rect" coords="116,19,166,37" alt="link to /input/?i=anchor+chain&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+chain-"><area title="" href="/input/?i=anchor+chain&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+chain-" shape="rect" coords="166,19,202,37" alt="link to /input/?i=anchor+chain&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+chain-"><area title="" href="/input/?i=anchor+rope&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+rope-" shape="rect" coords="228,19,278,37" alt="link to /input/?i=anchor+rope&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+rope-"><area title="" href="/input/?i=anchor+rope&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+rope-" shape="rect" coords="278,19,307,37" alt="link to /input/?i=anchor+rope&amp;lk=1&amp;a=ClashPrefs_*Word.anchor+rope-"><area title="" href="/input/?i=bicycle+chain&amp;lk=1&amp;a=ClashPrefs_*Word.bicycle+chain-" shape="rect" coords="333,19,382,37" alt="link to /input/?i=bicycle+chain&amp;lk=1&amp;a=ClashPrefs_*Word.bicycle+chain-"><area title="" href="/input/?i=bicycle+chain&amp;lk=1&amp;a=ClashPrefs_*Word.bicycle+chain-" shape="rect" coords="382,19,418,37" alt="link to /input/?i=bicycle+chain&amp;lk=1&amp;a=ClashPrefs_*Word.bicycle+chain-"><area title="" href="/input/?i=chatelaine&amp;lk=1&amp;a=ClashPrefs_*Word.chatelaine-" shape="rect" coords="444,19,511,37" alt="link to /input/?i=chatelaine&amp;lk=1&amp;a=ClashPrefs_*Word.chatelaine-"><area title="" href="/input/?i=fob&amp;lk=1&amp;a=ClashPrefs_*Word.fob-" shape="rect" coords="0,38,22,56" alt="link to /input/?i=fob&amp;lk=1&amp;a=ClashPrefs_*Word.fob-"><area title="" href="/input/?i=paper+chain&amp;lk=1&amp;a=ClashPrefs_*Word.paper+chain-" shape="rect" coords="48,38,90,56" alt="link to /input/?i=paper+chain&amp;lk=1&amp;a=ClashPrefs_*Word.paper+chain-"><area title="" href="/input/?i=paper+chain&amp;lk=1&amp;a=ClashPrefs_*Word.paper+chain-" shape="rect" coords="90,38,126,56" alt="link to /input/?i=paper+chain&amp;lk=1&amp;a=ClashPrefs_*Word.paper+chain-"><area title="" href="/input/?i=pull+chain&amp;lk=1&amp;a=ClashPrefs_*Word.pull+chain-" shape="rect" coords="152,38,182,56" alt="link to /input/?i=pull+chain&amp;lk=1&amp;a=ClashPrefs_*Word.pull+chain-"><area title="" href="/input/?i=pull+chain&amp;lk=1&amp;a=ClashPrefs_*Word.pull+chain-" shape="rect" coords="182,38,218,56" alt="link to /input/?i=pull+chain&amp;lk=1&amp;a=ClashPrefs_*Word.pull+chain-"><area title="" href="/input/?i=snow+chain&amp;lk=1&amp;a=ClashPrefs_*Word.snow+chain-" shape="rect" coords="244,38,284,56" alt="link to /input/?i=snow+chain&amp;lk=1&amp;a=ClashPrefs_*Word.snow+chain-"><area title="" href="/input/?i=snow+chain&amp;lk=1&amp;a=ClashPrefs_*Word.snow+chain-" shape="rect" coords="284,38,320,56" alt="link to /input/?i=snow+chain&amp;lk=1&amp;a=ClashPrefs_*Word.snow+chain-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1200_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1200_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1300" style="display: block;"><header><h2>
+      Broader terms<span class="colon">:</span></h2><ul class="h"><li class="first"><a class="menu selected jump" id="substituteValue_1300_0" href="#pulldown_1300_0">Meanings combined</a><ul class="menu" id="pulldown_1300_0"><li><a href="pod.jsp?id=MSP433320baaacc8306501f00005dh05haf5d9aag2g&amp;s=35&amp;button=1&amp;selection=Meanings+divided">Meanings divided</a></li><li><a class="highlight" href="pod.jsp?id=MSP433320baaacc8306501f00005dh05haf5d9aag2g&amp;s=35&amp;button=1&amp;selection=Meanings+combined">Meanings combined</a></li></ul>
+</li><li class="btn"><a id="substitute_1300_1" href="pod.jsp?id=MSP433420baaacc8306501f0000662f374bf4g7i565&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_1300_1" data-mo="" data-mi="" data-s="c2VyaWVzICAmI3g3YzsgIGJ1aWxkaW5nIGJsb2NrICAmI3g3YzsgIHVuaXQgICYjeDdjOyAgbGlnYW1lbnQgICYjeDdjOyAgYnVzaW5lc3MgICYjeDdjOyAgYnVzaW5lc3MgY29uY2VybiAgJiN4N2M7ICBidXNpbmVzcyBvcmdhbmlzYXRpb24gICYjeDdjOyAgYnVzaW5lc3Mgb3JnYW5pemF0aW9uICAmI3g3YzsgIGNvbmNlcm4gICYjeDdjOyAgY29uc3RyYWludCAgJiN4N2M7ICByZXN0cmFpbnQgICYjeDdjOyAgbGluZWFyIG1lYXN1cmUgICYjeDdjOyAgbGluZWFyIHVuaXQgICYjeDdjOyAgZm9ybWF0aW9uICAmI3g3YzsgIGdlb2xvZ2ljYWwgZm9ybWF0aW9uICAmI3g3YzsgIC4uLiAgICYjeDI4O3RvdGFsJiN4M2E7IDIxJiN4Mjk7" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1300_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP433720baaacc8306501f000027h5dh1bf79e99e8?MSPStoreType=image/gif&amp;s=35&amp;w=558.&amp;h=76.") no-repeat; padding: 0px; width: 558px; height: 76px; display: block; position: relative;'><canvas width="558" height="76" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 558px; height: 76px; position: absolute;"></canvas><img width="558" height="76" class="maphilighted" id="i_1300_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP433720baaacc8306501f000027h5dh1bf79e99e8?MSPStoreType=image/gif&amp;s=35&amp;w=558.&amp;h=76." usemap="#map-1300_114" data-attribution=""></div><map name="map-1300_114" id="map-1300_114"><area title="" href="/input/?i=series&amp;lk=1&amp;a=ClashPrefs_*Word.series-" shape="rect" coords="0,0,36,18" alt="link to /input/?i=series&amp;lk=1&amp;a=ClashPrefs_*Word.series-"><area title="" href="/input/?i=building+block&amp;lk=1&amp;a=ClashPrefs_*Word.building+block-" shape="rect" coords="62,0,121,18" alt="link to /input/?i=building+block&amp;lk=1&amp;a=ClashPrefs_*Word.building+block-"><area title="" href="/input/?i=building+block&amp;lk=1&amp;a=ClashPrefs_*Word.building+block-" shape="rect" coords="121,0,157,18" alt="link to /input/?i=building+block&amp;lk=1&amp;a=ClashPrefs_*Word.building+block-"><area title="" href="/input/?i=unit&amp;lk=1&amp;a=ClashPrefs_*Word.unit-" shape="rect" coords="183,0,211,18" alt="link to /input/?i=unit&amp;lk=1&amp;a=ClashPrefs_*Word.unit-"><area title="" href="/input/?i=ligament&amp;lk=1&amp;a=ClashPrefs_*Word.ligament-" shape="rect" coords="237,0,295,18" alt="link to /input/?i=ligament&amp;lk=1&amp;a=ClashPrefs_*Word.ligament-"><area title="" href="/input/?i=business&amp;lk=1&amp;a=ClashPrefs_*Word.business-" shape="rect" coords="321,0,377,18" alt="link to /input/?i=business&amp;lk=1&amp;a=ClashPrefs_*Word.business-"><area title="" href="/input/?i=business+concern&amp;lk=1&amp;a=ClashPrefs_*Word.business+concern-" shape="rect" coords="403,0,463,18" alt="link to /input/?i=business+concern&amp;lk=1&amp;a=ClashPrefs_*Word.business+concern-"><area title="" href="/input/?i=business+concern&amp;lk=1&amp;a=ClashPrefs_*Word.business+concern-" shape="rect" coords="463,0,516,18" alt="link to /input/?i=business+concern&amp;lk=1&amp;a=ClashPrefs_*Word.business+concern-"><area title="" href="/input/?i=business+organisation&amp;lk=1&amp;a=ClashPrefs_*Word.business+organisation-" shape="rect" coords="0,19,60,37" alt="link to /input/?i=business+organisation&amp;lk=1&amp;a=ClashPrefs_*Word.business+organisation-"><area title="" href="/input/?i=business+organisation&amp;lk=1&amp;a=ClashPrefs_*Word.business+organisation-" shape="rect" coords="60,19,144,37" alt="link to /input/?i=business+organisation&amp;lk=1&amp;a=ClashPrefs_*Word.business+organisation-"><area title="" href="/input/?i=business+organization&amp;lk=1&amp;a=ClashPrefs_*Word.business+organization-" shape="rect" coords="170,19,230,37" alt="link to /input/?i=business+organization&amp;lk=1&amp;a=ClashPrefs_*Word.business+organization-"><area title="" href="/input/?i=business+organization&amp;lk=1&amp;a=ClashPrefs_*Word.business+organization-" shape="rect" coords="230,19,314,37" alt="link to /input/?i=business+organization&amp;lk=1&amp;a=ClashPrefs_*Word.business+organization-"><area title="" href="/input/?i=concern&amp;lk=1&amp;a=ClashPrefs_*Word.concern-" shape="rect" coords="340,19,392,37" alt="link to /input/?i=concern&amp;lk=1&amp;a=ClashPrefs_*Word.concern-"><area title="" href="/input/?i=constraint&amp;lk=1&amp;a=ClashPrefs_*Word.constraint-" shape="rect" coords="418,19,486,37" alt="link to /input/?i=constraint&amp;lk=1&amp;a=ClashPrefs_*Word.constraint-"><area title="" href="/input/?i=restraint&amp;lk=1&amp;a=ClashPrefs_*Word.restraint-" shape="rect" coords="0,38,56,56" alt="link to /input/?i=restraint&amp;lk=1&amp;a=ClashPrefs_*Word.restraint-"><area title="" href="/input/?i=linear+measure&amp;lk=1&amp;a=ClashPrefs_*Word.linear+measure-" shape="rect" coords="82,38,124,56" alt="link to /input/?i=linear+measure&amp;lk=1&amp;a=ClashPrefs_*Word.linear+measure-"><area title="" href="/input/?i=linear+measure&amp;lk=1&amp;a=ClashPrefs_*Word.linear+measure-" shape="rect" coords="124,38,180,56" alt="link to /input/?i=linear+measure&amp;lk=1&amp;a=ClashPrefs_*Word.linear+measure-"><area title="" href="/input/?i=linear+unit&amp;lk=1&amp;a=ClashPrefs_*Word.linear+unit-" shape="rect" coords="206,38,248,56" alt="link to /input/?i=linear+unit&amp;lk=1&amp;a=ClashPrefs_*Word.linear+unit-"><area title="" href="/input/?i=linear+unit&amp;lk=1&amp;a=ClashPrefs_*Word.linear+unit-" shape="rect" coords="248,38,276,56" alt="link to /input/?i=linear+unit&amp;lk=1&amp;a=ClashPrefs_*Word.linear+unit-"><area title="" href="/input/?i=formation&amp;lk=1&amp;a=ClashPrefs_*Word.formation-" shape="rect" coords="302,38,368,56" alt="link to /input/?i=formation&amp;lk=1&amp;a=ClashPrefs_*Word.formation-"><area title="" href="/input/?i=geological+formation&amp;lk=1&amp;a=ClashPrefs_*Word.geological+formation-" shape="rect" coords="394,38,466,56" alt="link to /input/?i=geological+formation&amp;lk=1&amp;a=ClashPrefs_*Word.geological+formation-"><area title="" href="/input/?i=geological+formation&amp;lk=1&amp;a=ClashPrefs_*Word.geological+formation-" shape="rect" coords="466,38,532,56" alt="link to /input/?i=geological+formation&amp;lk=1&amp;a=ClashPrefs_*Word.geological+formation-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1300_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1300_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1400" style="display: block;"><header><h2>
+      Rhymes<span class="colon">:</span></h2><ul class="h"><li class="first"><a class="menu selected jump" id="substituteValue_1400_0" href="#pulldown_1400_0">Sorted alphabetically</a><ul class="menu" id="pulldown_1400_0"><li><a class="highlight" href="pod.jsp?id=MSP188320baaga49c0i56gc00001ega1di2071de8e1&amp;s=35&amp;button=1&amp;selection=Sorted+alphabetically">Sorted alphabetically</a></li><li><a href="pod.jsp?id=MSP188320baaga49c0i56gc00001ega1di2071de8e1&amp;s=35&amp;button=1&amp;selection=Sorted+by+length">Sorted by length</a></li><li><a href="pod.jsp?id=MSP188320baaga49c0i56gc00001ega1di2071de8e1&amp;s=35&amp;button=1&amp;selection=Sorted+by+syllables">Sorted by syllables</a></li><li><a href="pod.jsp?id=MSP188320baaga49c0i56gc00001ega1di2071de8e1&amp;s=35&amp;button=1&amp;selection=Sorted+by+frequency">Sorted by frequency</a></li></ul>
+</li><li class="btn"><a id="substitute_1400_1" href="pod.jsp?id=MSP188420baaga49c0i56gc00000hd338c8gb003500&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_1400_1" data-mo="" data-mi="" data-s="YWJzdGFpbiAgJiN4N2M7ICBhcmNhbmUgICYjeDdjOyAgYXJyYWlnbiAgJiN4N2M7ICBhc2NlcnRhaW4gICYjeDdjOyAgYXR0YWluICAmI3g3YzsgIGJhbmUgICYjeDdjOyAgYmxhaW4gICYjeDdjOyAgYnJhaW4gICYjeDdjOyAgYnV0YW5lICAmI3g3YzsgIGNhbXBhaWduICAmI3g3YzsgIGNhbmUgICYjeDdjOyAgY2hhbXBhZ25lICAmI3g3YzsgIGNoYW1wYWlnbiAgJiN4N2M7ICBjb21wbGFpbiAgJiN4N2M7ICBjb25zdHJhaW4gICYjeDdjOyAgLi4uICAgJiN4Mjg7dG90YWwmI3gzYTsgNzcmI3gyOTsmI3hhOyYjeDI4O2Jhc2VkIG9uIHR5cGljYWwgQW1lcmljYW4gcHJvbnVuY2lhdGlvbiYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1400_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP188720baaga49c0i56gc0000698bae41i2i3be00?MSPStoreType=image/gif&amp;s=35&amp;w=552.&amp;h=78.") no-repeat; padding: 0px; width: 552px; height: 78px; display: block; position: relative;'><canvas width="552" height="78" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 552px; height: 78px; position: absolute;"></canvas><img width="552" height="78" class="maphilighted" id="i_1400_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP188720baaga49c0i56gc0000698bae41i2i3be00?MSPStoreType=image/gif&amp;s=35&amp;w=552.&amp;h=78." usemap="#map-1400_118" data-attribution=""></div><map name="map-1400_118" id="map-1400_118"><area title="" href="/input/?i=abstain&amp;lk=1&amp;a=ClashPrefs_*Word.abstain-" shape="rect" coords="0,0,48,18" alt="link to /input/?i=abstain&amp;lk=1&amp;a=ClashPrefs_*Word.abstain-"><area title="" href="/input/?i=arcane&amp;lk=1&amp;a=ClashPrefs_*Word.arcane-" shape="rect" coords="74,0,119,18" alt="link to /input/?i=arcane&amp;lk=1&amp;a=ClashPrefs_*Word.arcane-"><area title="" href="/input/?i=arraign&amp;lk=1&amp;a=ClashPrefs_*Word.arraign-" shape="rect" coords="145,0,194,18" alt="link to /input/?i=arraign&amp;lk=1&amp;a=ClashPrefs_*Word.arraign-"><area title="" href="/input/?i=ascertain&amp;lk=1&amp;a=ClashPrefs_*Word.ascertain-" shape="rect" coords="220,0,280,18" alt="link to /input/?i=ascertain&amp;lk=1&amp;a=ClashPrefs_*Word.ascertain-"><area title="" href="/input/?i=attain&amp;lk=1&amp;a=ClashPrefs_*Word.attain-" shape="rect" coords="306,0,345,18" alt="link to /input/?i=attain&amp;lk=1&amp;a=ClashPrefs_*Word.attain-"><area title="" href="/input/?i=bane&amp;lk=1&amp;a=ClashPrefs_*Word.bane-" shape="rect" coords="371,0,404,18" alt="link to /input/?i=bane&amp;lk=1&amp;a=ClashPrefs_*Word.bane-"><area title="" href="/input/?i=blain&amp;lk=1&amp;a=ClashPrefs_*Word.blain-" shape="rect" coords="430,0,464,18" alt="link to /input/?i=blain&amp;lk=1&amp;a=ClashPrefs_*Word.blain-"><area title="" href="/input/?i=brain&amp;lk=1&amp;a=ClashPrefs_*Word.brain-" shape="rect" coords="490,0,526,18" alt="link to /input/?i=brain&amp;lk=1&amp;a=ClashPrefs_*Word.brain-"><area title="" href="/input/?i=butane&amp;lk=1&amp;a=ClashPrefs_*Word.butane-" shape="rect" coords="0,20,48,38" alt="link to /input/?i=butane&amp;lk=1&amp;a=ClashPrefs_*Word.butane-"><area title="" href="/input/?i=campaign&amp;lk=1&amp;a=ClashPrefs_*Word.campaign-" shape="rect" coords="74,20,138,38" alt="link to /input/?i=campaign&amp;lk=1&amp;a=ClashPrefs_*Word.campaign-"><area title="" href="/input/?i=cane&amp;lk=1&amp;a=ClashPrefs_*Word.cane-" shape="rect" coords="164,20,196,38" alt="link to /input/?i=cane&amp;lk=1&amp;a=ClashPrefs_*Word.cane-"><area title="" href="/input/?i=champagne&amp;lk=1&amp;a=ClashPrefs_*Word.champagne-" shape="rect" coords="222,20,298,38" alt="link to /input/?i=champagne&amp;lk=1&amp;a=ClashPrefs_*Word.champagne-"><area title="" href="/input/?i=champaign&amp;lk=1&amp;a=ClashPrefs_*Word.champaign-" shape="rect" coords="324,20,396,38" alt="link to /input/?i=champaign&amp;lk=1&amp;a=ClashPrefs_*Word.champaign-"><area title="" href="/input/?i=complain&amp;lk=1&amp;a=ClashPrefs_*Word.complain-" shape="rect" coords="422,20,484,38" alt="link to /input/?i=complain&amp;lk=1&amp;a=ClashPrefs_*Word.complain-"><area title="" href="/input/?i=constrain&amp;lk=1&amp;a=ClashPrefs_*Word.constrain-" shape="rect" coords="0,38,62,56" alt="link to /input/?i=constrain&amp;lk=1&amp;a=ClashPrefs_*Word.constrain-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1400_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1400_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1500" style="display: block;"><header><h2>
+      Lexically close words<span class="colon">:</span></h2><ul class="h"><li class="first"><a class="menu selected jump" id="substituteValue_1500_0" href="#pulldown_1500_0">1-letter difference</a><ul class="menu" id="pulldown_1500_0"><li><a class="highlight" href="pod.jsp?id=MSP9420bab288e08h922b0000463f5922hb56a0e9&amp;s=35&amp;button=1&amp;selection=1-letter+difference">1-letter difference</a></li><li><a href="pod.jsp?id=MSP9420bab288e08h922b0000463f5922hb56a0e9&amp;s=35&amp;button=1&amp;selection=Up+to+2-letter+difference">Up to 2-letter difference</a></li></ul>
+</li></ul></header><div class="sub " id="subpod_1500_1" data-mo="" data-mi="" data-s="Y2hhaXI=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1500_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP9720bab288e08h922b00003h653afbi31h7276?MSPStoreType=image/gif&amp;s=35&amp;w=33.&amp;h=18.") no-repeat; padding: 0px; width: 33px; height: 18px; display: block; position: relative;'><canvas width="33" height="18" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 33px; height: 18px; position: absolute;"></canvas><img width="33" height="18" class="maphilighted" id="i_1500_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP9720bab288e08h922b00003h653afbi31h7276?MSPStoreType=image/gif&amp;s=35&amp;w=33.&amp;h=18." usemap="#map-1500_18" data-attribution=""></div><map name="map-1500_18" id="map-1500_18"><area title="" href="/input/?i=chair&amp;lk=1&amp;a=ClashPrefs_*Word.chair-" shape="rect" coords="0,0,33,18" alt="link to /input/?i=chair&amp;lk=1&amp;a=ClashPrefs_*Word.chair-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1500_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1500_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1600" style="display: block;"><header><h2>
+      Anagram<span class="colon">:</span></h2></header><div class="sub " id="subpod_1600_1" data-mo="" data-mi="" data-s="Y2hpbmE=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1600_1"><img width="36" height="18" id="i_1600_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP48520bab1i9353g3fa700004301fgff765b9ih2?MSPStoreType=image/gif&amp;s=35&amp;w=36.&amp;h=18." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1600_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1600_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1700" style="display: block;"><header><h2>
+      Phrases<span class="colon">:</span></h2><ul class="h"><li class="first btn"><a id="substitute_1700_0" href="pod.jsp?id=MSP433920baaacc8306501f000056diah04673dg9ii&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_1700_1" data-mo="" data-mi="" data-s="QWxwaW5lIGdvbGRlbiBjaGFpbiAgJiN4N2M7ICBiYWxsIGFuZCBjaGFpbiAgJiN4N2M7ICBicmFuY2hlZCBjaGFpbiAgJiN4N2M7ICBicmFuY2hlZCBjaGFpbiBrZXRvYWNpZHVyaWEgICYjeDdjOyAgY2hhaW4gYXJtb3IgICYjeDdjOyAgY2hhaW4gYXJtb3VyICAmI3g3YzsgIGNoYWluIGZlcm4gICYjeDdjOyAgY2hhaW4gZ2FuZyAgJiN4N2M7ICBjaGFpbiBsZXR0ZXIgICYjeDdjOyAgY2hhaW4gbGlnaHRuaW5nICAmI3g3YzsgIC4uLiAgICYjeDI4O3RvdGFsJiN4M2E7IDM4JiN4Mjk7" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1700_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP434220baaacc8306501f00000d0i053fgdfg8964?MSPStoreType=image/gif&amp;s=35&amp;w=565.&amp;h=57.") no-repeat; padding: 0px; width: 565px; height: 57px; display: block; position: relative;'><canvas width="565" height="57" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 565px; height: 57px; position: absolute;"></canvas><img width="565" height="57" class="maphilighted" id="i_1700_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP434220baaacc8306501f00000d0i053fgdfg8964?MSPStoreType=image/gif&amp;s=35&amp;w=565.&amp;h=57." usemap="#map-1700_127" data-attribution=""></div><map name="map-1700_127" id="map-1700_127"><area title="" href="/input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-" shape="rect" coords="0,0,46,18" alt="link to /input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-"><area title="" href="/input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-" shape="rect" coords="46,0,94,18" alt="link to /input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-"><area title="" href="/input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-" shape="rect" coords="94,0,130,18" alt="link to /input/?i=Alpine+golden+chain&amp;lk=1&amp;a=ClashPrefs_*Word.Alpine+golden+chain-"><area title="" href="/input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-" shape="rect" coords="156,0,186,18" alt="link to /input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-"><area title="" href="/input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-" shape="rect" coords="186,0,215,18" alt="link to /input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-"><area title="" href="/input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-" shape="rect" coords="215,0,251,18" alt="link to /input/?i=ball+and+chain&amp;lk=1&amp;a=ClashPrefs_*Word.ball+and+chain-"><area title="" href="/input/?i=branched+chain&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain-" shape="rect" coords="277,0,343,18" alt="link to /input/?i=branched+chain&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain-"><area title="" href="/input/?i=branched+chain&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain-" shape="rect" coords="343,0,379,18" alt="link to /input/?i=branched+chain&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain-"><area title="" href="/input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-" shape="rect" coords="405,0,471,18" alt="link to /input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-"><area title="" href="/input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-" shape="rect" coords="471,0,511,18" alt="link to /input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-"><area title="" href="/input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-" shape="rect" coords="1,19,84,37" alt="link to /input/?i=branched+chain+ketoaciduria&amp;lk=1&amp;a=ClashPrefs_*Word.branched+chain+ketoaciduria-"><area title="" href="/input/?i=chain+armor&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armor-" shape="rect" coords="110,19,150,37" alt="link to /input/?i=chain+armor&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armor-"><area title="" href="/input/?i=chain+armor&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armor-" shape="rect" coords="150,19,191,37" alt="link to /input/?i=chain+armor&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armor-"><area title="" href="/input/?i=chain+armour&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armour-" shape="rect" coords="217,19,257,37" alt="link to /input/?i=chain+armour&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armour-"><area title="" href="/input/?i=chain+armour&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armour-" shape="rect" coords="257,19,307,37" alt="link to /input/?i=chain+armour&amp;lk=1&amp;a=ClashPrefs_*Word.chain+armour-"><area title="" href="/input/?i=chain+fern&amp;lk=1&amp;a=ClashPrefs_*Word.chain+fern-" shape="rect" coords="333,19,373,37" alt="link to /input/?i=chain+fern&amp;lk=1&amp;a=ClashPrefs_*Word.chain+fern-"><area title="" href="/input/?i=chain+fern&amp;lk=1&amp;a=ClashPrefs_*Word.chain+fern-" shape="rect" coords="373,19,400,37" alt="link to /input/?i=chain+fern&amp;lk=1&amp;a=ClashPrefs_*Word.chain+fern-"><area title="" href="/input/?i=chain+gang&amp;lk=1&amp;a=ClashPrefs_*Word.chain+gang-" shape="rect" coords="426,19,466,37" alt="link to /input/?i=chain+gang&amp;lk=1&amp;a=ClashPrefs_*Word.chain+gang-"><area title="" href="/input/?i=chain+gang&amp;lk=1&amp;a=ClashPrefs_*Word.chain+gang-" shape="rect" coords="466,19,499,37" alt="link to /input/?i=chain+gang&amp;lk=1&amp;a=ClashPrefs_*Word.chain+gang-"><area title="" href="/input/?i=chain+letter&amp;lk=1&amp;a=ClashPrefs_*Word.chain+letter-" shape="rect" coords="525,19,565,37" alt="link to /input/?i=chain+letter&amp;lk=1&amp;a=ClashPrefs_*Word.chain+letter-"><area title="" href="/input/?i=chain+letter&amp;lk=1&amp;a=ClashPrefs_*Word.chain+letter-" shape="rect" coords="1,38,35,56" alt="link to /input/?i=chain+letter&amp;lk=1&amp;a=ClashPrefs_*Word.chain+letter-"><area title="" href="/input/?i=chain+lightning&amp;lk=1&amp;a=ClashPrefs_*Word.chain+lightning-" shape="rect" coords="61,38,101,56" alt="link to /input/?i=chain+lightning&amp;lk=1&amp;a=ClashPrefs_*Word.chain+lightning-"><area title="" href="/input/?i=chain+lightning&amp;lk=1&amp;a=ClashPrefs_*Word.chain+lightning-" shape="rect" coords="101,38,160,56" alt="link to /input/?i=chain+lightning&amp;lk=1&amp;a=ClashPrefs_*Word.chain+lightning-"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1700_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1700_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><section class="pod" id="pod_1800" style="display: block;"><header><h2>
+      Translations<span class="colon">:</span></h2><ul class="h"><li class="first btn"><a id="substitute_1800_0" href="pod.jsp?id=MSP188920baaga49c0i56gc00003i2356ffe867if7f&amp;s=35&amp;button=1false">More</a></li></ul></header><div class="sub " id="subpod_1800_1" data-mo="" data-mi="" data-s="SmFwYW5lc2UmI3gzYTsgICYjeDdjOyAmI3g5Mzk2OyAgJiN4Mjg7Y29tbW9uIG5vdW4mI3gyOTsgICYjeDdjOyAgJiN4OTNjODsgICYjeDI4O2NvbW1vbiBub3VuJiN4Mjk7ICAmI3g3YzsgICYjeDRlMDA7JiN4OTAyMzsgICYjeDI4O2NvbW1vbiBub3VuJiN4Mjk7ICAmI3g3YzsgICYjeDkwMjM7JiN4OTM5NjsgICYjeDI4O2NvbW1vbiBub3VuJiN4Mjk7ICAmI3g3YzsgICYjeDRlMGE7JiN4NGUwYjsmI3g1MjE3OyAgJiN4Mjg7Y29tbW9uIG5vdW4mI3gyOTsmI3hhO01hbmRhcmluJiN4M2E7ICAmI3g3YzsgJiN4OTNjODsmI3g1YjUwOyAgJiN4Mjg7bm91biYjeDI5OyYjeGE7SGluZGkmI3gzYTsgICYjeDdjOyAmI3g5MzY7JiN4OTRkOyYjeDkzMDsmI3g5NDM7JiN4OTAyOyYjeDkxNjsmI3g5MzI7JiN4OTNlOyAgJiN4Mjg7bm91biYjeDI5OyYjeGE7U3BhbmlzaCYjeDNhOyAgJiN4N2M7IGNhZGVuYSAgJiN4Mjg7Z2VuZXJhbCYjeDI5OyAgJiN4N2M7ICBlbmNhZGVuYXIgICYjeDI4O3ByaXNvbmVyJiN4Mjk7ICAmI3g3YzsgIHBvbmVyIGdyaWxsZXRlcyBhICAmI3gyODtwcmlzb25lciYjeDI5OyYjeGE7UnVzc2lhbiYjeDNhOyAgJiN4N2M7ICYjeDQ0NjsmI3g0MzU7JiN4NDNmOyYjeDQ0YzsgICYjeDI4O25vdW4mI3gyOTs=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_1800_1"><div style='background: url("http://www5b.wolframalpha.com/Calculate/MSP/MSP189220baaga49c0i56gc000068gf8ei6g908b1cf?MSPStoreType=image/gif&amp;s=35&amp;w=576.&amp;h=140.") no-repeat; padding: 0px; width: 576px; height: 140px; display: block; position: relative;'><canvas width="576" height="140" style="background: none; padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; width: 576px; height: 140px; position: absolute;"></canvas><img width="576" height="140" class="maphilighted" id="i_1800_1" style="padding: 0px; border: 0px currentColor; border-image: none; left: 0px; top: 0px; position: absolute; opacity: 0;" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP189220baaga49c0i56gc000068gf8ei6g908b1cf?MSPStoreType=image/gif&amp;s=35&amp;w=576.&amp;h=140." usemap="#map-1800_116" data-attribution=""></div><map name="map-1800_116" id="map-1800_116"><area title="" href="/input/?i=Japanese&amp;lk=1&amp;a=ClashPrefs_*Language.Japanese-" shape="rect" coords="0,0,60,18" alt="link to /input/?i=Japanese&amp;lk=1&amp;a=ClashPrefs_*Language.Japanese-"><area title="" href="/input/?i=translate+%E9%8E%96&amp;lk=1" shape="rect" coords="84,0,100,18" alt="link to /input/?i=translate+%E9%8E%96&amp;lk=1"><area title="" href="/input/?i=translate+%E9%8F%88&amp;lk=1" shape="rect" coords="223,0,238,18" alt="link to /input/?i=translate+%E9%8F%88&amp;lk=1"><area title="" href="/input/?i=translate+%E4%B8%80%E9%80%A3&amp;lk=1" shape="rect" coords="361,0,391,18" alt="link to /input/?i=translate+%E4%B8%80%E9%80%A3&amp;lk=1"><area title="" href="/input/?i=translate+%E9%80%A3%E9%8E%96&amp;lk=1" shape="rect" coords="514,0,544,18" alt="link to /input/?i=translate+%E9%80%A3%E9%8E%96&amp;lk=1"><area title="" href="/input/?i=translate+%E4%B8%8A%E4%B8%8B%E5%88%97&amp;lk=1" shape="rect" coords="201,20,246,38" alt="link to /input/?i=translate+%E4%B8%8A%E4%B8%8B%E5%88%97&amp;lk=1"><area title="" href="/input/?i=Mandarin&amp;lk=1&amp;a=ClashPrefs_*Language.ChineseMandarin-" shape="rect" coords="0,44,65,62" alt="link to /input/?i=Mandarin&amp;lk=1&amp;a=ClashPrefs_*Language.ChineseMandarin-"><area title="" href="/input/?i=translate+%E9%8F%88%E5%AD%90&amp;lk=1" shape="rect" coords="84,44,114,62" alt="link to /input/?i=translate+%E9%8F%88%E5%AD%90&amp;lk=1"><area title="" href="/input/?i=Hindi&amp;lk=1&amp;a=ClashPrefs_*Language.Hindi-" shape="rect" coords="0,70,36,88" alt="link to /input/?i=Hindi&amp;lk=1&amp;a=ClashPrefs_*Language.Hindi-"><area title="" href="/input/?i=translate+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%83%E0%A4%82%E0%A4%96%E0%A4%B2%E0%A4%BE&amp;lk=1" shape="rect" coords="84,70,128,88" alt="link to /input/?i=translate+%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%83%E0%A4%82%E0%A4%96%E0%A4%B2%E0%A4%BE&amp;lk=1"><area title="" href="/input/?i=Spanish&amp;lk=1&amp;a=ClashPrefs_*Language.Spanish-" shape="rect" coords="0,96,52,114" alt="link to /input/?i=Spanish&amp;lk=1&amp;a=ClashPrefs_*Language.Spanish-"><area title="" href="/input/?i=translate+cadena&amp;lk=1" shape="rect" coords="84,96,131,114" alt="link to /input/?i=translate+cadena&amp;lk=1"><area title="" href="/input/?i=translate+encadenar&amp;lk=1" shape="rect" coords="213,96,282,114" alt="link to /input/?i=translate+encadenar&amp;lk=1"><area title="" href="/input/?i=Russian&amp;lk=1&amp;a=ClashPrefs_*Language.Russian-" shape="rect" coords="0,120,52,138" alt="link to /input/?i=Russian&amp;lk=1&amp;a=ClashPrefs_*Language.Russian-"><area title="" href="/input/?i=translate+%D1%86%D0%B5%D0%BF%D1%8C&amp;lk=1" shape="rect" coords="84,120,117,138" alt="link to /input/?i=translate+%D1%86%D0%B5%D0%BF%D1%8C&amp;lk=1"></map></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_1800_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_1800_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a><button class="subpod-sources">Sources</button></div></div></div></section><section class="pod loading" id="pod_1900"></section><section class="pod" id="pod_2000" style="display: block;"><header><h2>
+      Crossword puzzle clues<span class="colon">:</span></h2></header><div class="sub " id="subpod_2000_1" data-mo="" data-mi="" data-s="QnVyZ2VyIEtpbmcgb3IgVGhlIEdhcCAgJiN4N2M7ICBJdGVtIG9mIG5lY2t3ZWFyICAmI3g3YzsgIEtpbmQgb2YgbGV0dGVyICAmI3g3YzsgIE1vdW50YWluIHJhbmdlICAmI3g3YzsgIFBhcnQgb2YgYSBwb3dlciBzYXcgICYjeDdjOyAgU3Byb2NrZXRzIGxpbmtlciAgJiN4N2M7ICBTdGFwbGVzLCBzYXkgICYjeDdjOyAgVGhlIEFuZGVzLCBlLmcuICAmI3g3YzsgIFdvcmQgd2l0aCBtYWlsIG9yIGxldHRlciAgICYjeDI4O3RvdGFsJiN4M2E7IDkmI3gyOTsmI3hhOyYjeDI4O2Jhc2VkIG9uIGFsbCBOZXcgWW9yayBUaW1lcyBjcm9zc3dvcmQgcHV6emxlcyAxOTk0IHRvIDIwMDkmI3gyOTs=" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_2000_1"><img width="568" height="78" id="i_2000_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP434620baaacc8306501f00002536ad8dc0951a30?MSPStoreType=image/gif&amp;s=35&amp;w=568.&amp;h=78." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_2000_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_2000_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a><button class="subpod-sources">Sources</button></div></div></div></section><section class="pod" id="pod_2100" style="display: block;"><header><h2>
+      Scrabble score<span class="colon">:</span></h2></header><div class="sub " id="subpod_2100_1" data-mo="" data-mi="" data-s="MTAgICYjeDI4O0ludGVybmF0aW9uYWwgRW5nbGlzaCYjeDI5OyAgJiN4N2M7ICAxMCAgJiN4Mjg7Tm9ydGggQW1lcmljYW4gRW5nbGlzaCYjeDI5Ow==" data-shareable="false" data-sharetype="1"><div class="subpod-wrap"><div class="output pnt" id="scannerresult_2100_1"><img width="396" height="18" id="i_2100_1" alt="" src="http://www5b.wolframalpha.com/Calculate/MSP/MSP10120bab288e08h922b00005cad9b37agfc2ibd?MSPStoreType=image/gif&amp;s=35&amp;w=396.&amp;h=18." data-attribution=""></div><footer></footer><div class="subpod-controls"><button class="action subpod-share ">Share</button><a class="action subpod-zoom " style="width: 17px;" href="#subpod_2100_1_zoom">Enlarge</a><button class="action subpod-export " style="width: 20px;">Download</button><button class="action subpod-saveas " style="width: 20px;">Customize &amp; Save Image</button><button class="action subpod-copyablept " style="width: 20px;">Copyable Text</button><a class="action subpod-ascdf cdfbutton" style="width: 20px;" href="#subpod_2100_1_cdf">Enable Interactivity</a><a class="action subpod-dlcdf">Download as CDF</a></div></div></div></section><footer id="computed"><a id="toSources" href="/input/sub.jsp?sources=AdministrativeDivisionData&amp;sources=BookData&amp;sources=BridgeData&amp;sources=BuildingData&amp;sources=CityData&amp;sources=CompanyData&amp;sources=CountryData&amp;sources=GivenNameData&amp;sources=HistoricalPeriodData&amp;sources=InternetData&amp;sources=LakeData&amp;sources=LanguageData&amp;sources=MountainData&amp;sources=MovieData&amp;sources=OceanData&amp;sources=RiverData&amp;sources=SurnameData&amp;sources=TranslationData&amp;sources=WordData" data-sources="sources=HistoricalPeriodData&amp;sources=WordData"><span></span>Sources</a><span id="downloadAs">
+    Download page<button class="cdfbutton"><span></span>CDF</button><button class="pdfbutton"><span></span>PDF</button></span><a id="computedBy" href="http://www.wolfram.com/language/">
+        Powered by the&nbsp;<b>Wolfram Language</b></a></footer><div id="wa-downloadcomputed"><p>Download full output as:</p><a class="bubblebtn" id="downloadcdf">CDF</a>&nbsp;
+    <a class="bubblebtn" id="downloadpdf">PDF</a></div><div class="notShown" id="isInstalled"><h5>To open this file you need the FREE Wolfram CDF
+        Player or Mathematica 8
+    </h5><a class="bubblebtn" id="dlPlayer" href="http://www.wolfram.com/cdf-player/">
+        Download Wolfram
+        <i>CDF Player</i></a><a class="link-text" id="dlNBFile">
+        Continue downloading file
+    </a></div><div class="lightbox lightbox-shadows" id="download-popup"><div class="notShown" id="dlFile"><img id="dlSpikey" src="/images/icons/dataexport-spikey.png"><img id="dlSpinner" src="/images/computing.gif"><div class="dlFileTypeIcon notShown" id="dlNBIcon">
+            .cdf
+        </div><div class="dlFileTypeIcon notShown" id="dlPDFIcon">
+            .pdf
+        </div><br><div class="dlBeingGenerated notShown" id="dlNBGenerated">
+            CDF is being generated...
+        </div><div class="dlBeingGenerated notShown" id="dlPDFGenerated">
+            PDF file is being generated...
+        </div></div></div></section><canvas width="650" height="365" class="nofade" id="latency"></canvas></div><!-- end solutions --><script src="/compress/javascript/latency-201509021349-min.js"></script>
+<aside class="fade" id="sidebar"><aside class="sidebarContent withBannerAd" id="share"><img id="share-txt" src="//www.wolframcdn.com/images/sharepage.png"><ul><li id="fbcontain"><a title="Share via Facebook" class="facebook jump fb on" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=facebook&amp;access_key=862353f2d9a789be97ae70fc110aca45" target="_blank">Facebook</a><div class="fbad" id="fb-root"><div style="top: -10000px; width: 0px; height: 0px; position: absolute;"><div><iframe name="fb_xdm_frame_http" title="Facebook Cross Domain Communication Frame" id="fb_xdm_frame_http" aria-hidden="true" src="http://static.ak.facebook.com/connect/xd_arbiter/wTH8U0osOYl.js?version=40#channel=f25b16b08c&amp;origin=http%3A%2F%2Fwww.wolframalpha.com" frameborder="0" scrolling="no" style="border: currentColor; border-image: none;" allowtransparency="true" tab-index="-1"></iframe><iframe name="fb_xdm_frame_https" title="Facebook Cross Domain Communication Frame" id="fb_xdm_frame_https" aria-hidden="true" src="https://s-static.ak.facebook.com/connect/xd_arbiter/wTH8U0osOYl.js?version=40#channel=f25b16b08c&amp;origin=http%3A%2F%2Fwww.wolframalpha.com" frameborder="0" scrolling="no" style="border: currentColor; border-image: none;" allowtransparency="true" tab-index="-1"></iframe></div></div></div><div class="callout popup" id="fbad"><a title="Share via Facebook" class="fb" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=facebook&amp;access_key=862353f2d9a789be97ae70fc110aca45" target="_blank">Share via Facebook </a><a id="fbimgs" href="/facebook/">Generate a free interactive personal analytics report from your Facebook data</a></div></li><li><a title="Share via Twitter" class="twitter" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;via=wolfram_alpha&amp;shorten=false&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=twitter" target="_blank">Twitter</a></li><li><a title="Share via Reddit" class="reddit" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=reddit" target="_blank">Reddit</a></li><li><a title="Share via Tumblr" class="tumblr" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%252Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=tumblr" target="_blank">Tumblr</a></li></ul><ul id="moreSocial"><li><a title="Share via LinkedIn" class="linkedin" style="display: none;" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=linkedin" target="_blank">LinkedIn</a></li><li><a title="Share via Digg" class="digg" style="display: none;" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=digg" target="_blank">Digg</a></li><li><a title="Share via StumbleUpon" class="stumbleupon" style="display: none;" href="http://wd.sharethis.com/api/sharer.php?title=WolframAlpha - chain%2Bnumber&amp;pub_key=1c0e0d54-547d-4312-9dde-61539c24e22f&amp;access_key=862353f2d9a789be97ae70fc110aca45&amp;url=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;destination=stumbleupon" target="_blank">StumbleUpon</a></li><li><a title="Share via email" class="mail" style="display: none;" href="mailto:?subject=WolframAlpha%3a%20chain+number&amp;body=%0D%0A%0D%0A%0D%0ACheck this out on Wolfram%7cAlpha.%0D%0A%0D%0AOn the web:%0D%0Ahttp%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;mail=1%0D%0A%0D%0A" target="_blank">email</a></li></ul><span id="shortUrl"><label for="shortUrlBox">Share the link directly: </label><input id="shortUrlBox" type="text" readonly="true" value="http://wolfr.am/"></span><div class="more" id="share-more"><span id="more-less">More</span></div></aside><div id="examplesContainer"></div><div id="examplesContainerPlaceholder" style="display: none; position: relative; z-index: -1;"></div><!-- moved to sidebar.debug. jsp hubertt 
+ --><aside class="sidepod" id="sponsor-ad"><img class="hide" src="/ads.txt?ad=//www.wolframcdn.com/sponsor-ads/alpha-careers.png&amp;sheight=1080&amp;swidth=1920"><a class="track-me" id="spons-bound" href="http://www.wolfram.com/company/careers/?adref=alpha-careers.png" target="_blank"></a><div class="related-content"><img class="main-img" src="//www.wolframcdn.com/sponsor-ads/alpha-careers.png"><img class="hover-img" src="//www.wolframcdn.com/sponsor-ads/alpha-careers.png"></div></aside><aside id="anywhere"><h1 class="ir">Take Wolfram|Alpha anywhere...</h1><ul><li><a href="//products.wolframalpha.com/mobile/" target="_blank"><img width="60" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAgCAMAAAB5NuugAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2tpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDE0IDc5LjE1MTQ4MSwgMjAxMy8wMy8xMy0xMjowOToxNSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDozQ0QwNzlFRTVFRUQxMUUzQkM0NkE5RjJENEQyRTdDMiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozMTk3RTY5MTZGNTgxMUUzQjg2OEIwQTYyRkI0RTFGQiIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozMTk3RTY5MDZGNTgxMUUzQjg2OEIwQTYyRkI0RTFGQiIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkMWI5NTUyMS1mYjExLTQzNDctYmJmNC00MTBiNjg3YTIzZDUiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6M0NEMDc5RUU1RUVEMTFFM0JDNDZBOUYyRDREMkU3QzIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5CtcMnAAAAZlBMVEVnjpxojpxpj51tkqBzl6R0l6R0mKV1mKV1maV3mqZ5nKiOjo6QrbeWsbuYmJiZs72ioqKju8Opv8eyxs2zxs20tLS8vLzG1NrMzMzO29/P3ODZ4+ba2trw9PXz9vf09/j5+fn////ARgvwAAAAmElEQVQ4y+2VSQ6EIBBFC6e2xQG1nSe4/yWNFTphoSaArvQtoV4oSOUDwgJ4ppwTkJBc2elCOCPsUCZxIYmJInvgRwd8NttDGZp/faNeAqA/anfAs1/5CplTfq/8zdw9eawrWtXjuexMot+T25RRlrZmslXblg8m+AMmLPlJEgN5oyzlgqaMETYvGGLaMYQBGARmAfh+NzqsDJ3LIWRtvHgAAAAASUVORK5CYII="></a><a class="popout" href="//products.wolframalpha.com/mobile/" target="_blank">Browse mobile apps</a></li><li><a href="//www.wolframalpha.com/pro/" target="_blank"><img width="30" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAAWlBMVEVnjpxxlaJ4mKV6nKiHoq2Eo6+NqrWUq7WXsbugtLygucGrvMOqwMe1xMqzxs28zdTI09fG1NrR2t3P3ODa4OPZ4+bi5+ni6uzp7e/s8fPx8/T1+Pn4+fr///9J/xMBAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8ElEQVQoz6WT4XaDIAyFrwjopNJSxaI17/+aizg7Yc7Tnd0fN8Jn9JAE0KnwN9ydYovxED+jjwWa3fKFrWo8Bw1giV3t02wGyjmm0OOlXF/a4RqpMmwz/DzHb5fFX3TxnfZ6LGu7Zc+szVlhSsvSQ1QIq9OAVmJK/i0MwUS/E268lhmeeFdUd4QBPZHBnGCIll2gonCETfS2Z4YPIlntP34DhujBYAiQUs6/lGU527Q/mL9aXf4sC/fu7VnLWqLovN8ZVkuKiq1QB5i3HfkFOHJljkeG68SVS7wWNsFfs/MAuqNB3tTo01syPv51BTN9Aj+pUGSePowxAAAAAElFTkSuQmCC"></a><a class="popout" href="//www.wolframalpha.com/pro/" target="_blank">Step up to Wolfram|Alpha Pro</a></li><li><a href="//products.wolframalpha.com/api/" target="_blank"><img width="30" height="32" title="" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAgCAMAAAAynjhNAAAAM1BMVEVnjpxxlaJ6nKiEo6+NqrWXsbugucGqwMezxs28zdTG1NrP3ODZ4+bi6uzs8fP1+Pn///9J6nmLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA3ElEQVQoz6WT2Q7EIAhFqfuCy/9/7ShaHW1jMhkesOEUvQJCPhr8hv0RG4ivOJGPF6hXzBUWLwCgrl7iigvgzhUKImrWfvrCElbbsNlwOuNVWtwxphujFteMj08mDeHE74jUAH6KVG3z0DNs1tXZTsV9NnEWkqKcFFhdeRrSQhUT+iE8YNUQp3L1xJTcMG26by46Hso3aYrwvNd+MUcYrRHsWZbau1Fzv9aUI55awvO53/sw1RQSyfgLLmGXsel17NHvAtvEsbraa8V9dkrt/ekZKHF8JTH89QQ3+wCNKCUHKAP+RAAAAABJRU5ErkJggg=="></a><a class="popout" href="//products.wolframalpha.com/api/" target="_blank">Explore our Developer API</a></li></ul></aside>
+</aside>
+</div><!-- end contents -->
+<div id="sbs-popup-container"></div><script> var inputSBS = "chain number"; </script><form class="closed" id="feedback" action="" method="post" accept-charset="UTF-8"><fieldset><span id="giveus">Give us your feedback:  </span><input id="tmpMessage" type="text" readonly="readonly" autocomplete="off"><div title="Send" class="wa-button" id="tmpSend">Send</div>
+</fieldset></form>
+<footer class="common fade"><ul><li class="noimg"><a title="About Wolfram|Alpha" href="/about.html">About</a></li><li><a title="Wolfram|Alpha Pro" href="/pro/?src=footer">Pro</a></li><li><a title="Wolfram|Alpha Products" href="http://products.wolframalpha.com/">Products</a></li><li><a title="Wolfram|Alpha Mobile Apps" href="http://products.wolframalpha.com/mobile/">Mobile Apps</a></li><li><a title="Wolfram|Alpha Business Solutions" href="http://products.wolframalpha.com/business/">Business Solutions</a></li><li><a title="Wolfram|Alpha for Developers" href="http://products.wolframalpha.com/developers/">For Developers</a></li><li><a title="Wolfram|Alpha Resources &amp; Tools" href="/resources/">Resources &amp; Tools</a></li><li class="noimg"><a title="Wolfram|Alpha Blog" href="http://blog.wolframalpha.com/">Blog</a></li><li><a title="Wolfram Community Forum" href="http://community.wolfram.com/">Community</a></li><li><a title="Participate in the Wolfram|Alpha Project" href="/participate/">Participate</a></li><li><a title="Contact Wolfram|Alpha" href="/contact.html">Contact</a></li><li class="foot-connect"><a title="Connect" class="connect" href="/social/">Connect<div class="border-connect"><i class="fb"></i><i class="tw"></i><i class="rss"></i><i class="mail"></i><i class="linkedin"></i><i class="tumblr"></i></div></a></li></ul><ul class="copy"><li class="noimg"><span title="KMS070892">©</span> 2015 Wolfram Alpha LLC—A <a href="http://www.wolfram.com/">Wolfram Research</a> Company</li><li><a title="Wolfram|Alpha Terms of Use" href="/termsofuse.html">Terms</a></li><li><a title="Wolfram|Alpha Privacy Policy" href="/privacypolicy.html">Privacy Policy</a></li></ul></footer>
+
+
+</div><!-- end #wrap --><div id="lsidebar"><aside class="sidebarLeftside" id="proSidebar"><div class="subsection" id="proside-favorites"><a class="heading empty" href="#">
+            Favorites
+        </a><div class="content"></div></div><div class="subsection" id="proside-history"><a class="heading empty " href="#">
+            History
+        </a><div class="content"></div></div><div class="subsection" id="proside-preferences"><a class="heading" id="proside-preference" href="#">Preferences</a><div class="content"></div></div><div class="subsection" id="proside-downloaddata"><a class="heading empty " href="#">
+            Downloads
+        </a><div class="content"></div></div><div class="subsection" id="proside-uploads"><a class="heading expands empty " href="#">
+            Uploads
+        </a><ul class="subnav"><li class="subsectionNav" id="proside-uploads-images">Images</li><li class="subsectionNav" id="proside-uploads-rawdata">Data Input</li><li class="subsectionNav lastNav" id="proside-uploads-generic">Files</li></ul></div><div class="subsection" id="proside-account"><a class="heading empty " href="#">
+            Account
+        </a><div class="content"></div></div><a class="close">✕</a></aside><div class="lightbox lightbox-shadows" id="preferenceBox"></div>
+
+</div><script>
+if (top !== self && top.document.domain != self.document.domain) {
+    top.location.replace(self.location.href);
+    document.body.innerHTML = "";
+}
+</script><script>
+var server = window.location.protocol+"//"+'http://www5b.wolframalpha.com'.split('/').pop(); 
+
+var parsedExpr = '5Eh\x2BRyX5OwBQ\x2FHQmu4s68jlEhHairnWkI3h1z2JscQgxvmiV8zjhPq6x1cqfgxk\x2F';
+var evalExpr = 'clzrA3F7OX5196QJSk7Uvv730By2R\x2FTN3g8tJNwsbcO1KZ3YANOYcA\x3D\x3D';
+var handwritten = '';
+var assumptionsMade = '{{\"C\", \"chain number\"} -> {\"Unit\"}}';
+var rawAssumptions = '{{\"C\", \"chain\"} -> {\"Word\", \"Unit\", \"MathWorld\", \"Movie\"}}';
+var inputEsc = 'chain+number';
+var escapedInput = "chain\x2Bnumber";
+var downloadKey = 'MSP432020baaacc8306501f00003hgii331eb7gfc2f&s=35';
+var hasTimeouts = 'True';
+var fileinput = "";
+fileinput = fileinput.replace("\/WolframAlphaProUploads\/", "");
+var isDataInput = "false";
+var isImageInput = "false";
+var isWhitelisted = "false";
+var trayParam = "";
+var isFacebookInput = false;
+var socialArchiveStatus =  "";
+
+
+var courseApp =  "";
+
+var popupJS = "/Calculate/javascript/Alpha-201509021349-popup.js";
+var iPadCSS = "/Calculate/css/iPad-min.css";
+
+
+var country = "Japan";
+
+var type = "";
+var podselector = "";
+var slinks = "false";
+
+var isPost = "false" == "true";
+var savedDataInput = "";
+
+var cdfCallouts = true;
+var user = '';
+var exportdata = '';
+var cdn = "//www.wolframcdn.com";
+
+window.machineNumber = "35";
+
+
+
+var inputFileIds = "";
+
+</script><script src="/Calculate/javascript/input.dropdown.js"></script><script src="/compress/javascript/Alpha-201509021349-init-min.js"></script><script id="ap">
+/* <![CDATA[ */
+
+
+var hasAsynch = true;
+
+
+$(function(){
+
+ if("recalculate.jsp?id=MSP431920baaacc8306501f00005i76d41bb1ba42f0&asynchronous=pod&i=chain+number&s=35&fp=1") {
+       recalculate("recalculate.jsp?id=MSP431920baaacc8306501f00005i76d41bb1ba42f0&asynchronous=pod&s=35&fp=1&i=chain+number&a=*C.chain+number-_*Unit-");
+ }
+
+
+
+});
+
+ if("recalculate.jsp?id=MSP431920baaacc8306501f00005i76d41bb1ba42f0&asynchronous=pod&i=chain+number&s=35&fp=1") {
+    $("#answers").show();
+ } else {
+   //$(document).ready(function(){$("#recalculateBar").remove();});
+ }
+
+
+
+ /* ]]> */
+</script>
+
+
+<script>
+  // loading class for fade effects
+  $(document).ready(function(){
+    if(!window.hasAsync && !window.hasRecalculate){
+      $("#answers").removeClass("loading");
+    }
+    if(window.hasAsync && !window.hasRecalculate){
+      $(document).ajaxStop(function(){$("#answers").removeClass("loading");});
+    }
+  });
+
+ setTimeout(function(){
+    $("#answers").removeClass("loading");
+  },30000);
+</script><script src="/compress/javascript/Alpha-201509021349-concatenated-min.js"></script><script src="/javascript/stepbystepex.js"></script><script src="/javascript/qckpatch.js"></script><div id="lightboxOverlay">&nbsp;</div><script>
+  // if the input is data or image or a file
+  window.isFileInput = 'False';
+</script><div class="callout" id="subpod_zoom"><div class="arrow"></div><a class="close">x</a><h3>Output Zoom</h3><p>Zoom in to see an enlarged view of any output.</p><a class="bubblebtn md-btn upgradetopro" id="subpod-zoom">
+           Subscribe to Pro
+       </a><br><a class="learn-pro" href="/pro/?src=subpod-zoom">
+           Learn about all Pro features »
+       </a></div>
+<div class="lightbox lightbox-rounded" id="butane" style="display: none;"><a class="close-btn" style="display: none;" href="#"></a><div class="lightbox-rounded" id="butane-top"><div id="butane-relativeDiv"><p id="butane-adtext">Advertisement</p></div></div><div id="butane-bottom"><a class="butane-upgrade" href="/pro/?src=1"></a></div><br class="clear"></div><script>
+function setupRandomBlockingAd(){
+    $("#butane-relativeDiv iframe").remove();
+    $("#butane-relativeDiv").append('<iframe src="/Calculate/pubmatic_popup.jsp"></iframe>');
+    trackAdInteraction("pubmatic");
+}
+
+$(document).ready(function(){
+  if (false) { //shouldShowPageLoadAd() 
+    /* TODO use butane.js */
+    setupRandomBlockingAd();
+    $("#butane iframe").load(function(){
+    	if(!$("#lightboxOverlay").is(':visible')) {
+    		showBlockingAd();
+   		}
+    });
+  } else {
+    $("#butane").hide();
+  }
+});
+</script>
+<div class="sbsform" id="addToFavForm"><a class="close" href="#">X</a><span class="arrow"></span><form id="editFav" action="/input/pro/leftsidebar/queries/managefavorites.jsp" method="POST"><h2>Edit this favorite</h2><div id="addToFavFields"><div class="f"><label for="favQuery">Query:</label><div id="favform-favQuery-wrap"><input name="query" class="required" id="favQuery" type="text" readonly="true" value=""></div></div><div class="f"><label for="favTags">Tag: </label><input name="tags" class="required" id="favTags" type="text" value=""></div><div class="f"><label for="favNotes">Notes: </label><input name="notes" id="favNotes" type="text" value=""></div></div><!--fields --><a id="favRemove" style="display: none;" type="submit" formmethod="post" formaction="/input/pro/leftsidebar/queries/managefavorites.jsp">Remove from favorites</a><div class="favbuttons"><button class="bubblebtn" id="favDone">Done</button><br class="clr"></div></form></div>
+<div class="tipbubble-simple" id="pro-tipbubble">&nbsp;</div><script>
+    window.user = new User({
+                     "signedin": false,
+	
+                      "prologo": false,
+                "trialeligible": true,
+                 "needsupgrade": false,
+              "hassubscription": false,
+                      "haspaid": false,
+                     "hastrial": false,
+          "hadpaidsubscription": false,
+                     "hadTrial": false,
+                 "hascancelled": false,
+		
+                    "favorites": false,
+                      "history": false,
+                  "saveasimage": false,
+                "customization": false,
+                 "downloaddata": false,
+                   "imageinput": false,
+                    "datainput": false,
+                      "fupload": false,
+                         "zoom": false,
+                     "keyboard": false,
+                          "cdf": false,
+                          "pdf": false,
+                        "embed": false,
+           "generalpreferences": false,
+            "resultpreferences": false,
+          "storedownloadeddata": false,
+                    "removeads": false,
+               "cdfinteractive": false,
+               "longertimeouts": false,
+                "copyplaintext": false,
+                    "showsteps": false,
+              "downloadblocked": false,
+                "uploadblocked": false
+    });
+    window.prolevel = "0";
+
+</script><script>
+    $(document).ready(function(){
+      $(".pod img[usemap]").maphilight();
+    });
+</script><!--[if lt IE 10]><script src="/compress/javascript/Alpha-201509021349-ie-min.js"></script><![endif]--><script>
+/* <![CDATA[ */
+
+$(document).ready(function() {
+
+    //calculate offset of sharewidget based on result pods
+     var topVal = $('#results').offset().top;
+     topVal = topVal.toString() + "px";
+     if(typeof $.addWolframShareWidget === "function") {
+         $.addWolframShareWidget({topValue: topVal});	 
+     } else {
+         console.warn("Wolfram Share Widget has been disabled.");
+     }
+
+    
+});
+
+  jsonArray.relatedQueries = {};
+  jsonArray.relatedQueries.id = "MSP429220baaacc8306501f00005ff5eig7ah29a6b8";
+  jsonArray.relatedQueries.server = "35";
+
+
+
+    inst = "PRD";
+    checkForSessionTimeout();
+
+/* ]]> */
+</script><script>
+  $("#sources .content ul ul li a, .keypopup a[rel=external], #navMore ul#more li a").live("click.pageTracker", function(e){
+      ga('linker:autoLink', [this.href]);
+  });
+
+  $("#relatedlinks div[id^=relatedLink]").live("click.pageTracker", function(e){
+      ga('linker:autoLink', [$(this).find("a[id^=siteLink]").get(0).href]);
+  });
+</script><script src="/Calculate/javascript/share.aside.js"></script><script>(function() {
+var stscr = document.createElement('script'); stscr.type = 'text/javascript'; stscr.async = true;
+stscr.src = window.location.protocol + "//w.sharethis.com/button/light.js#publisher=1c0e0d54-547d-4312-9dde-61539c24e22f";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(stscr, s);
+})();
+</script><script>
+$(document).ready(function(){
+//Open lightbox if lbox-parameter is set
+ (function ($) {
+	var openLb = $.cookie("wa_sle" + getAuthIns());
+    if(openLb && openLb.length > 0) {
+ 		 $('#proside-account a').trigger('click');
+ 	}
+ })(jQuery);
+});
+
+
+</script><script>
+if(!(new RegExp("(?:^|;\\s*)" + escape("CookieWarning").replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=")).test(document.cookie)){
+    document.write('\x3Cscr'+'ipt src="cookietest.jsp" type="text/javascript">\x3C'+'/script>');
+}
+</script><script src="/Calculate/javascript/sbsExamples.js"></script><script src="/Calculate/javascript/examples.aside.js"></script><script>
+$(document).ready(function(){
+  window.docReadyTime = (new Date).getTime() - window.startTime;
+  $(window).load(function(){window.pageLoadTime = (new Date).getTime() - window.startTime; $("#answers").removeClass('loading');});
+ 
+  $(window).unload(function(e){
+      $.ajax("render.txt?docReady="+window.docReadyTime+"&pageLoadTime="+window.pageLoadTime+"&lastPodTime="+window.lastPodTime+"&p="+$('#answers .pod').length);  
+  });
+});
+
+</script><script>
+function resultsLoadRelatedQ(callback){
+     //lk url param for examples clicked on from example page, examplefile param for examples clicked from home page
+     if (typeof jsonArray.relatedQueries != "undefined" && getURLParam('lk') != "3" && getURLParam("examplefile") != "1" ){
+         $.get("/input/queries.aside.jsp",{'id':jsonArray.relatedQueries.id, 's':jsonArray.relatedQueries.server,'pro':1 },function(data) {
+         var jqobj=$(data);
+         if (jqobj.get(0).id != "relatedq-wrap") {
+             //possibleHideRelatedQ();
+         } else if (jqobj.find("a").length > 0) {
+            $("#results").append('<aside id="relatedQueries"><h1>Related Queries:</h1></aside>');
+            $("#relatedQueries").append(jqobj);
+         }
+         // else prosideHideRelatedQ();
+
+         if (typeof callback == "function")
+            callback();
+         }).error(function(){
+            //prosideHideRelatedQ();
+       });
+       } else {
+           //prosideHideRelatedQ();
+      }
+}
+resultsLoadRelatedQ();
+
+
+// Function to load examples for sbs pop-up
+function loadInteractiveSBSExamples (categoryList) {
+    // only load SBS if input parsed
+    if (categoryList && categoryList.length > 0) {
+        // load SBS examples for category list
+        buildSBSExamples(categoryList);
+    }
+}
+if (typeof categories !== 'undefined') {
+    // Call to function to load examples for sbs pop-up
+    loadInteractiveSBSExamples(categories);
+}
+
+function loadProFeaturesExamples() {
+    if (isWhitelisted == "true" && getURLParam("lk") == "3") {
+      if (typeof categories !== 'undefined') {
+        loadProExamples(categories);
+      } else {
+        loadProExamples("");
+      }
+    } else if (isImageInput == "true") {
+        loadProExamples("ImageInput");
+    } else if (isDataInput == "true") {
+        loadProExamples("DataInput");
+    } else if (isFileInput == "True") {
+        loadProExamples("FileUpload");
+    }
+}
+
+loadProFeaturesExamples();
+
+if (isWhitelisted == "true" && location.search.indexOf('lk=3') > -1 && localStorage.getItem('viewedSBS') != 1) {
+    $(".popupbutton:first").addClass("sbsexample");
+}
+
+</script><!-- Web tracking implementation --><script type="text/javascript"></script><script>
+if(window.userEmail)
+{
+}
+else{
+}
+</script><!-- End of Web tracking implementation --><script src="//www.wolframcdn.com/ajax/libs/jquery-wolfram-sharewidget/1.0.6/jquery-wolfram-sharewidget.js"></script><script type="text/javascript">
+//true
+  try {
+    document.domain = "wolframalpha.com";
+    context = parent ? parent : document;
+    } catch(e){}
+    try {
+        if (typeof(context.$) == "undefined") {
+            context = window;
+        } else {
+            $=context.$;
+        }
+    }
+    catch(e){ context = window;}
+
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0100 == "undefined" ) {
+    context.jsonArray.popups.pod_0100 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0100.push( {"stringified": "chain  (English word)","mInput": "WordData[&amp;quot;chain&amp;quot;]","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0100:not(iframe #pod_0100)")
+.add("#showsteps #pod_0100:not(iframe #pod_0100)")
+.add(".results-pod #pod_0100:not(iframe #pod_0100)")
+	.data("tempFileID", 'MSP429320baaacc8306501f00006018943h553hf3a6')
+	.data("podIdentifier", '\x22Input\x22')
+	.data("podShortIdentifier", '\x22Input\x22')
+	.data("buttonStates", '\x22\x22')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0100-popup:not(iframe #pod_0100-popup)")
+.add("#showsteps #pod_0100-popup:not(iframe #pod_0100-popup)")
+.add(".results-pod #pod_0100-popup:not(iframe #pod_0100-popup)")
+        .data("tempFileID", 'MSP429320baaacc8306501f00006018943h553hf3a6')
+        .data("podIdentifier", '\x22Input\x22')
+        .data("podShortIdentifier", '\x22Input\x22')
+        .data("buttonStates", '\x22\x22')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0100_1")
+  .add("#showsteps #subpod_0100_1:not(iframe #subpod_0100_1)")
+  .add(".results-pod #subpod_0100_1")
+        .data("tempFileID", "MSP429420baaacc8306501f0000601d54734e4hccdb")
+        .data("cellDataTempFile", "MSP429520baaacc8306501f000066adgcg8c9b3giah")
+        .data("tempFileServer", "")
+        .data("dataSources", "")
+        .data("sources", "sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+
+//false
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0200 == "undefined" ) {
+    context.jsonArray.popups.pod_0200 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0200.push( {"stringified": "1 | noun | a series of things depending on each other as if linked together\n2 | noun | (chemistry) a series of linked atoms (generally in an organic molecule)\n3 | noun | a series of (usually metal) rings or links fitted into one another to make a flexible ligament\n4 | noun | (business) a number of similar establishments (stores or restaurants or banks or hotels or theaters) under one ownership\n5 | noun | anything that acts as a restraint\n6 | noun | a unit of length\n7 | noun | a series of hills or mountains\n8 | noun | a linked or connected series of objects\n(11 meanings)","mInput": "","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0200:not(iframe #pod_0200)")
+.add("#showsteps #pod_0200:not(iframe #pod_0200)")
+.add(".results-pod #pod_0200:not(iframe #pod_0200)")
+	.data("tempFileID", 'MSP429720baaacc8306501f00002abg70dcg585gh0b')
+	.data("podIdentifier", '\x22Definition\x3AWordData\x22')
+	.data("podShortIdentifier", '\x22Definition\x3AWordData\x22')
+	.data("buttonStates", '\x22Definitions\x22\x20\x2D\x3E\x20\x7B1,\x20\x22Partial\x22\x20\x2D\x3E\x208\x7D')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0200-popup:not(iframe #pod_0200-popup)")
+.add("#showsteps #pod_0200-popup:not(iframe #pod_0200-popup)")
+.add(".results-pod #pod_0200-popup:not(iframe #pod_0200-popup)")
+        .data("tempFileID", 'MSP429720baaacc8306501f00002abg70dcg585gh0b')
+        .data("podIdentifier", '\x22Definition\x3AWordData\x22')
+        .data("podShortIdentifier", '\x22Definition\x3AWordData\x22')
+        .data("buttonStates", '\x22Definitions\x22\x20\x2D\x3E\x20\x7B1,\x20\x22Partial\x22\x20\x2D\x3E\x208\x7D')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0200_1")
+  .add("#showsteps #subpod_0200_1:not(iframe #subpod_0200_1)")
+  .add(".results-pod #subpod_0200_1")
+        .data("tempFileID", "MSP430020baaacc8306501f00004cb34735dbh43e8d")
+        .data("cellDataTempFile", "MSP430120baaacc8306501f000059ag7c5e03dei4bf")
+        .data("tempFileServer", "")
+        .data("dataSources", "")
+        .data("sources", "sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+
+//false
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0300 == "undefined" ) {
+    context.jsonArray.popups.pod_0300 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0300.push( {"stringified": "ch\'eyn  (IPA: t&#643;&#712;e&#618;n)","mInput": "","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0300:not(iframe #pod_0300)")
+.add("#showsteps #pod_0300:not(iframe #pod_0300)")
+.add(".results-pod #pod_0300:not(iframe #pod_0300)")
+	.data("tempFileID", 'MSP430320baaacc8306501f00002dh5b833ai5bed4h')
+	.data("podIdentifier", '\x22Pronunciation\x3AWordData\x22')
+	.data("podShortIdentifier", '\x22Pronunciation\x3AWordData\x22')
+	.data("buttonStates", '\x22\x22')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0300-popup:not(iframe #pod_0300-popup)")
+.add("#showsteps #pod_0300-popup:not(iframe #pod_0300-popup)")
+.add(".results-pod #pod_0300-popup:not(iframe #pod_0300-popup)")
+        .data("tempFileID", 'MSP430320baaacc8306501f00002dh5b833ai5bed4h')
+        .data("podIdentifier", '\x22Pronunciation\x3AWordData\x22')
+        .data("podShortIdentifier", '\x22Pronunciation\x3AWordData\x22')
+        .data("buttonStates", '\x22\x22')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0300_1")
+  .add("#showsteps #subpod_0300_1:not(iframe #subpod_0300_1)")
+  .add(".results-pod #subpod_0300_1")
+        .data("tempFileID", "MSP430420baaacc8306501f00001die541g771i335b")
+        .data("cellDataTempFile", "MSP430520baaacc8306501f000058bec2d1274735i9")
+        .data("tempFileServer", "")
+        .data("dataSources", "")
+        .data("sources", "sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+
+//false
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0400 == "undefined" ) {
+    context.jsonArray.popups.pod_0400 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0400.push( {"stringified": "chain  (no hyphenation)  (5 letters  | 1 syllable)","mInput": "","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0400:not(iframe #pod_0400)")
+.add("#showsteps #pod_0400:not(iframe #pod_0400)")
+.add(".results-pod #pod_0400:not(iframe #pod_0400)")
+	.data("tempFileID", 'MSP430720baaacc8306501f000013b9192ea5h4111a')
+	.data("podIdentifier", '\x22Hyphenation\x3AWordData\x22')
+	.data("podShortIdentifier", '\x22Hyphenation\x3AWordData\x22')
+	.data("buttonStates", '\x22\x22')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0400-popup:not(iframe #pod_0400-popup)")
+.add("#showsteps #pod_0400-popup:not(iframe #pod_0400-popup)")
+.add(".results-pod #pod_0400-popup:not(iframe #pod_0400-popup)")
+        .data("tempFileID", 'MSP430720baaacc8306501f000013b9192ea5h4111a')
+        .data("podIdentifier", '\x22Hyphenation\x3AWordData\x22')
+        .data("podShortIdentifier", '\x22Hyphenation\x3AWordData\x22')
+        .data("buttonStates", '\x22\x22')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0400_1")
+  .add("#showsteps #subpod_0400_1:not(iframe #subpod_0400_1)")
+  .add(".results-pod #subpod_0400_1")
+        .data("tempFileID", "MSP430820baaacc8306501f0000116743ie18hc4i81")
+        .data("cellDataTempFile", "MSP430920baaacc8306501f00000gdfhbe33g249ci3")
+        .data("tempFileServer", "")
+        .data("dataSources", "")
+        .data("sources", "sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+
+//false
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0500 == "undefined" ) {
+    context.jsonArray.popups.pod_0500 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0500.push( {"stringified": "1300  (High Middle ages)  (715 years ago)","mInput": "","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0500:not(iframe #pod_0500)")
+.add("#showsteps #pod_0500:not(iframe #pod_0500)")
+.add(".results-pod #pod_0500:not(iframe #pod_0500)")
+	.data("tempFileID", 'MSP431120baaacc8306501f000024a7a5d28b258bhb')
+	.data("podIdentifier", '\x22FirstRecordYear\x3AWordData\x22')
+	.data("podShortIdentifier", '\x22FirstRecordYear\x3AWordData\x22')
+	.data("buttonStates", '\x22First\x20known\x20use\x20in\x20English\x22\x20\x2D\x3E\x20\x7B\x22SubpodTitle\x22\x20\x2D\x3E\x20\x28\x231\x5B\x5B1\x5D\x5D\x20\x26\x20\x29\x7D')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0500-popup:not(iframe #pod_0500-popup)")
+.add("#showsteps #pod_0500-popup:not(iframe #pod_0500-popup)")
+.add(".results-pod #pod_0500-popup:not(iframe #pod_0500-popup)")
+        .data("tempFileID", 'MSP431120baaacc8306501f000024a7a5d28b258bhb')
+        .data("podIdentifier", '\x22FirstRecordYear\x3AWordData\x22')
+        .data("podShortIdentifier", '\x22FirstRecordYear\x3AWordData\x22')
+        .data("buttonStates", '\x22First\x20known\x20use\x20in\x20English\x22\x20\x2D\x3E\x20\x7B\x22SubpodTitle\x22\x20\x2D\x3E\x20\x28\x231\x5B\x5B1\x5D\x5D\x20\x26\x20\x29\x7D')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0500_1")
+  .add("#showsteps #subpod_0500_1:not(iframe #subpod_0500_1)")
+  .add(".results-pod #subpod_0500_1")
+        .data("tempFileID", "MSP431220baaacc8306501f00003ea4ae5ec01fi2fg")
+        .data("cellDataTempFile", "MSP431320baaacc8306501f00001a2e3b30aha2b47e")
+        .data("tempFileServer", "")
+        .data("dataSources", "TheWikimediaFoundationIncWikipedia")
+        .data("sources", "sources=HistoricalPeriodData&sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+
+//false
+
+try {
+
+  if (typeof context.jsonArray.popups.pod_0600 == "undefined" ) {
+    context.jsonArray.popups.pod_0600 = [];
+  }
+
+
+
+  context.jsonArray.popups.pod_0600.push( {"stringified": "Old French  |  Latin","mInput": "","mOutput": "", "popLinks": {} });
+
+
+} catch(e) { }
+
+
+try {
+
+
+
+$("#results #pod_0600:not(iframe #pod_0600)")
+.add("#showsteps #pod_0600:not(iframe #pod_0600)")
+.add(".results-pod #pod_0600:not(iframe #pod_0600)")
+	.data("tempFileID", 'MSP431520baaacc8306501f00002c3ffi8i762ed7bf')
+	.data("podIdentifier", '\x22LanguageOrigin\x3AWordData\x22')
+	.data("podShortIdentifier", '\x22LanguageOrigin\x3AWordData\x22')
+	.data("buttonStates", '\x22\x22')
+	.data("scanner", '\x22\x22');
+$("#results #pod_0600-popup:not(iframe #pod_0600-popup)")
+.add("#showsteps #pod_0600-popup:not(iframe #pod_0600-popup)")
+.add(".results-pod #pod_0600-popup:not(iframe #pod_0600-popup)")
+        .data("tempFileID", 'MSP431520baaacc8306501f00002c3ffi8i762ed7bf')
+        .data("podIdentifier", '\x22LanguageOrigin\x3AWordData\x22')
+        .data("podShortIdentifier", '\x22LanguageOrigin\x3AWordData\x22')
+        .data("buttonStates", '\x22\x22')
+        .data("scanner", '\x22\x22');
+
+  $("#results #subpod_0600_1")
+  .add("#showsteps #subpod_0600_1:not(iframe #subpod_0600_1)")
+  .add(".results-pod #subpod_0600_1")
+        .data("tempFileID", "MSP431620baaacc8306501f0000462eh17ai16i74b4")
+        .data("cellDataTempFile", "MSP431720baaacc8306501f00003h7d7hhee9c47b45")
+        .data("tempFileServer", "")
+        .data("dataSources", "")
+        .data("sources", "sources=WordData")
+        .data("sharetype", "1")
+        .data("shareable", "false");
+        
+} catch(e){}
+
+</script>
+<div class="callout" id="subpod_cdf"><div class="arrow"></div><a class="close">x</a><h3>CDF Interactivity</h3><p>Bring Wolfram|Alpha output to life with CDF interactivity.</p><img src="/images/pro/cdf-adstate.png"><a class="bubblebtn  adbtn-upgradepro">Subscribe to Pro</a><br><a class="learn-pro" href="/pro/?src=subpod-cdf">
+                 Learn about all Pro features »
+                 </a></div>
+<div id="popanchor"></div><arclones><textarea tabindex="-1" disabled="disabled" class="ar1441965049478" style='padding: 5px; left: -9999px; top: -9999px; width: 100px; height: 0px; text-align: left; text-transform: none; line-height: 16px; letter-spacing: normal; overflow: hidden; font-family: Consolas,"Lucida Console","Andale Mono","Nimbus Mono L",monospace; font-size: 12px; font-style: normal; font-weight: 400; text-decoration: none; word-spacing: 0px; position: absolute; direction: ltr; -ms-overflow-y: hidden; font-size-adjust: none; opacity: 0;' autocomplete="off"></textarea></arclones><div><script type="text/x-handlebars-template" data-id="facebook-fyi">
+        <header><h1><b class="spikeyFB"></b><b class="facebook-large"></b>For Your Information</h1></header>
+        <p>We're adding a new feature that will allow you to compare your analytics with a large-scale sample of Facebook users.</p>
+        <p>To make this possible, we're going to be collecting anonymized statistics from Facebook reports that we generate.  We will not store any personally identifiable information without specific permission.</p>
+        <p><a href="/fbfaqs.html" target="_blank">Learn more about how we handle Facebook data in our FAQ&nbsp;&raquo;</a></p>
+        <a href="" class="bubblebtn  md-btn">Generate My Report</a> 
+</script>
+<script type="text/x-handlebars-template" data-id="facebook-htb">
+       <img height="53" width="81" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAA1CAYAAAA56gd6AAAAB3RJTUUH3AwRDhI016MCYwAABWVJREFUeNrtm1tsFHUYxX9z6+xsL6usUi6GVJBLLRok+kICL9y8JIDES0gQDRclwUQSo2JITEg0GIyRKCQQYn1ofMAXwai09MUKAgW00FKsEqVi0RbZrUK7O7Nz86G0SHDbvcy22+18yT7998tmz35zvnPOzAq9vb0ufmVUwWAQANGHIvvyQfRBzI+SxzoAruviui6O4+A4DoIgIAgCoigiiqIPYioA2rZNIpHAvXwM9eIBXCmAPn0V8vgqFEVBFEUEQfAv52TlOA6GYaB88wp3N22l7I4QIQ3GN6xGPvJGH7iu60/iYGXbNtLZXYScTnh0382Dymcpq9vI1YuHsac/PuRlLY51EEsu1MCcl249kFSY/QKBtk+wbdvfzkNxohz/A4rLbz8smYQS6/AlzlAl6V3oSjlcPnH74Z8n0SfMH3KpFBQnpiNVhGvtKD+8j3Lhc2J3zYOT74FaBuUP9b3h4mE4uw9z+RFUWR4bIKYqVaToeeQzHyL9Vov14CYSz53DETS62/ajfl9NsGcLWAbXJy7BXPQZcnh6SlpRKIQAwrZtdF2nqGEzoZ5mqFgElgG/fMW1CUuwZ62ipGUncudxzLmvYlWtBaVkQObYto1lWbixCCgaghJEURQkSRr0cu4PIAoCxEQigXP6A8ZFj8KCd/6DrgF1G/kncgV53haEB9aCrCWd5oHJSoEHhyXF6ecny7JIJBKYpollWTiOM+xSRZo4F6NyXVIA+4Hrf+WFd/bKTnknVS6TGG0pjld2KuUvIYrExs/PWqrkVYrjlZ1KtRTjL5y/27OWKnkHYumFGlj4blI7lZi6FEVRsp/CzkbUQ6uJV62nOzAxK6mSVyAOyVG9lzzhKLm1GuXk2yQW7oV7FiLaNvEZTxNLU6rkJSf2cdSCpBxldbdT1LwLzJ4MRz1BUcNm5Obd6CvrsacsRhRFFEUhEAigjZuMVjoOTdOQZTmnAOYMRFmWMUMz+ziqq+nmwQ2O0pd+itJ9Dq2mCrllD1jxlKWREOsicPAJhFgX+lMNuKFpnkmVTCsnYls8XwPfvYVeuYGijsMEe366yVFV6xGnLOi7zKLnUU5tR+xsxHz4dcxZa7CRbpNGxg1ppEab0erXYN//POYjb464yM+ZY5Fbq1FObSe+7EvM0qkp2SnxajPKiW24V1u5Pnsz4pXThHpabrFv1wMVSNFWhCV7ce99LC+cUk5AlFv2oDTtRF9Ri1tWkbadsjqOQ92LlJVX/K99i0zbgDxnnSdb3UsQPeNE5fQOlDMfoT9ZPwBguhxlhucQkN2k9k39vTalpHm4yxOJozRuQ/r1C/SV9bjFk3Jo3zpyat9GbDsrx7YitddirKjLCsBUpFGu7VvOJnGwxDhw9DXEzkaM5V/jBu70RBoZlWspOf7yiNi3nEicZGmMcd8zBNs+Rr32M+ayA6CGPAsuTNOEtv2oP1YnlUb5Mo0pbefBEuMe3cRYdQo1GPLUl2aTNI8UiHKmaUxJ3Ub0S996msb086IoisiyDIHJKUmjvF4sXt3czohnRsC+5QREr25uF3qJhSg58grEfsmRLI0xq9b3cdcYr0G382iTHHkbQIwmyZGXEme0So68DSB84HIYQPjlgzj8IAZ3FxPcXUwsFkvLqRR6X0aTGI1GMQzD78sGRF3XM3q6q1D7BHcH/r9MM6zYpl5UVfUXSzYViUQwDKPPsUQiEeLx+JBNMw7OBODM4iZUVUWSpJQ+rFD7NE0jHA4jq6pKOBxOaxv192ialtYvV2h9kiShqiqyJEkDHjDVkiQJTdMoLS31+wDBTeOR1VgsRiQSASAcDqcMfqH3pQWibdsD+ikdrin0vn8B6eyubX/JHhgAAAAASUVORK5CYII=" /> <a href="">Track how your network is changing. Turn on historical analytics &raquo;</a>
+</script>
+
+<script type="text/x-handlebars-template" data-id="facebook-sap">
+        <header><h1>Start Archiving Data for Historical Analytics</h1><a href="#" class="close">x</a></header>
+        <p><strong>In order to track network changes over time, we need to archive your personal analytics data. The data will be kept private and will only be used to generate reports for you.</strong></p>
+        <p><a href="/fbfaqs.html" target="_blank">Learn more about how we handle Facebook data in our FAQ&nbsp;&raquo;</a></p>
+        <form>
+            <input type="submit" class="bubblebtn md-btn" value="Start Archiving My Data" />
+            <strong>Become a Data Donor (Optional)<a class="ddd" href="#ddd">?</a></strong><br /><label><input type="checkbox" name="datadonor" /><b>Yes, I want to support your research on personal analytics and sociometrics by donating my archive to your research collection.</b></label> 
+            <div id="ddd" class="callout left popup"><a class="close">x</a><strong>Enabling this option will add your Facebook data to our research collection.</strong>
+              <ul>
+              <li>The data will include your name and profile picture.</li>
+              <li>It will not include any photos or private messages.</li>
+              <li>Your personal information will never be published, though it will be accessible to our research team for their continued research in personal analytics and sociometrics.</li>
+              <li>Your information will never be sold or used for marketing purposes.</li>
+              <li>If at any time you want to stop your future data from being archived, you can turn off data donation in your preferences.</li>
+              <li>Your data donation will help advance the science of personal analytics and sociometrics.</li>
+             </ul>
+           </div>
+        </form>
+</script>
+
+<script type="text/x-handlebars-template" data-id="facebook-asp">
+        <header><h1>Your Data Is Being Archived</h1><a href="#" class="close">x</a></header> 
+        <p>
+			Data from this report and any future Facebook reports you generate will be archived. You can visit your account settings to turn off data archiving at any time.
+		</p>
+        <p>You'll get an email when historical analytics are available in your report.</p>
+
+        <a href="" class="bubblebtn md-btn">Close</a>
+</script>
+
+</div><iframe name="stSegmentFrame" width="0" height="0" id="stSegmentFrame" src="http://seg.sharethis.com/getSegment.php?purl=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Dchain%2Bnumber%26a%3D*C.chain%2Bnumber-_*Unit-&amp;jsref=&amp;rnd=1441965055632" frameborder="0" scrolling="no"></iframe></body>

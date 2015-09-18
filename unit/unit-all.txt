@@ -1,0 +1,3533 @@
+﻿acre
+absorbance unit
+acoustic ohm
+acre foot
+acre inch
+admiralty mile
+aeon
+agate
+agate line
+air mass
+air watt
+ale gallon
+allergy unit
+almude
+alpha te
+alqueire
+amagat
+amber
+american run
+ampere
+ampere hour
+ampere per meter
+ampere turn
+ampere-turn per meter
+amphora
+anatomical chinese inch
+anchor
+angstrom
+angstrom star
+angular mil
+animal unit
+anker
+anna
+annual percentage rate
+apgar score
+api degree
+api gravity
+apostilb
+apothecary weights
+arcminute
+arcsecond
+arm's-length
+arpent
+arratel
+arroba
+arshin
+artaba
+artel
+asa number
+assay ton
+astronomical unit
+atmo-meter
+atmos
+atmosphere
+atom
+atomic mass unit
+atomic number
+aught
+avoirdupois weights
+b/d
+bag
+baht
+baker's dozen
+bale
+ball
+balling
+balthazar
+bank cubic meter
+bar
+bar abs
+bar dif
+bar liter
+barg
+barge
+barleycorn
+barn
+barrel
+barrel bulk
+barrer
+barrique
+barye
+basis weight
+bau
+baud
+baumé
+bc
+bce
+bcfe
+bcm
+bead sizes
+beaufort scale
+becquerel
+bee space
+beer gallon, beer and ale gallon
+bel
+bev
+bhp
+bi-
+biannually
+bicron
+biennium
+bigha
+billennium
+billet
+billiard
+billion
+bimester
+bimillennium
+bind
+biot
+bips
+bit
+bit per second
+blink
+block
+blondel
+blood alcohol level
+bn
+board foot
+board of trade unit
+body inch
+body mass index
+boe
+bohr
+bohr radius
+boiler horsepower
+boll
+bolt
+bone-dry unit
+book sizes
+bore
+bottle
+bougie
+bovate
+box
+bp
+bpd
+bpm
+braccio
+brace
+brake horsepower
+braza
+braça
+breadth
+breakfast cup
+breve
+brewster
+bright
+brightness
+bril
+brinell hardness
+british horsepower
+british thermal unit
+brix
+btuh
+bucket
+bunder
+bundle
+bushel
+butcher
+butt
+button measure
+bya
+byte
+ca
+caballeria
+caballo de vapor
+cabot
+cade
+caliber
+caliper
+call second
+callipic cycle
+calorie
+can sizes
+candela
+candle
+candlepower
+candy
+canna
+canne
+cantar
+canvas
+cape foot
+cape rood
+carat
+carb
+carcel
+carga
+carnegie unit
+carreau
+cart
+carton
+carucate
+castellation
+catty
+cawney
+cawny
+caña
+cb-
+cc
+cca
+ccf
+ccm
+ccs
+ce
+celsius
+celsius heat unit
+cent
+cental
+centi-
+centiare
+centibar
+centigon
+centigrade
+centigram
+centihg
+centiliter
+centimeter
+centimeter of mercury
+centimillion
+centimorgan
+centinewton
+centipoise
+centiradian
+centisecond
+centistokes
+centner
+centrad
+centum
+cetane number
+cf
+cfe
+cfh
+cfm
+cfs
+cfu
+chain
+chain number
+chalder
+chaldron
+champagne quart
+character
+charka
+charrière
+charrière gauge
+cheval vapeur
+ch'ih
+chiliad
+chilo
+chilo-
+chin
+choi
+chopine
+choppin
+ci
+cicero
+cinque
+circle
+circular inch
+circular mil
+city block
+clark degree
+clausius
+clo
+clothier's yard
+clothyard
+clove
+clusec
+cma
+cmil
+coffee measure
+coffeespoon
+collop
+collothun
+color rendering index
+color temperature
+color units
+colp
+colpa
+column inch
+commercial acre
+cone
+cone number
+cong
+congius
+cooling degree day
+coom
+coomb
+cop
+cord
+cord foot
+coulomb
+count
+cousins
+covado
+covido
+cpi
+cps
+cran
+crannock
+crith
+crore
+crotchet
+crumb
+cu
+cuadra
+cuartillo
+cubic centimeter
+cubic foot
+cubic feet
+cubic inch
+cubic meter
+cubic yard
+cubit
+cuerda
+cumec
+cun
+cunit
+cup
+curie
+cusec
+cut
+cv
+cwt
+cy
+cycle
+cycles per second
+d-
+dag
+daily value
+daktylos
+dal
+dalton
+dam
+dan
+danjon scale
+daraf
+darcy
+darwin
+dash
+data mile
+date
+db -
+db a
+db c
+db fs
+db i
+db m
+db rn
+db spl
+db u
+db v
+db w
+db z
+deadweight ton
+debye
+deca-
+decade
+decagram
+decaliter
+decameter
+decamillion
+decanewton
+decare
+decatherm
+decay time
+decennium
+deci-
+decibar
+decibel
+decigram
+decile
+deciliter
+decimeter
+decimillimeter
+decipol
+decitex
+decitonne
+degree
+degree api
+degree balling
+degree baumé
+degree brix
+degree celsius
+degree centigrade
+degree day
+degree dornic
+degree ebc
+degree fahrenheit
+degree gay-lussac
+degree kelvin
+degree kmw
+degree lovibond
+degree macmichael
+degree oechsle
+degree plato
+degree quevenne
+degree r&eacute;aumur
+degree rankine
+degree soxhlet-henkel
+degree therner
+degree twaddle
+deka-
+dekagram
+dekaliter
+dekameter
+dekan
+dekanewton
+dekar
+dekare
+dekatherm
+demal
+demi
+demi-
+demisemiquaver
+denaro
+denier
+dessertspoon
+dessertspoonful
+dessiatina
+deuce
+devil's dozen
+dex
+dhur
+dialog unit
+diameter
+diamond
+dicker
+didot point
+dieb. alt.
+dieb. tert.
+digit
+dimension
+din
+diopter
+diraa
+djerib
+dk-
+dn
+dobson unit
+dog watch
+dol
+dollar
+donkey power
+donum
+dönüm
+doppelzentner
+double
+double magnum
+double word
+doublet
+doubleword
+douzième
+dozen
+dpa
+dpi
+dpm
+dps
+drachm
+drachma
+drachme
+dram
+drap
+drex
+drill sizes
+drought severity category
+drum
+dry pint
+dry quart
+dry ton
+dsp
+dssp
+duet
+dunum
+duo
+duro
+durometer
+dwt
+dyad
+dyne
+earth-rate unit
+ebc
+ebhc
+ecm
+edr
+eer
+effective dose
+einstein
+einstein unit
+el
+electric horsepower
+electron
+electronvolt
+ell
+elle
+em
+emu
+emu/cc
+emu/cm3
+en
+energy factor
+engineer's chain
+engler degree
+ennead
+enzyme unit
+eon
+eotvos unit
+ephah
+epoch
+equivalent
+equivalent weight
+erg
+erlang
+estadio
+esu
+ett-
+etto
+etto-
+eu
+exa-
+exajoule
+exameter
+exbi-
+exposure value
+eyesight
+f number
+f ratio
+f stop
+face cord
+faden
+faggot
+fahrenheit
+fall
+fanega
+farad
+faraday
+farasang
+fardel
+farsakh
+farthing
+farthingdale
+fat half
+fat quarter
+fathom
+fatt
+fau
+fbm
+fcc unit
+feddan
+femto-
+fermi
+feu
+field box
+fifth
+fillette
+fineness
+finger
+finsen unit
+firkin
+firlot
+fist
+fistmele
+fit
+flagon
+flask
+flat
+flock
+floor
+flops
+fluid dram
+fluid ounce
+fluid scruple
+fluidram
+flux unit
+fnu
+fod
+folio
+food calorie
+foot
+foot of head
+foot per minute
+foot per second
+foot pound per second
+foot poundal
+foot ton
+football field
+footcandle
+footlambert
+force
+forpet
+fortnight
+fot
+fother
+fotmal
+fpm
+fps
+frail
+franklin
+freight ton
+french
+frigorie
+fsw
+fte
+fu?
+fuder
+fujita scale
+full step
+funt
+furlong
+fuss
+g/g
+g/kg
+g/t
+ga
+gage
+galileo
+gallon
+galopin
+gamma
+garnets
+gauge
+gauss
+gdu
+gear inch
+gee
+gee pound
+generation
+geographical mile
+german legal meter
+gev
+gibi-
+gig
+giga-
+gigabecquerel
+gigaflops
+gigagram
+gigahertz
+gigajoule
+gigaliter
+gigameter
+gigaparsec
+gigapascal
+gigatonne
+gigawatt
+gigawatt hour
+gilbert
+gill
+gillion
+glasgow coma scale
+glass
+glean
+gm
+gmt
+gnat's eye
+go
+goad
+gon
+gong-
+googol
+gpf
+gpg
+gpm, gps
+gr
+grade
+grade point
+grain
+grain per gallon
+gram
+gram atom
+gram atomic weight
+gram calorie
+gram force
+gram mole
+gram molecular weight
+gram molecule
+gram per square meter
+gram rad
+gram weight
+gran
+grand
+grano
+grav
+gray
+great gross
+great hundred
+green ton
+green tonne
+grit
+gros
+gross ton
+growler
+gry
+gsm
+gt
+gtt
+gunter's chain
+gutenberg
+hacienda
+hair's breadth
+halakim
+halbe
+half
+half life
+half step
+hand
+handle
+hank
+hardness
+hartley
+hartree
+hat size
+hat trick
+hat-trick
+head
+heaped bushel
+heat index
+heat unit
+heating degree day
+hebdo-
+hect-
+hectare
+hectare meter
+hecto-
+hectobar
+hectogram
+hectoliter
+hectometer
+hectopascal
+heer
+helek
+hemidemisemiquaver
+hemina
+hemisphere
+henry
+heptad
+hertz
+hexad
+hexit
+hide
+hin
+hogshead
+hold
+homestead
+hoppus board foot
+hoppus foot
+hoppus ton
+horse
+horsepower
+horsepower hour
+hounsfield unit
+hu
+hubble
+hue
+hundred
+hyl
+hüvelyk
+iacs
+ibu
+icfm
+ie
+igpm
+immi
+imperial
+imperial gallon
+imperial units
+in d.
+inch
+inch of mercury
+inch of water gauge
+inch pound
+inhour
+international foot
+international nautical mile
+international rubber hardness degree
+international unit
+internet time
+ips
+ipy
+irish acre
+irish mile
+iron
+iso
+it calorie
+jag
+jansky
+jar
+jerib
+jerk
+jeroboam
+jersey foot
+jiffy
+jigger
+jin
+jitro
+jo
+joch
+jones
+joule
+jtu
+juchart
+juchert
+jug
+julian day
+julian epoch
+jupiter
+jutro
+kaf
+kairi
+kanal
+kappland
+karat
+katal
+kati
+katta
+kattha
+kayser
+kbtu
+kcmil
+keddah
+keel
+keg
+kelvin
+ken
+kerat
+key
+kgm
+kgr
+kgsc
+kibi-
+kilderkin
+kilo
+kilo-
+kiloampere
+kilobar
+kilobase
+kilobecquerel
+kilobit
+kilobyte
+kilocalorie
+kilocurie
+kilocycle
+kilocycle per second
+kilodalton
+kiloelectronvolt
+kilofoot
+kilogauss
+kilogram
+kilogram calorie
+kilogram force
+kilogram meter
+kilogram weight
+kilohertz
+kilohm
+kilojoule
+kilokibibyte
+kiloline
+kiloliter
+kilomega-
+kilometer
+kilometer per hour
+kilomole
+kilonewton
+kilo-oersted
+kiloohm
+kiloparsec
+kilopascal
+kilopond
+kilorad
+kilosecond
+kiloton
+kilovolt
+kilovolt ampere
+kilowatt
+kilowatt hour
+kiloyard
+kin
+kip
+klafter
+klick
+klik
+kmph
+knoop hardness
+knot
+koku
+kommerzlast
+kon
+koyan
+kph
+krina
+ksf
+ksi
+ksym/s
+kulmet
+kunitz
+kunitz unit
+kvadrat-
+kwan
+kya
+kyu
+köddi
+l
+lac
+lai
+lakh
+lambda
+lambert
+lanac
+land mile
+lane meter
+langdo
+langley
+lap
+lb
+lbf
+lbm
+ld
+lea
+league
+leap
+leap second
+legoa
+legua
+length
+lethal dose
+li
+liang
+libbra
+libra
+lieue
+light second
+light watt
+light year
+ligne
+ligula
+line
+linear foot
+link
+lippie
+liter
+liter atmosphere
+litre
+livre
+load
+long hundredweight
+long ton
+longword
+lot
+lovibond color units
+lpf
+lpi
+lug
+lumberg
+lumen
+lumen hour
+lunar day
+lunar distance
+lunar month
+lunation
+lusec
+luster
+lustre
+lustrum
+lux
+légua
+m
+ma
+maß
+mab
+mace
+mach
+maf
+magnitude
+magnum
+mahnd
+man hour
+mandel
+manpower
+manzana
+marathon
+marc
+marco
+marine league
+mark
+mark twain
+marla
+mas
+masha
+masl
+mau
+maund
+maxwell
+mbf
+mbh
+mbm
+mbsl
+mbtuh
+mc
+mc-
+mcf
+mcfd
+mcfe
+mcg
+mcl
+mcm
+mcu
+mease
+measurement ton
+mebi-
+med
+meg
+mega-
+megabar
+megabarrel
+megabase
+megabecquerel
+megabyte
+megacycle
+megacycle per second
+megadalton
+megaflops
+megagram
+megahertz
+megajoule
+megakelvin
+megalerg
+megaline
+megaliter
+megalithic yard
+megameter
+megampere
+meganewton
+megaohm
+megaparsec
+megapascal
+megapixel
+megapond
+megaton
+megatonne
+megawatt
+megawatt day
+megawatt hour
+megohm
+meile
+mel
+melchior
+mercalli intensity scale
+mercantile pound
+-merous
+mesh
+met
+meter
+meter-atmosphere
+meterlambert
+meter-lambert
+methuselah
+metonic cycle
+metre
+metric carat
+metric grain
+metric horsepower
+metric hundredweight
+metric mile
+metric pound
+metric quintal
+metric slug
+metric ton
+metric ton unit
+mev
+mfd
+mg/dl
+mg/kg
+mg-at
+mgd
+mg-eq
+mho
+mic
+mickey
+micro-
+microampere
+microarcsecond
+microbar
+microcurie
+microdegree
+microequivalent
+microfarad
+microgram
+microgray
+microinch
+microliter
+micrometer
+micromicro-
+micromicrofarad
+micromicron
+micromole
+micron
+micronewton
+micropoise
+microrad
+microradian
+microrem
+microsecond
+microsievert
+microstrain
+microtesla
+middy
+miglio
+miil
+mijl
+mil
+mile
+mile per gallon
+mile per hour
+mil-foot
+milha
+military pace
+mill
+milla
+mille
+millenary
+millennium
+milli-
+milliampere
+milliampere hour
+milliarcsecond
+milliard
+millibar
+millicandela
+millicurie
+millidegree
+milliequivalent
+millier
+millifarad
+milligal
+milligauss
+milligram
+milligram per deciliter
+milligray
+millihenry
+millihg
+millihorsepower
+millijoule
+milli-k
+millikelvin
+millilambert
+milliliter
+millilux
+millimass unit
+millimeter
+millimeter of mercury
+millimeter of water gauge
+millimicro-
+nail
+nano-
+nanoacre
+nanobar
+nanocurie
+nanofarad
+nanogram
+nanogray
+nanoliter
+nanometer
+nanomole
+nanon
+nanonewton
+nanoradian
+nanosecond
+nanosievert
+nanostrain
+nanotesla
+nat
+natural unit
+ncm
+nebuchadnezzar
+neck
+neper
+nest
+net ton
+new candle
+new style
+newton
+newton meter
+ngarn
+niacin equivalent
+nibble
+nile
+nip
+nit
+nm
+noeud
+noggin
+noise criterion
+nonet
+nook
+normal
+normal cubic meter
+normal liter
+nose
+whole note
+nox
+noy
+ntu
+nu
+nw
+nybble
+obol
+obolos
+obolus
+o'clock
+octad
+octane number
+octane rating
+octant
+octarius
+octave
+octavillo
+octennium
+octet
+octuple
+octuplet
+oechsle
+oersted
+ogdoad
+ohm
+ohm meter
+ohm per square
+oitavo
+oka
+oke
+okta
+old style
+olf
+olympiad
+omer
+omn. bih.
+omn. hor.
+once
+oncia
+ons
+onza
+onça
+open window unit
+order of magnitude
+osmolal
+osmolar
+osmole
+ostent
+ounce
+ounce force
+ounce mole
+ounce per gallon
+ounce per square foot
+ounce weight
+oxgang
+pé
+pace
+pack
+packen
+pair
+pair royal
+palermo scale
+palm
+palmo
+parasang
+paris foot
+paris point
+parsec
+part per billion
+part per million
+part per quadrillion
+part per thousand
+part per trillion
+particle flux unit
+pascal
+pascal second
+pat
+pcf
+pci
+pearl grain
+pebi-
+peck
+pencil hardness
+penny
+-penny
+pennyweight
+pentad
+per annum
+per cent
+per diem
+per mensem
+per mil
+per mill
+per mille
+percent
+percentile
+perch
+perche
+perfect ream
+perm
+perm inch
+person hour
+perthousand
+pes
+peta-
+petabecquerel
+petaflops
+petagram
+petahertz
+petajoule
+petameter
+pf
+pferdestärke
+pfu
+pfund
+ph
+phon
+phot
+photon
+pi
+pic
+pica
+pico-
+picocurie
+picofarad
+picogram
+picoliter
+picolo
+picomole
+picosecond
+picotesla
+picul
+pie
+piece
+pied
+piede
+pieze
+pik
+pin
+pinch
+ping
+pint
+pip
+pipa
+pipe
+pitch
+pixel
+planck
+planck length
+planck time
+-plet
+plethron
+plf
+pli
+plotter unit
+-ply
+pm
+pmpo
+pn
+pnc
+pnu
+point
+poise
+poiseuille
+pol
+pole
+polegada
+pollex
+polypin
+poncelet
+pond
+pony
+pood
+porosity
+pot
+pottle
+pouce
+poumar
+pound
+pound cut
+pound foot
+pound force
+pound mass
+pound mole
+pound per square foot
+pound per square inch
+pound weight
+poundal
+pous
+power
+pp
+ppb
+ppcm
+ppi
+ppm
+ppq
+ppt
+pptr
+printer's ream
+prism diopter
+proof
+pru
+ps
+psi
+psia
+psid
+psig
+psu
+pu
+pud
+puff
+pulgada
+pull
+puncheon
+pund
+punnet
+pyong
+pyron
+q-
+q unit
+q.d.
+q.h.
+q.i.d.
+qian
+qintar
+quad
+quadbit
+quadrant
+quadrat-
+quadrennium
+quadrumvirate
+quadruplet
+quadword
+quantum
+quart
+quarter tone
+quartern
+quartern-loaf
+quartet
+quartile
+quarto
+quaver
+quevenne scale
+quinquennium
+quintal
+quintet
+quintile
+quintuplet
+quire
+rad
+radar mile
+radian
+radian per second
+radiation unit
+rai
+rankine
+ratel
+rayl
+rayleigh
+ream
+rebah
+rebar sizes
+reciprocal megakelvin
+recommended dietary allowance
+redshift
+redwood second
+register ton
+rehoboam
+rem
+rep
+reputed pint
+reputed quart
+res
+retinol equivalent
+revenue ton
+revolution
+revolution per minute
+reyn
+rhe
+rheinfuss
+rhine foot
+rhm
+rhode island
+ri
+richter scale
+rick
+ridge
+riga last
+right angle
+ring
+ring size
+rms
+rockwell hardness
+rod
+roede
+roentgen
+rood
+root mean square
+rope
+rotel
+rotl
+rottle
+round
+royal foot
+rpm
+rsi
+rundlet
+running foot
+rute
+rutherford
+rydberg
+Réaumur
+röntgen
+sabin
+sack
+sadzhen
+saffir-simpson category
+sagene
+sailmaker ounce
+salmanazar
+saltspoon
+sao
+saros
+saturation
+savart
+scale
+sccm
+scfd
+scfh
+scfm
+scheffel
+schepel
+schock
+schooner
+schoppen
+schtoff
+scim
+score
+scots foot
+scots mile
+scoville unit
+scruple
+se
+sea mile
+seah
+seam
+season
+second
+second-day-foot
+second-foot
+sed
+seemeile
+seer
+seidel
+semester
+semester hour
+semi-
+semibreve
+semicircle
+semih
+semiquaver
+semitone
+sennight
+septennium
+septet
+septuple
+septuplet
+ser
+sester
+sestet
+sextarius
+sextet
+sextuple
+sextuplet
+sf
+sfm
+sg
+shackle
+shade number
+shaftment
+shake
+shaku
+shannon
+sheaf
+shed
+shekel
+sheng
+sheqel
+shetland
+shift
+shipping ton
+sho
+shock
+shoe size
+shook
+shore hardness
+short hundredweight
+short ream
+short ton
+short ton unit
+shortword
+shot
+shovel
+shower unit
+sidereal day
+siegbahn unit
+siemens
+sieve
+sievert
+sigma
+sign
+sitio
+sixth
+skein
+skep
+skjeppe
+skock
+skot
+skæppe
+slinch
+slm
+slpm
+slug
+smidgen
+smite
+smoot
+smoz
+snail
+snellen fraction
+snit
+sol
+solar mass
+solar neutrino unit
+-some
+sone
+sotka
+sound transmission class
+span
+spat
+spf
+sphere
+spherical degree
+spin
+spindle
+splash
+spoonful
+square
+square block
+square centimeter
+square chain
+square degree
+square foot
+square inch
+square kilometer
+square meter
+square mile
+square rod
+square yard
+ss
+ssu
+stack
+stade, stadion
+stadium
+standard
+standard atmosphere
+standard cubic meter
+standard deviation
+standard gravity
+standard volume
+stang
+stanine
+stapp
+stat-
+stb
+step
+steradian
+stere
+sthene
+stick
+stilb
+stimp
+stoke
+stokes
+stone
+stop
+storey
+story
+stp
+streck
+stremma
+stride
+strob
+strontium unit
+stu
+stubbie
+stunde
+sturgeon
+sun
+super foot
+superficial
+surface foot
+survey foot
+sus
+suture sizes
+svedberg
+sverdrup
+swg
+swing
+swu
+symbol per second
+t
+tablespoon
+tablespoonful
+tael
+tagwerk
+tahil
+talbot
+talent
+tan
+tarea
+tatami
+tce
+teacupful
+teaspoon
+teaspoonful
+tebi-
+technical atmosphere
+tenth-meter
+tera-
+terabecquerel
+teraflops
+teragram
+terahertz
+terajoule
+terameter
+terannual
+terawatt
+terawatt hour
+tertian
+tesla
+tetrad
+teu
+tev
+tex
+therblig
+therm
+thermal ohm
+thermie
+thermochemical calorie
+thimbleful
+third-octave
+thou
+thrave
+thread
+thumb
+tical
+tick
+tid
+tidal day
+tier
+tierce
+timber
+time zone
+tin
+tithe
+tmc ft
+tme
+tod
+toe
+tog
+toise
+tola
+tolerance unit
+toman
+ton
+ton of force
+ton per square inch
+tone
+tonelada
+tonne
+tonneau
+torino number
+torr
+tot
+tour
+tovar
+tower weights
+township
+toz
+tpi
+traffic unit
+tray
+trey
+triad
+triennial
+triennium
+trilliard
+trimester
+trio
+triple
+triplet
+triumvirate
+troland
+troy weights
+trug
+truss
+tsubo
+t'sun
+tu
+tub
+tumbler
+tumblerful
+tun
+tunnland
+-tuple
+turbidity unit
+turn
+twaddle scale
+twain
+twelfth
+twelvemonth
+twip
+typp
+tønde
+tønde land
+ua
+ui
+uld
+ulp
+uncia
+unit
+unit case
+universal time
+unze
+urna
+usp unit
+v/v
+vac
+vagon
+val
+var
+vara
+vdc
+vedro
+vehrsta
+verchok
+verge
+vergee
+vershok
+verst
+versta
+viertel
+violle
+virgate
+vis
+viscosity grade
+vise
+vision
+viss
+volcanic explosivity index
+volt
+volume unit
+volumetric unit
+w/v
+w/w
+wah
+wales
+wan
+watch
+water column
+water horsepower
+water inch
+watt
+watt hour
+watt year
+wave
+wavelength
+weber
+werst
+wet ton
+wey
+whole note
+whole step
+whole tone
+winchester bushel
+winchester quart
+wind chill temperature index
+wine gallon
+wineglass
+wineglassful
+word
+working level
+wrench sizes
+ws
+wyde
+x unit
+y/o
+yard
+yard of ale
+yard of land
+yardland
+yi
+yocto-
+yoke
+yotta-
+yottameter
+zak
+zentner
+zepto-
+zetta-
+zettameter
+zhubov scale
+zoll
+feet
+'''
+a/m
+absorbance unit
+ac
+ac ft
+ac in
+acfm
+acoustic ohm
+acre
+acre foot
+acre inch
+aeon
+air watt
+ale gallon
+alen
+almude
+aln
+alqueire
+alt h
+am
+amagat
+amp
+amp hr
+ampere hour
+ampere turn
+amphora
+angular mil
+animal unit
+anker
+apostilb
+arcminute
+arcsecond
+arm's-length
+arpent
+arratel
+arroba
+arshin
+artel
+asb
+assay ton
+atm
+atmo-meter
+atmos
+atmosphere
+aume
+aune
+aâ·h
+baker's dozen
+bale
+bank cubic meter
+bar abs
+barg
+barge
+barleycorn
+barn
+barrel
+barrel bulk
+barrique
+barye
+baud
+bbl
+bcfe
+bcm
+bd
+bd ft
+becquerel
+bee space
+beer gallon
+bel
+bev
+bf
+bg
+bhp
+biannually
+bicron
+biennium
+bigha
+billennium
+bimester
+bimillennium
+biot
+bips
+bit
+bit per second
+bl
+blondel
+board foot
+board of trade unit
+body inch
+boe
+boiler horsepower
+bole
+boll
+botu
+bougie
+bovate
+bpd
+bpm
+bps
+bq
+braccio
+brake horsepower
+braza
+braã§a
+breadth
+breakfast cup
+breve
+bril
+british horsepower
+british shipping ton
+british thermal unit
+bthu
+btu
+btuh
+bu
+bubnoff unit
+bucket
+bunder
+bundle
+bushel
+butt
+button measure
+byte
+caballeria
+caballo de vapor
+cal
+callipic cycle
+calorie
+calth
+candela
+candle
+candlepower
+cape foot
+cape rood
+carat
+carcel
+carga
+carreau
+carucate
+castellation
+catty
+cawney
+cawny
+cbar
+cc
+ccf
+ccm
+cd
+cda
+celsius
+celsius heat unit
+cental
+centiare
+centibar
+centigon
+centigrade
+centigram
+centigray
+centihg
+centiliter
+centimeter
+centimeter of mercury
+centimorgan
+centinewton
+centipoise
+centiradian
+centisecond
+centistokes
+centner
+centrad
+cf
+cfe
+cfh
+cfm
+cfs
+cgon
+cgy
+ch
+ch'ih
+ch2
+chalder
+chaldron
+champagne quart
+charka
+charriã¨re
+charriã¨re gauge
+chd
+cheval vapeur
+chilo
+chilo-
+chopine
+choppin
+chç
+ci
+cid
+circular inch
+circular mil
+civil year 
+cl
+clo
+clothier's yard
+clothyard
+clusec
+cm
+cm hg
+cm2
+cm3
+cmhg
+cmil
+cn
+coffeespoon
+col in
+collop
+collothun
+colp
+colpa
+column inch
+commercial acre
+cong
+congius
+cooling degree day
+coom
+coomb
+cord
+cord foot
+covado
+covido
+cp
+cpi
+cpo
+cps
+cran
+crannock
+crith
+crore
+crotchet
+crumb
+cs
+csec
+cst
+ctl
+cu
+cu ft
+cu in
+cuadra
+cubic centimeter
+cubic feet
+cubic foot
+cubic inch
+cubic meter
+cubic yard
+cubit
+cuerda
+cumec
+cun
+cunit
+cup
+cusec
+cv
+cwt
+cy
+cã¹n
+da
+dag
+daktylos
+dam
+daraf
+dash
+data mile
+db
+db spl
+db u
+db w
+dbar
+deadweight ton
+decade
+decagram
+decaliter
+decameter
+decanewton
+decare
+decatherm
+decennium
+decibar
+decibel
+decigram
+deciliter
+decimal foot
+decimeter
+decimillimeter
+decipol
+decitex
+decitonne
+deg
+deg da
+degree
+degree baumã©
+degree brix
+degree celsius
+degree centigrade
+degree day
+degree dornic
+degree ebc
+degree fahrenheit
+degree kelvin
+degree kmw
+degree lovibond
+degree macmichael
+degree oechsle
+degree quevenne
+degree rankine
+degree rã©aumur
+degree therner
+dekagram
+dekaliter
+dekameter
+dekan
+dekanewton
+dekare
+dekatherm
+demisemiquaver
+denaro
+denier
+dessertspoon
+dessiatina
+devil's dozen
+dg
+dhur
+didot point
+dieb. alt.
+dieb. tert.
+din
+diraa
+dl
+dm
+dmm
+dn
+dobson unit
+dog watch
+donkey power
+donum
+doppelzentner
+double magnum
+doubleword
+doz
+dozen
+dpi
+dps
+drachm
+drachma
+drachme
+dram
+drap
+drex
+drill sizes
+drink
+dry pint
+dry quart
+dry ton
+ds
+dsp
+dt
+dtex
+dth
+dtn
+dunum
+dwt
+dyn
+dyne
+dz
+dã¶nã¼m
+earth-rate unit
+ecm
+einstein unit
+ej
+electric horsepower
+electronvolt
+ell
+em
+emu/cc
+en
+engineer's chain
+engler degree
+enzyme unit
+eon
+eotvos unit
+ephah
+eq
+erg
+eru
+estadio
+esu
+etto
+ev
+exajoule
+exameter
+face cord
+faggot
+fanega
+fanegada
+farad
+farasang
+fardel
+farthingdale
+fathom
+fatt
+fbm
+fd
+feddan
+feet
+field box
+fillette
+firkin
+firlot
+fist
+fistmele
+fl
+fl oz
+flagon
+flask
+flick
+fluid dram
+fluid ounce
+fluid scruple
+fluidram
+fm
+fod
+foe
+food calorie
+foot
+foot of head
+foot per minute
+foot per second
+foot pound
+foot pound per second
+foot poundal
+foot ton
+footcandle
+footlambert
+fortnight
+fot
+fother
+fotmal
+fpm
+fps
+frail
+freight ton
+frigorie
+fsw
+ft
+ft/min
+ft/s
+ft/sec
+ft2
+ft3
+ftc
+fth
+ftl
+ftâ·lb
+ftâ·lb/s
+ftâ·lbf
+ftâ·lbf/s
+ftâ·tn
+fu
+fuder
+funt
+fur
+furlong
+fuss
+fuã¿
+g/kg
+g/m2
+g/t
+gal
+gallon
+galopin
+gbq
+geographical mile
+german legal meter
+gev
+gf
+gflops
+gg
+ghz
+gi
+gig
+gigabecquerel
+gigaflops
+gigagram
+gigahertz
+gigajoule
+gigaliter
+gigameter
+gigaparsec
+gigapascal
+gigatonne
+gigawatt
+gigawatt hour
+gill
+gj
+gl
+glm
+gm
+gmol
+gmole
+gnat's eye
+gpa
+gpc
+gpf
+gpg
+gpm
+gr
+gr/gal
+gradian
+grain
+gram
+gram calorie
+gram force
+gram mole
+gram molecule
+gram per square meter
+gram rad
+gram weight
+grano
+grav
+great gross
+green ton
+green tonne
+gros
+gross ton
+gs
+gsm
+gt
+gtt
+gunter's chain
+gw
+gwâ·h
+gy
+gyr
+ha
+halakim
+halbe
+half step
+hank
+hat trick
+hat-trick 
+haâ·m
+heaped bushel
+heating degree day
+hebdo-
+hectare
+hectare meter
+hectobar
+hectogram
+hectoliter
+hectometer
+hectopascal
+heer
+helek
+hemidemisemiquaver
+hemina
+henry
+hg
+hhd
+hide
+hl
+hm
+hogshead
+hold
+hoppus board foot
+hoppus foot
+hoppus ton
+horsepower
+horsepower hour
+hp hr
+hpa
+hr
+hyl
+icfm
+ie
+igpm
+immi
+imperial gallon
+in d.
+in hg
+in2
+in3
+inch
+inch of mercury
+inch of water gauge
+inch pound
+international foot
+international nautical mile
+international unit
+inâ·lbf
+ips
+ipy
+irish acre
+irish mile
+it calorie
+jag
+jansky
+jar
+jiffy
+jitro
+joch
+journal
+jtu
+jutro
+jy
+kaf
+kairi
+kanal
+karat
+kare meter
+kat
+katal
+katta
+kattha
+kayser
+kb
+kb/s
+kbar
+kbit
+kbp
+kbps
+kbq
+kbtu
+kc
+kcal
+kci
+kcmil
+kda
+keddah
+keg
+kerat
+kev
+kft
+kg
+kgcal
+kgf
+kgfâ·m
+kgm
+kgr
+kgs
+kgâ·m
+khz
+kilderkin
+kilo
+kilo-
+kiloampere
+kilobar
+kilobase
+kilobecquerel
+kilobit
+kilobyte
+kilocalorie
+kilocurie
+kilocycle
+kilodalton
+kiloelectronvolt
+kilofoot
+kilogauss
+kilogram
+kilogram calorie
+kilogram force
+kilogram meter
+kilogram weight
+kilohertz
+kilohm
+kilojoule
+kilokibibyte
+kiloline
+kiloliter
+kilometer
+kilomole
+kilonewton
+kiloohm
+kiloparsec
+kilopascal
+kilopond
+kilorad
+kilosecond
+kiloton
+kilovolt
+kilowatt
+kilowatt hour
+kilowatt year
+kiloyard
+kin
+kip
+kj
+kl
+kl)
+klafter
+klick
+klik
+km
+km/h
+km/l
+km2
+kmol
+kmph
+kmt
+kn
+knot
+koe
+koku
+kommerzlast
+kon
+koyan
+kp
+kpa
+kpc
+kph
+krad
+krina
+ksec
+ksf
+ksi
+kt
+kton
+kulmet
+kv
+kvâ·a
+kw
+kw hr
+kwan
+kwh
+kwâ·h
+kwâ·yr
+kyr
+kyu
+labor
+lac
+lakh
+lanac
+land mile
+lane meter
+langdo
+langley
+lap
+lb
+lb ft
+lb merc
+lb t
+lb wt
+lbf
+lbf ft
+lbf/ft2
+lbf/in2
+lbm
+lbmol
+ld
+lea
+league
+legoa
+legua
+li
+liang
+libbra
+lieue
+light second
+light watt
+light year
+ligne
+ligula
+lineal foot
+linear foot
+lippie
+liter
+litre
+livre
+lm
+lm h
+long hundredweight
+long ton
+longword
+lpf
+lpi
+lumberg
+lumen
+lumen hour
+lunar month
+lunation
+lusec
+luster
+lustre
+lustrum
+lux
+lx
+ly
+lã‡
+lã©gua
+m/s
+ma
+maf
+mag
+magnum
+mahnd
+manpower
+marc
+marine league
+marla
+mas
+masha
+maund
+maâ·h
+mb
+mbar
+mbbl
+mbf
+mbm
+mbo
+mbq
+mbtuh
+mc/s
+mcf
+mcfd
+mcfe
+mcg
+mcl
+mcm
+mcps
+mct
+mda
+mdeg
+meg
+megabar
+megabarrel
+megabase
+megabecquerel
+megabyte
+megacycle
+megadalton
+megaflops
+megagram
+megahertz
+megajoule
+megakelvin
+megalerg
+megaline
+megaliter
+megalithic yard
+megameter
+megampere
+meganewton
+megaohm
+megaparsec
+megapascal
+megapixel
+megapond
+megaton
+megatonne
+megawatt
+megawatt day
+megawatt hour
+megohm
+meile
+melchior
+meq
+mercantile pound
+meter
+meter per second
+meterlambert
+metonic cycle
+metre
+metric carat
+metric grain
+metric horsepower
+metric hundredweight
+metric mile
+metric pound
+metric quintal
+metric slug
+metric ton
+metric ton unit
+mev
+mfd
+mflops
+mg
+mg/dl
+mg/kg
+mgal
+mgd
+mgon
+mgy
+mh
+mho
+mhp
+mhz
+mi
+mi/gal
+mi/h
+mi2
+mic
+microampere
+microarcsecond
+microbar
+microcurie
+microdegree
+microeinstein
+microequivalent
+microfarad
+microflick
+microgram
+microgray
+microinch
+microliter
+micrometer
+micromicrofarad
+micromole
+micron
+micronewton
+micropascal
+micropoise
+microrad
+microradian
+microrem
+microsecond
+microsievert
+microstrain
+microtesla
+microvolt
+middy
+miglio
+miil
+mil
+mil-foot
+mile
+mile per gallon
+mile per hour
+milha
+military pace
+milla
+mille
+millennium
+milli-
+milli-k
+milliampere
+milliampere hour
+milliarcsecond
+millibar
+millicandela
+millicurie
+millidegree
+milliequivalent
+millier
+millifarad
+milligal
+milligauss
+milligram
+milligray
+millihenry
+millihorsepower
+millijoule
+millikelvin
+millilambert
+milliliter
+millilux
+millimass unit
+millimeter
+millimeter of mercury
+millimeter of water gauge
+millimicron
+millimole
+millinewton
+millioersted
+milliosmole
+milliparsec
+millipascal
+millipascal second
+milliphot
+millipoise
+millirad
+milliradian
+millirem
+millisecond
+millisiemens
+millisievert
+millitesla
+millivolt
+milliwatt
+milliwatt hour
+min
+miner's inch
+minim
+minipin
+minutum
+mips
+mired
+mj
+mk
+mkb
+mkono
+ml
+mlx
+mm
+mm hg
+mmb
+mmbo
+mmbtu
+mmcf
+mmcfe
+mmfd
+mmhg
+mmm
+mmol
+mmol/l
+mmscfd
+mmu
+moa
+module
+moe
+mol
+molad
+molal
+molar
+mole
+momme
+mondo point
+moog
+morgen
+mosm
+mou
+mp
+mpa
+mpaâ·s
+mpc
+mpg
+mph
+mpo
+mps
+mq
+mrad
+mrem
+ms
+msec
+msv
+msw
+mton
+mtu
+mud
+mutchkin
+mv
+mw
+mwd
+mwe
+mwt
+mwâ·d
+mwâ·h
+mx
+myg
+mym
+myr
+myriagram
+myriameter
+mâµ
+mã¥l
+nail
+nanoacre
+nanobar
+nanocurie
+nanofarad
+nanogram
+nanogray
+nanoliter
+nanometer
+nanomole
+nanon
+nanonewton
+nanoradian
+nanosecond
+nanosievert
+nanotesla
+nat
+nb
+nbar
+nci
+nebuchadnezzar
+neper
+net ton
+new candle
+newton meter
+newton second
+nf
+ng
+ngarn
+ngy
+nip
+nk
+nl
+nm
+nn
+noeud
+noggin
+nook
+normal cubic meter
+nrad
+ns
+nstrain
+nsv
+nt
+nybble
+nâ·m
+nâ·s
+obol
+octant
+octarius
+octave
+octavillo
+octennium
+octet
+oe
+ohm
+ohm meter
+oitavo
+oka
+oke
+okta
+olk
+olympiad
+omer
+omn. bih.
+once
+oncia
+ons
+onza
+onã§a
+open window unit
+osm
+osmolal
+osmolar
+osmole
+ostent
+ounce
+ounce force
+ounce mole
+ounce per gallon
+ounce per square foot
+ounce weight
+owu
+oxgang
+oz
+oz ap
+oz av
+oz t
+oz/ft2
+oz/gal
+ozf
+ozmol
+pa
+packen
+palmo
+parasang
+paris foot
+paris point
+parsec
+part per billion
+part per million
+part per quadrillion
+part per thousand
+part per trillion
+pascal second
+paâ·s
+pbq
+pcf
+pci
+pct
+pdl
+pearl grain
+peck
+pennyweight
+per annum
+per centum
+per diem
+per mensem
+per mil
+per mille
+percent
+perche
+perfect ream
+perm
+perm inch
+person hour
+pes
+petabecquerel
+petaflops
+petagram
+petahertz
+petajoule
+petameter
+pf
+pfd
+pferdestã¤rke
+pflops
+pfund
+ph
+phi unit
+phot
+phz
+pic
+pica
+picocurie
+picofarad
+picogram
+picoliter
+picolo
+picomole
+picosecond
+picotesla
+picul
+pied
+piede
+pieze
+pin
+pinch
+ping
+pint 
+pipa
+pj
+pk
+pl
+plethron
+plf
+pli
+plotter unit
+pmol
+pn
+poise
+pol
+polegada
+polypin
+pond
+pood
+pottle
+pouce
+poumar
+pound
+pound foot
+pound force
+pound mole
+pound per square foot
+pound per square inch
+poundal
+pous
+ppb
+ppi
+ppm
+ppq
+ppt
+ppth
+printer's ream
+pru
+ps
+psc
+psf
+psi
+psia
+psid
+psig
+pt
+pud
+pulgada
+puncheon
+pund
+punnet
+pyong
+pz
+q unit
+qian
+qintar
+qr
+qt
+qtr
+quadbit
+quadrat-
+quadrennium
+quadword
+quart
+quartern-loaf
+quinquennium
+quintal
+quire
+rad
+rad/s
+radar mile
+radian
+radian per second
+radiation unit
+rai
+rayl
+rd2
+ream
+rebah
+reciprocal megakelvin
+redwood second
+register ton
+rehoboam
+rem
+reputed quart
+rev
+revolution
+reyn
+rhe
+riga last
+rod
+roede
+roentgen
+ropani
+rotel
+rotl
+rottle
+royal foot
+rpm
+rundlet
+rute
+rã©aumur
+rã¶ntgen
+s.a.g. ft
+sabin
+sack
+sadzhen
+sagene
+salmanazar
+saltspoon
+sao
+saros
+sb
+sccm
+scfd
+scfh
+scfm
+scheffel
+schepel
+schoppen
+schtoff
+score
+scots foot
+scots mile
+sdf
+sea mile
+seah
+seam
+season
+sec
+second-day-foot
+second-foot
+sed
+seemeile
+semester
+semibreve
+semih
+semiquaver
+semitone
+sennight
+septennium
+ser
+sester
+sfm
+shackle
+shaku
+shed
+shekel
+sheng
+sheqel
+shetland
+shipping ton
+sho
+short hundredweight
+short ream
+short ton
+short ton unit
+shortword
+shovel
+shower unit
+sidereal day
+siegbahn unit
+siemens
+sievert
+sitio
+skein
+skjeppe
+skot
+skã¦ppe
+slinch
+slm
+slpm
+sm
+smidgen
+smoot
+sn
+sotka
+south african geodetic foot
+span
+spin
+sq
+sq ch
+sq deg
+sq ft
+sq in
+sq mi
+sq rd
+sq yd
+square block
+square centimeter
+square chain
+square degree
+square feet
+square foot
+square inch
+square kilometer
+square meter
+square mile
+square rod
+square yard
+sr
+ssp
+stade
+stadion
+standard atmosphere
+standard cubic meter
+stang
+stb
+stb 
+steradian
+stere
+sthene
+stilb
+stk
+stock tank barrel
+streck
+stremma
+strob
+strontium unit
+stu
+stubbie
+stunde
+super foot
+survey foot
+sv
+svedberg
+symbol per second
+t'sun
+tael
+talangwah
+tarea
+tarefa
+tatami
+tblsp
+tbq
+tbsp
+td
+teacupful
+teaspoon
+teaspoonful
+technical atmosphere
+tenth-meter
+terabecquerel
+teraflops
+teragram
+terahertz
+terajoule
+terameter
+terannual
+terawatt
+terawatt hour
+tertian
+tev
+tex
+tflops
+therm
+thermal ohm
+thermie
+thermochemical calorie
+thimbleful
+thm
+thou
+thrave
+thz
+tical
+tidal day
+tierce
+tj
+tmc ft
+tme
+tnf
+tnf/in2
+tod
+tog
+toise
+ton
+ton of force
+ton per square inch
+tonelada
+tonne
+tonneau
+torr
+tot
+tovar
+township
+toz
+tpi
+tray
+triennium
+trimester
+troland
+trug
+tsi
+tsp
+tsubo
+tub
+tumbler
+tumblerful
+tun
+tunnland
+turn
+twelvemonth
+twip
+twp
+twâ·h
+typp
+u.s. shipping ton
+ui
+um
+ums
+uncia
+unit pole
+unze
+urna
+vac
+vagon
+vara
+vdc
+vedro
+vehrsta
+verchok
+vergee
+vershok
+verst
+versta
+viertel
+virgate
+vise
+viss
+volt
+volumetric unit
+vu
+wah
+water horsepower
+water inch
+watt
+watt hour
+watt year
+wb
+werst
+wet ton
+wey
+wg
+whole step
+whole tone
+whp
+winchester bushel
+winchester quart
+wine gallon
+wineglass
+wineglassful
+working level
+ws
+wyde
+wâ·h
+wâ·yr
+x unit
+xu
+y/o
+yard
+yard of ale
+yard of land
+yardland
+yd
+yd2
+yd3
+yottameter
+yr
+zak
+zentner
+zettameter
+zm
+zoll
+ztr
+â°c
+â°d
+â°f
+â°k
+â°r
+âµas
+âµbar
+âµci
+âµe
+âµeq
+âµf
+âµg
+âµgy
+âµin
+âµl
+âµm
+âµmol
+âµn
+âµp
+âµpa
+âµpo
+âµps
+âµrad
+âµrem
+âµs
+âµstrain
+âµsv
+âµt
+âµv
+âµâµ

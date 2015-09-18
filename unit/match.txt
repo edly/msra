@@ -1,0 +1,5852 @@
+0
+a
+1
+a*
+2
+aas
+3
+ab-
+4
+absorbance unit
+5
+au
+6
+abv
+7
+abw
+8
+academic year
+9
+accm
+10
+acfm
+11
+acfh
+12
+acfd
+13
+acim
+14
+aci
+15
+acoustic ohm
+16
+acre
+17
+ac
+18
+acre foot
+19
+ac ft
+20
+af
+21
+acre inch
+22
+ac in
+23
+ad
+24
+-ad
+25
+admiralty mile
+26
+aeon
+27
+afue
+28
+agate line
+29
+ah
+30
+air mass
+31
+air watt
+32
+ale gallon
+33
+allergy unit
+34
+almude
+35
+aln
+36
+alen
+37
+alpha te
+38
+alqueire
+39
+alt h
+40
+am
+41
+amagat
+42
+amber
+43
+american run
+44
+ampere
+45
+amp
+46
+ampere hour
+47
+a·h
+48
+amp hr
+49
+ampere per meter
+50
+a/m
+51
+ampere-turn per meter
+52
+ampere turn
+53
+at
+54
+
+55
+amphora
+56
+anatomical chinese inch
+57
+anchor
+58
+angstrom
+59
+Å
+60
+angstrom star
+61
+Å*
+62
+angular mil
+63
+animal unit
+64
+anker
+65
+anna
+66
+annual percentage rate
+67
+% apr
+68
+ap
+69
+apgar score
+70
+api degree
+71
+api gravity
+72
+apostilb
+73
+asb
+74
+apothecary weights
+75
+arcminute
+76
+′
+77
+min
+78
+arcsecond
+79
+″
+80
+as
+81
+sec
+82
+s
+83
+are
+84
+arm's-length
+85
+arpent
+86
+arratel
+87
+artel
+88
+arroba
+89
+arshin
+90
+artaba
+91
+ass
+92
+asa number
+93
+assay ton
+94
+astronomical unit
+95
+ua
+96
+atmo-meter
+97
+atmo-m
+98
+atmosphere
+99
+atm
+100
+atmos
+101
+atom
+102
+atomic mass unit
+103
+u
+104
+amu
+105
+atomic number
+106
+atto-
+107
+a-
+108
+auc
+109
+aught
+110
+aume
+111
+aune
+112
+av
+113
+avdp
+114
+avogadro's number
+115
+avogadro constant
+116
+avoirdupois weights
+117
+awg
+118
+b
+119
+bag
+120
+baht
+121
+baker's dozen
+122
+bale
+123
+bl
+124
+ball
+125
+balling
+126
+balthazar
+127
+bank cubic meter
+128
+bcm
+129
+bar
+130
+bar abs
+131
+bar dif
+132
+barcol hardness
+133
+bh
+134
+barg
+135
+barge
+136
+barleycorn
+137
+bar liter
+138
+barn
+139
+barrel
+140
+bbl
+141
+brl
+142
+barrel bulk
+143
+barrer
+144
+barrique
+145
+barye
+146
+ba
+147
+basis point
+148
+bp
+149
+basis weight
+150
+bau
+151
+baud
+152
+bd
+153
+baumé
+154
+bb
+155
+bc
+156
+bce
+157
+bcfe
+158
+b/d
+159
+bead sizes
+160
+beat
+161
+beaufort scale
+162
+becquerel
+163
+bq
+164
+beer gallon
+165
+beer
+166
+bee space
+167
+bel
+168
+bell
+169
+benz
+170
+bz
+171
+bev
+172
+bhp
+173
+bi-
+174
+biannually
+175
+bicron
+176
+µµ
+177
+bid
+178
+b.i.d.
+179
+biennium
+180
+bigha
+181
+billennium
+182
+billet
+183
+billiard
+184
+billion
+185
+bn
+186
+bimester
+187
+bimillennium
+188
+bind
+189
+biot
+190
+bi
+191
+bips
+192
+bissextile year
+193
+bit
+194
+bit per second
+195
+b/s
+196
+bps
+197
+blink
+198
+block
+199
+blondel
+200
+blood alcohol level
+201
+bal
+202
+board foot
+203
+bd ft
+204
+fbm
+205
+bf
+206
+board of trade unit
+207
+botu
+208
+body inch
+209
+body mass index
+210
+bmi
+211
+boe
+212
+bohr
+213
+bohr radius
+214
+a0
+215
+boiler horsepower
+216
+bole
+217
+boll
+218
+bolt
+219
+bone-dry unit
+220
+bdu
+221
+book sizes
+222
+bore
+223
+bottle
+224
+btl
+225
+bougie
+226
+bg
+227
+cd
+228
+bovate
+229
+box
+230
+bp unit
+231
+bpd
+232
+bpm
+233
+braça
+234
+braccio
+235
+brace
+236
+brake horsepower
+237
+brasse
+238
+braza
+239
+breadth
+240
+breakfast cup
+241
+breve
+242
+brewster
+243
+bright
+244
+brightness
+245
+bril
+246
+brinell hardness
+247
+hb
+248
+bhn
+249
+british horsepower
+250
+british shipping ton
+251
+british thermal unit
+252
+btu
+253
+bthu
+254
+brix
+255
+btuh
+256
+bubnoff unit
+257
+bucket
+258
+bunder
+259
+bundle
+260
+bdl
+261
+bu
+262
+business day
+263
+butcher
+264
+butt
+265
+button measure
+266
+bya
+267
+byte
+268
+c
+269
+ca
+270
+cca
+271
+caballeria
+272
+caballo de vapor
+273
+cv
+274
+cable
+275
+cabot
+276
+cade
+277
+calendar year
+278
+cal yr
+279
+caliber
+280
+cal
+281
+caliper
+282
+call second
+283
+cs
+284
+callipic cycle
+285
+calorie
+286
+kcal
+287
+caña
+288
+canna
+289
+canne
+290
+candela
+291
+candle
+292
+candlepower
+293
+cp
+294
+candy
+295
+can sizes
+296
+cantar
+297
+canvas
+298
+cape foot
+299
+cf
+300
+cape rood
+301
+carat
+302
+ct
+303
+carb
+304
+carcel
+305
+carga
+306
+carnegie unit
+307
+carreau
+308
+cart
+309
+carton
+310
+carucate
+311
+case
+312
+castellation
+313
+category
+314
+cat
+315
+catty
+316
+cawny
+317
+cawney
+318
+cb-
+319
+cc
+320
+ccf
+321
+ccm
+322
+ccs
+323
+ce
+324
+celsius
+325
+celsius heat unit
+326
+chu
+327
+cent
+328
+cental
+329
+ch
+330
+ctl
+331
+centi-
+332
+c-
+333
+centiare
+334
+centibar
+335
+cbar
+336
+cb
+337
+centigon
+338
+cgon
+339
+centigrade
+340
+centigram
+341
+cg
+342
+centigray
+343
+cgy
+344
+centihg
+345
+centiliter
+346
+cl
+347
+centimeter
+348
+cm
+349
+centimeter of mercury
+350
+cmhg
+351
+cm hg
+352
+centimillion
+353
+centimorgan
+354
+centinewton
+355
+cn
+356
+centipoise
+357
+cps
+358
+cpo
+359
+centiradian
+360
+centisecond
+361
+csec
+362
+centistokes
+363
+cst
+364
+centner
+365
+centrad
+366
+centum
+367
+century
+368
+cetane number
+369
+cfe
+370
+cfh
+371
+cfm
+372
+cfs
+373
+cfu
+374
+chain
+375
+chain number
+376
+chalder
+377
+chaldron
+378
+chd
+379
+champagne quart
+380
+character
+381
+char
+382
+charka
+383
+charrière
+384
+charrière gauge
+385
+cheval vapeur
+386
+chǐ
+387
+chi
+388
+ch'ih
+389
+chiliad
+390
+chilo
+391
+chilo-
+392
+chin
+393
+chip
+394
+choi
+395
+chopine
+396
+choppin
+397
+ci
+398
+cicero
+399
+cid
+400
+cinque
+401
+circle
+402
+cir
+403
+circular inch
+404
+circular mil
+405
+cmil
+406
+city block
+407
+civil year 
+408
+clark degree
+409
+clausius
+410
+click
+411
+clo
+412
+clothyard
+413
+clothier's yard
+414
+clove
+415
+clusec
+416
+cma
+417
+coffee measure
+418
+coffeespoon
+419
+collothun
+420
+color rendering index
+421
+cri
+422
+color temperature
+423
+cct
+424
+color units
+425
+colpa
+426
+colp
+427
+collop
+428
+column inch
+429
+col in
+430
+commercial acre
+431
+common year
+432
+cooling degree day
+433
+cdd
+434
+cone
+435
+cone number
+436
+cong
+437
+congius
+438
+coomb
+439
+coom
+440
+cop
+441
+cord
+442
+cord foot
+443
+cd ft
+444
+cordel
+445
+coulomb
+446
+count
+447
+cousins
+448
+covado
+449
+covido
+450
+cover
+451
+cpi
+452
+cran
+453
+crannock
+454
+crith
+455
+crore
+456
+crotchet
+457
+crumb
+458
+cu
+459
+cuadra
+460
+cuartillo
+461
+cubic centimeter
+462
+cm3
+463
+cubic foot
+464
+ft3
+465
+cu ft
+466
+cubic inch
+467
+in3
+468
+cu in
+469
+cubic meter
+470
+m3
+471
+cubic ton
+472
+cubic yard
+473
+yd3
+474
+cubit
+475
+cuerda
+476
+cda
+477
+cumec
+478
+cùn
+479
+cun
+480
+t'sun
+481
+cunit
+482
+cup
+483
+curie
+484
+cusec
+485
+cut
+486
+cwt
+487
+cy
+488
+cycle
+489
+cycles per second
+490
+d
+491
+d-
+492
+dag
+493
+daily value
+494
+dv
+495
+daktylos
+496
+dal
+497
+dalton
+498
+da
+499
+dam
+500
+dan
+501
+danjon scale
+502
+daraf
+503
+darcy
+504
+darwin
+505
+dash
+506
+ds
+507
+data mile
+508
+date
+509
+day
+510
+db -
+513
+db fs
+514
+db i
+516
+db rn
+517
+db spl
+518
+db u
+519
+db v
+520
+db w
+521
+db z
+522
+deadweight ton
+523
+dwt
+524
+debye
+525
+deca-
+526
+da-
+527
+decade
+528
+decamillion
+529
+decatherm
+530
+decay time
+531
+decennium
+532
+deci-
+533
+decibar
+534
+dbar
+535
+decibel
+536
+db
+537
+decigram
+538
+dg
+539
+decile
+540
+deciliter
+541
+dl
+542
+decimal foot
+543
+decimeter
+544
+dm
+545
+decimillimeter
+546
+dmm
+547
+decipascal second
+548
+dpa·s
+549
+decipol
+550
+decitex
+551
+dtex
+552
+decitonne
+553
+dt
+554
+dtn
+555
+degree
+556
+°
+557
+deg
+558
+degree api
+559
+°api
+560
+degree balling
+561
+degree baumé
+562
+°b
+563
+°bé
+564
+degree brix
+565
+°bx
+566
+degree celsius
+567
+°c
+568
+degree centigrade
+569
+degree day
+570
+deg da
+571
+degree dornic
+572
+°d
+573
+degree ebc
+574
+°ebc
+575
+degree fahrenheit
+576
+°f
+577
+degree gay-lussac
+578
+°gl
+579
+degree kelvin
+580
+°k
+581
+degree kmw
+582
+°kmw
+583
+degree lovibond
+584
+°l
+585
+degree macmichael
+586
+°mcm
+587
+degree oechsle
+588
+°oe
+589
+degree plato
+590
+°p
+591
+degree quevenne
+592
+°q
+593
+degree rankine
+594
+°r
+595
+degree réaumur
+596
+degree soxhlet-henkel
+597
+°sh
+598
+degree therner
+599
+°th
+600
+degree twaddle
+601
+°tw
+602
+deka-
+603
+dekagram
+604
+decagram
+605
+dekaliter
+606
+decaliter
+607
+dekameter
+608
+decameter
+609
+dekanewton
+610
+decanewton
+611
+dekan
+612
+dekare
+613
+dekar
+614
+decare
+615
+dekatherm
+616
+dth
+617
+demal
+618
+demi
+619
+demisemiquaver
+620
+denaro
+621
+denier
+622
+desiccant unit
+623
+du
+624
+dessertspoon
+625
+dessertspoonful
+626
+dsp
+627
+dssp
+628
+dessiatina
+629
+deuce
+630
+devil's dozen
+631
+dex
+632
+dhur
+633
+dialog unit
+634
+dlu
+635
+diameter
+636
+dia
+637
+x
+638
+×
+639
+diamond
+640
+dicker
+641
+didot point
+642
+dieb. alt.
+643
+dieb. tert.
+644
+digit
+645
+dimension
+646
+dim
+647
+din
+648
+diopter
+649
+dpt
+650
+diraa
+651
+djerib
+652
+dk-
+653
+dn
+654
+dobson unit
+655
+dog watch
+656
+dog year
+657
+dol
+658
+dollar
+659
+$
+660
+donkey power
+661
+donum
+662
+dönüm
+663
+doppelzentner
+664
+dz
+665
+double-
+666
+double
+667
+double magnum
+668
+doublet
+669
+double word
+670
+doubleword
+671
+douzième
+672
+dozen
+673
+doz
+674
+dpa
+675
+dpi
+676
+dpm
+677
+dps
+678
+drachm
+679
+drachma
+680
+drachme
+681
+dram
+682
+dr
+683
+drex
+684
+drill sizes
+685
+drink
+686
+drap
+687
+drop
+688
+gtt
+689
+drought severity category
+690
+drum
+691
+dry pint
+692
+dry quart
+693
+dry ton
+694
+duet
+695
+duo
+696
+dunum
+697
+duro
+698
+durometer
+699
+dyad
+700
+dyne
+701
+dyn
+702
+e
+703
+earth-rate unit
+704
+eru
+705
+ebc
+706
+ebhc
+707
+eclipse year
+708
+ecm
+709
+edr
+710
+sq ft
+711
+eer
+712
+ef
+713
+effective dose
+714
+ed
+715
+eighth
+716
+einstein
+717
+einstein unit
+718
+el
+719
+electric horsepower
+720
+electron
+721
+me
+722
+electronvolt
+723
+ev
+724
+ell
+725
+elle
+726
+em
+727
+emu
+728
+emu/cm3
+729
+emu/cc
+730
+en
+731
+encablure
+732
+energy factor
+733
+engineer's chain
+734
+engler degree
+735
+enhanced fujita scale
+736
+ennead
+737
+enzyme unit
+738
+eu
+739
+eon
+740
+eotvos unit
+741
+ephah
+742
+epoch
+743
+equivalent
+744
+equivalent weight
+745
+eq
+746
+erg
+747
+erlang
+748
+estadio
+749
+esu
+750
+ett-
+751
+etto-
+752
+h-
+753
+etto
+754
+hg
+755
+exa-
+756
+e-
+757
+exajoule
+758
+ej
+759
+exameter
+760
+exbi-
+761
+ei-
+762
+exposure value
+763
+eyesight
+764
+f
+765
+f/
+766
+face cord
+767
+faden
+768
+faggot
+769
+fahrenheit
+770
+fall
+771
+fanega
+772
+fanegada
+773
+farad
+774
+faraday
+775
+fd
+776
+fardel
+777
+farsakh
+778
+farasang
+779
+farthing
+780
+farthingdale
+781
+fathom
+782
+fth
+783
+fath
+784
+fat half
+785
+fat quarter
+786
+fatt
+787
+fau
+788
+fcc unit
+789
+feddan
+790
+femto-
+791
+f-
+792
+fermi
+793
+fm
+794
+feu
+795
+fibrin unit
+796
+fu
+797
+field box
+798
+fifth
+799
+fillette
+800
+fineness
+801
+fine
+802
+finger
+803
+finsen unit
+804
+firkin
+805
+fir
+806
+firlot
+807
+fiscal year
+808
+fist
+809
+fistmele
+810
+fit
+811
+flagon
+812
+flask
+813
+flat
+814
+flick
+815
+flock
+816
+floor
+817
+flops
+818
+fluid dram
+819
+fluidram
+820
+fl dr
+821
+fluid ounce
+822
+fl oz
+823
+fluid scruple
+824
+flux unit
+825
+fnu
+826
+f number
+827
+fod
+828
+foe
+829
+folio
+830
+food calorie
+831
+foot
+832
+ft
+833
+'
+834
+football field
+835
+footcandle
+836
+fc
+837
+ftc
+838
+footlambert
+839
+fl
+840
+ftl
+841
+foot of head
+842
+ft hd
+843
+foot per minute
+844
+ft/min
+845
+fpm
+846
+foot per second
+847
+ft/s
+848
+ft/sec
+849
+fps
+850
+foot pound
+851
+ft·lbf
+852
+ft·lb
+853
+foot poundal
+854
+foot pound per second
+855
+ft·lbf/s
+856
+ft·lb/s
+857
+foot ton
+858
+ft·tn
+859
+force
+860
+forpet
+861
+fortnight
+862
+fot
+863
+fother
+864
+fotmal
+865
+fourth
+866
+frail
+867
+f ratio
+868
+f stop
+869
+franklin
+870
+fr
+871
+freight ton
+872
+french
+873
+fg
+874
+frigorie
+875
+fsw
+876
+fte
+877
+fuder
+878
+fujita scale
+879
+full step
+880
+funt
+881
+furlong
+882
+fur
+883
+fuß
+884
+fuss
+885
+g
+886
+ga
+887
+gage
+888
+galactic year
+889
+galileo
+890
+gal
+891
+gallon
+892
+galopin
+893
+gamma
+894
+γ
+895
+garnets
+896
+gas permeation unit
+897
+gpu
+898
+gauge
+899
+gauss
+900
+gs
+901
+gdu
+902
+gear inch
+903
+gee
+904
+gee pound
+905
+generation
+906
+gen
+907
+german legal meter
+908
+glm
+909
+geographical mile
+910
+gev
+911
+gf
+912
+g/g
+913
+gibi-
+914
+gi-
+915
+gig
+916
+giga-
+917
+g-
+918
+gigabecquerel
+919
+gbq
+920
+gigaflops
+921
+gflops
+922
+gigagram
+923
+gg
+924
+gigahertz
+925
+ghz
+926
+gigajoule
+927
+gj
+928
+gigaliter
+929
+gl
+930
+gigameter
+931
+gm
+932
+gigaparsec
+933
+gpc
+934
+gigapascal
+935
+gpa
+936
+gigatonne
+937
+gt
+938
+gigawatt
+939
+gw
+940
+gigawatt hour
+941
+gw·h
+942
+gigayear
+943
+gyr
+944
+gilbert
+945
+gi
+946
+gill
+947
+gillion
+948
+gin
+949
+g/kg
+950
+glasgow coma scale
+951
+gcs
+952
+glass
+953
+glean
+954
+gmt
+955
+gnat's eye
+956
+go
+957
+goad
+958
+gon
+959
+gong-
+960
+googol
+961
+gpf
+962
+gpg
+963
+gpm
+964
+gps
+965
+gr
+966
+grade
+967
+grade point
+968
+gp
+969
+grade point average
+970
+gradian
+971
+grain
+972
+grain per gallon
+973
+gr/gal
+974
+gram
+975
+gram atom
+976
+gram atomic weight
+977
+gram calorie
+978
+gram force
+979
+gram mole
+980
+gram molecule
+981
+gram molecular weight
+982
+gmol
+983
+gmole
+984
+gram per square meter
+985
+g/m2
+986
+gsm
+987
+gram rad
+988
+gram weight
+989
+gran
+990
+grand
+991
+grano
+992
+grav
+993
+gray
+994
+gy
+995
+great gross
+996
+great hundred
+997
+great year
+998
+green ton
+999
+green tonne
+1000
+gregorian year
+1001
+grit
+1002
+gros
+1003
+gross
+1004
+gro
+1005
+gross ton
+1006
+ground
+1007
+growler
+1008
+gry
+1009
+g/t
+1010
+gunter's chain
+1011
+gurley unit
+1012
+gutenberg
+1013
+h
+1014
+hacienda
+1015
+hair's breadth
+1016
+halakim
+1017
+hl
+1018
+halbe
+1019
+half
+1020
+half life
+1021
+half step
+1022
+hand
+1023
+handle
+1024
+hank
+1025
+hardness
+1026
+hartley
+1027
+hart
+1028
+hartree
+1029
+ha
+1030
+eh
+1031
+hat size
+1032
+hat trick
+1033
+hat-trick 
+1034
+head
+1035
+hd
+1036
+heaped bushel
+1037
+heat index
+1038
+hi
+1039
+hx
+1040
+heating degree day
+1041
+hdd
+1042
+heat unit
+1043
+hebdo-
+1044
+hect-
+1045
+hecto-
+1046
+hectare
+1047
+hectare meter
+1048
+ha·m
+1049
+hectobar
+1050
+hbar
+1051
+hectogram
+1052
+hectoliter
+1053
+hectometer
+1054
+hm
+1055
+hectopascal
+1056
+hpa
+1057
+heer
+1058
+helek
+1059
+hemidemisemiquaver
+1060
+hemina
+1061
+hemisphere
+1062
+henry
+1063
+heptad
+1064
+hertz
+1065
+hz
+1066
+hexad
+1067
+hexit
+1068
+hide
+1069
+hin
+1070
+hogshead
+1071
+hhd
+1072
+hold
+1073
+homestead
+1074
+hoppus foot
+1075
+hoppus board foot
+1076
+hoppus ton
+1077
+ht
+1078
+horse
+1079
+horsepower
+1080
+hp
+1081
+horsepower hour
+1082
+hp hr
+1083
+horsepower year
+1084
+hp yr
+1085
+hounsfield unit
+1086
+hu
+1087
+hour
+1088
+hr
+1089
+house
+1090
+hubble
+1091
+hue
+1092
+hun
+1093
+hundred
+1094
+hüvelyk
+1095
+hyl
+1096
+i
+1097
+iacs
+1098
+ibu
+1099
+icfm
+1100
+ie
+1101
+igpm
+1102
+immi
+1103
+imperial
+1104
+imperial gallon
+1105
+ig
+1106
+imperial units
+1107
+inch
+1108
+in
+1109
+"
+1110
+inch of mercury
+1111
+in hg
+1112
+inch of water gauge
+1113
+in wg
+1114
+wg
+1115
+inch pound
+1116
+in·lbf
+1117
+in lb
+1118
+in d.
+1119
+inhour
+1120
+ih
+1121
+inhr
+1122
+international foot
+1123
+international nautical mile
+1124
+international rubber hardness degree
+1125
+irhd
+1126
+international unit
+1127
+iu
+1128
+internet time
+1129
+ips
+1130
+ipy
+1131
+irish acre
+1132
+irish mile
+1133
+iron
+1134
+iso
+1135
+it calorie
+1136
+jag
+1137
+jansky
+1138
+jy
+1139
+jar
+1141
+jerk
+1142
+jeroboam
+1143
+jersey foot
+1144
+jiffy
+1145
+jigger
+1146
+jin
+1147
+jitro
+1148
+jo
+1149
+joch
+1150
+jones
+1151
+joule
+1152
+j
+1153
+journal
+1154
+jtu
+1155
+juchart
+1156
+juchert
+1157
+jug
+1158
+julian day
+1159
+jd
+1160
+julian epoch
+1161
+julian period
+1162
+julian year
+1163
+jupiter
+1164
+jutro
+1165
+k
+1166
+kaf
+1167
+kairi
+1168
+kanal
+1169
+kappland
+1170
+karat
+1171
+kt
+1172
+kare meter
+1173
+karemeter
+1174
+katal
+1175
+kat
+1176
+kati
+1177
+kattha
+1178
+katta
+1179
+kayser
+1180
+kbp
+1181
+kbtu
+1182
+kcmil
+1183
+keddah
+1184
+keel
+1185
+keg
+1186
+kelvin
+1187
+ken
+1188
+kerat
+1189
+key
+1190
+kgm
+1191
+kgr
+1192
+kgsc
+1193
+kibi-
+1194
+ki-
+1195
+kilderkin
+1196
+kilo
+1197
+kilo-
+1198
+kiloampere
+1199
+ka
+1200
+kilobar
+1201
+kbar
+1202
+kb
+1203
+kilobase
+1204
+kilobecquerel
+1205
+kbq
+1206
+kilobit
+1207
+kbit
+1208
+kilobit per second
+1209
+kbps
+1210
+kb/s
+1211
+kilobyte
+1212
+kilocalorie
+1213
+kilocurie
+1214
+kci
+1215
+kilocycle
+1216
+kc
+1217
+kilocycle per second
+1218
+kc/s
+1219
+kilodalton
+1220
+kda
+1221
+kiloelectronvolt
+1222
+kev
+1223
+kilofoot
+1224
+kft
+1225
+kilogauss
+1226
+kgs
+1227
+kilogram
+1228
+kg
+1229
+kilogram calorie
+1230
+kgcal
+1231
+kilogram force
+1232
+kgf
+1233
+kilogram meter
+1234
+kgf·m
+1235
+kg·m
+1236
+kilogram weight
+1237
+kilohertz
+1238
+khz
+1239
+kilojoule
+1240
+kj
+1241
+kilokibibyte
+1242
+kiloline
+1243
+kiloliter
+1244
+kl
+1245
+kl)
+1246
+kilomega-
+1247
+km-
+1248
+kilometer
+1249
+km
+1250
+kilometer per hour
+1251
+km/h
+1252
+kilometer per liter
+1253
+km/l
+1254
+kilomole
+1255
+kmol
+1256
+kilonewton
+1257
+kn
+1258
+kilohm
+1259
+kiloohm
+1260
+kilo-oersted
+1261
+koe
+1262
+kiloparsec
+1263
+kpc
+1264
+kilopascal
+1265
+kpa
+1266
+kilopond
+1267
+kp
+1268
+kilorad
+1269
+krad
+1270
+kilosecond
+1271
+ks
+1272
+ksec
+1273
+kiloton
+1274
+kton
+1275
+kilovolt
+1276
+kv
+1277
+kilovolt ampere
+1278
+kv·a
+1279
+kilowatt
+1280
+kw
+1281
+kilowatt hour
+1282
+kw·h
+1283
+kwh
+1284
+kw hr
+1285
+kilowatt year
+1286
+kw·yr
+1287
+kiloyard
+1288
+kyd
+1289
+kiloyear
+1290
+kyr
+1291
+kin
+1292
+kip
+1293
+klafter
+1294
+klick
+1295
+klik
+1296
+kmph
+1297
+kmt
+1298
+km/t
+1299
+knoop hardness
+1300
+hk
+1301
+khn
+1302
+knot
+1303
+köddi
+1304
+koku
+1305
+kommerzlast
+1306
+kon
+1307
+koyan
+1308
+kph
+1309
+krina
+1310
+krügerl
+1311
+krügel 
+1312
+ksf
+1313
+ksi
+1314
+ksym/s
+1315
+kulmet
+1316
+kunitz
+1317
+kunitz unit
+1318
+kvadrat-
+1319
+kwan
+1320
+kya
+1321
+kyu
+1322
+kz
+1323
+l
+1324
+láb
+1325
+labor
+1326
+lachter
+1327
+lachterzoll
+1328
+lai
+1329
+lakh
+1330
+lac
+1331
+lambda
+1332
+lambert
+1333
+la
+1334
+lb
+1335
+lanac
+1336
+land mile
+1337
+lane meter
+1338
+langdo
+1339
+langley
+1340
+ly
+1341
+lap
+1342
+last
+1343
+lbf
+1344
+lbm
+1345
+ld
+1346
+lea
+1347
+league
+1348
+leap
+1349
+leap second
+1350
+leap year
+1351
+legua
+1352
+légua
+1353
+legoa
+1354
+length
+1355
+lg
+1356
+lethal dose
+1357
+lÇ
+1358
+li
+1359
+liang
+1360
+libra
+1361
+libbra
+1362
+lieue
+1363
+light second
+1364
+light watt
+1365
+light year
+1366
+ligne
+1367
+ligula
+1368
+line
+1369
+'''
+1370
+linear foot
+1371
+lineal foot
+1372
+lf
+1373
+link
+1374
+lippie
+1375
+liter
+1376
+litre
+1377
+liter atmosphere
+1378
+l·atm
+1379
+liter per 100 kilometers
+1380
+l/100 km
+1381
+liter per mil
+1382
+l/mil
+1383
+livre
+1384
+load
+1385
+long hundredweight
+1386
+long ton
+1387
+longword
+1388
+lot
+1389
+lovibond color units
+1390
+lpf
+1391
+lpi
+1392
+lug
+1393
+lumberg
+1394
+lumen
+1395
+lm
+1396
+lumen hour
+1397
+lm h
+1398
+lunar day
+1399
+lunar distance
+1400
+lunar month
+1401
+lunation
+1402
+lusec
+1403
+luster
+1404
+lustre
+1405
+lustrum
+1406
+lux
+1407
+lx
+1408
+m
+1409
+ma
+1410
+mab
+1411
+mace
+1412
+mach
+1413
+maf
+1414
+magnitude
+1415
+mag
+1416
+magnum
+1417
+mahnd
+1418
+mål
+1419
+mandel
+1420
+man hour
+1421
+manpower
+1422
+manzana
+1423
+marathon
+1424
+marc
+1425
+marco
+1426
+mark
+1427
+marine league
+1428
+mark twain
+1429
+marla
+1430
+mas
+1431
+masha
+1432
+masl
+1433
+maß
+1434
+mass
+1435
+mau
+1436
+maund
+1437
+maxwell
+1438
+mx
+1439
+mbf
+1440
+mbm
+1441
+mbsl
+1442
+mbh
+1443
+mbtuh
+1444
+mc-
+1445
+mc
+1446
+mcf
+1447
+mcfd
+1448
+mcfe
+1449
+mcg
+1450
+mcl
+1451
+mcm
+1452
+mcps
+1453
+mcu
+1454
+mease
+1455
+measure
+1456
+measurement ton
+1457
+mton
+1458
+mt
+1459
+mebi-
+1460
+mi-
+1461
+med
+1462
+meg
+1463
+mega-
+1464
+m-
+1465
+megabar
+1466
+mbar
+1467
+megabarrel
+1468
+mbbl
+1469
+mbo
+1470
+mmb
+1471
+mb
+1472
+megabase
+1473
+megabecquerel
+1474
+mbq
+1475
+megabyte
+1476
+megacycle
+1477
+megacycle per second
+1478
+mc/s
+1479
+megadalton
+1480
+mda
+1481
+megaflops
+1482
+mflops
+1483
+megagram
+1484
+mg
+1485
+megahertz
+1486
+mhz
+1487
+megajoule
+1488
+mj
+1489
+megakelvin
+1490
+mk
+1491
+megalerg
+1492
+megaline
+1493
+megaliter
+1494
+ml
+1495
+megalithic yard
+1496
+megameter
+1497
+mm
+1498
+megampere
+1499
+meganewton
+1500
+mn
+1501
+megaohm
+1502
+megohm
+1503
+megaohm centimeter
+1504
+megohm centimeter
+1505
+megaparsec
+1506
+mpc
+1507
+megapascal
+1508
+mpa
+1509
+mp
+1510
+megapixel
+1511
+megapond
+1512
+megaton
+1513
+megatonne
+1514
+megawatt
+1515
+mw
+1516
+megawatt hour
+1517
+mw·h
+1518
+megawatt day
+1519
+mw·d
+1520
+mwd
+1521
+megayear
+1522
+myr
+1523
+meile
+1524
+mel
+1525
+melchior
+1526
+mercalli intensity scale
+1527
+mercantile pound
+1528
+lb merc
+1529
+-merous
+1530
+mesh
+1531
+met
+1532
+meter
+1533
+metre
+1534
+meter-atmosphere
+1535
+meterlambert
+1536
+meter-lambert
+1537
+meter per second
+1538
+m/s
+1539
+methuselah
+1540
+metonic cycle
+1541
+metric carat
+1542
+metric grain
+1543
+metric horsepower
+1544
+metric hundredweight
+1545
+metric mile
+1546
+metric pound
+1547
+metric quintal
+1548
+metric slug
+1549
+metric ton
+1550
+t
+1551
+metric ton unit
+1552
+mtu
+1553
+mev
+1554
+mfd
+1555
+mg-at
+1556
+mgd
+1557
+mg/dl
+1558
+mg-eq
+1559
+mg/kg
+1560
+mgon
+1561
+mho
+1562
+mic
+1563
+mickey
+1564
+micro-
+1565
+µ-
+1566
+u-
+1567
+microampere
+1568
+µa
+1569
+microarcsecond
+1570
+µas
+1571
+microbar
+1572
+µbar
+1573
+microcurie
+1574
+µci
+1575
+microdegree
+1576
+µdeg
+1577
+microeinstein
+1578
+µe
+1579
+microequivalent
+1580
+µeq
+1581
+microfarad
+1582
+µf
+1583
+microflick
+1584
+microgram
+1585
+µg
+1586
+microgray
+1587
+µgy
+1588
+microinch
+1589
+µin
+1590
+microliter
+1591
+µl
+1592
+micrometer
+1593
+µm
+1594
+micromicro-
+1595
+µµ-
+1596
+micromicrofarad
+1597
+µµf
+1598
+mmfd
+1599
+micromicron
+1600
+micromole
+1601
+µmol
+1602
+micron
+1603
+µ
+1604
+micronewton
+1605
+µn
+1606
+micropascal
+1607
+µpa
+1608
+micropoise
+1609
+µp
+1610
+µpo
+1611
+µps
+1612
+microrad
+1613
+µrad
+1614
+microradian
+1615
+microrem
+1616
+µrem
+1617
+microsecond
+1618
+µs
+1619
+µsec
+1620
+microsievert
+1621
+µsv
+1622
+microstrain
+1623
+µstrain
+1624
+microtesla
+1625
+µt
+1626
+mct
+1627
+microvolt
+1628
+µv
+1629
+mcv
+1630
+middy
+1631
+miglio
+1632
+miil
+1633
+mijl
+1634
+mil
+1635
+mile
+1636
+mi
+1637
+mile per gallon
+1638
+mi/gal
+1639
+mpg
+1640
+mile per hour
+1641
+mi/h
+1642
+mph
+1643
+mil-foot
+1644
+milha
+1645
+military pace
+1646
+mill
+1647
+milla
+1648
+mille
+1649
+millenary
+1650
+millennium
+1651
+milli-
+1652
+milliampere
+1653
+milliampere hour
+1654
+ma·h
+1655
+milliarcsecond
+1656
+milliard
+1657
+millibar
+1658
+millicandela
+1659
+mcd
+1660
+millicurie
+1661
+mci
+1662
+millidegree
+1663
+mdeg
+1664
+milliequivalent
+1665
+meq
+1666
+millier
+1667
+millifarad
+1668
+mf
+1669
+milligal
+1670
+mgal
+1671
+milligauss
+1672
+milligram
+1673
+milligram per deciliter
+1674
+milligray
+1675
+mgy
+1676
+millihenry
+1677
+mh
+1678
+millihg
+1679
+millihorsepower
+1680
+mhp
+1681
+millijoule
+1682
+milli-k
+1683
+millikelvin
+1684
+millilambert
+1685
+mlb
+1686
+millilux
+1687
+mlx
+1688
+milliliter
+1689
+millimass unit
+1690
+mu
+1691
+mmu
+1692
+millimeter
+1693
+millimeter of mercury
+1694
+mm hg
+1695
+millimeter of water gauge
+1696
+mm wg
+1697
+millimicro-
+1698
+mµ-
+1699
+millimicron
+1700
+mµ
+1701
+millimole
+1702
+mmol
+1703
+millimole per liter
+1704
+mmol/l
+1705
+milline
+1706
+millinewton
+1707
+millinile
+1708
+millioctave
+1709
+mo
+1710
+millioersted
+1711
+moe
+1712
+milliosmole
+1713
+mosm
+1714
+milliparsec
+1715
+millipascal
+1716
+millipascal second
+1717
+mpa·s
+1718
+milliphot
+1719
+millipoise
+1720
+mps
+1721
+mpo
+1722
+millirad
+1723
+mrad
+1724
+milliradian
+1725
+millirem
+1726
+mrem
+1727
+millisecond
+1728
+ms
+1729
+msec
+1730
+millisiemens
+1731
+millisievert
+1732
+msv
+1733
+millitesla
+1734
+millivolt
+1735
+mv
+1736
+milliwatt
+1737
+milliwatt hour
+1738
+mina
+1739
+miner's inch
+1740
+-minex
+1741
+minim
+1742
+minipin
+1743
+minute
+1744
+minutum
+1745
+minyan
+1746
+mips
+1747
+mired
+1748
+miu
+1749
+mjd
+1750
+mkb
+1751
+mkono
+1752
+mkp
+1753
+mlbs
+1754
+m/m
+1755
+mmbo
+1756
+mmbf
+1757
+mmbtu
+1758
+mmcf
+1759
+mmcfe
+1760
+mmcps
+1761
+mmg
+1762
+mmhg
+1763
+mmm
+1764
+mmscfd
+1765
+-mo
+1766
+moa
+1767
+modified julian day
+1768
+module
+1769
+mohs hardness scale
+1770
+moiety
+1771
+molad
+1772
+molal
+1773
+molar
+1774
+molar volume
+1775
+mole
+1776
+mol
+1777
+moment
+1778
+momme
+1779
+mon
+1780
+mondo point
+1781
+month
+1782
+moog
+1783
+morgan
+1784
+morgen
+1785
+mou
+1786
+mouse unit
+1787
+mppcf
+1788
+mq
+1789
+msl
+1790
+msl 
+1791
+mstb
+1792
+msw
+1793
+msym/s
+1794
+mud
+1795
+mug
+1796
+mutchkin
+1797
+mwe
+1798
+mwt
+1799
+mya
+1800
+myria-
+1801
+my-
+1802
+myriagram
+1803
+myg
+1804
+myriameter
+1805
+mym
+1806
+﻿n
+1807
+nail
+1808
+nano-
+1809
+n-
+1810
+nanoacre
+1811
+nanobar
+1812
+nb
+1813
+nbar
+1814
+nanocurie
+1815
+nci
+1816
+nanofarad
+1817
+nf
+1818
+nanogram
+1819
+ng
+1820
+nanogray
+1821
+ngy
+1822
+nanoliter
+1823
+nl
+1824
+nanometer
+1825
+nm
+1826
+nanomole
+1827
+nanon
+1828
+nanonewton
+1829
+nn
+1830
+nanoradian
+1831
+nrad
+1832
+nanosecond
+1833
+ns
+1834
+nanosievert
+1835
+nsv
+1836
+nanostrain 
+1837
+nstrain
+1838
+nanotesla
+1839
+nt
+1840
+nat
+1841
+natural unit
+1842
+ncm
+1843
+ndm3
+1844
+nebuchadnezzar
+1845
+neck
+1846
+nk
+1847
+neper
+1848
+np
+1849
+nest
+1850
+net ton
+1851
+new candle
+1852
+new style
+1853
+newton
+1854
+n
+1855
+newton meter
+1856
+n·m
+1857
+newton second
+1858
+n·s
+1859
+ngarn
+1860
+niacin equivalent
+1861
+ne
+1862
+nibble
+1863
+nile
+1864
+nine
+1865
+nip
+1866
+nit
+1867
+noeud
+1868
+noggin
+1869
+noise criterion
+1870
+nc
+1871
+noise rating
+1872
+nr
+1873
+nonet
+1874
+nook
+1875
+normal
+1876
+normal cubic meter
+1877
+nm3
+1878
+normal liter
+1879
+nose
+1880
+note
+1881
+nox
+1882
+noy
+1883
+ntu
+1884
+nu
+1885
+nw
+1886
+nybble
+1887
+obol
+1888
+obolos
+1889
+obolus
+1890
+o'clock
+1891
+octad
+1892
+octane number
+1893
+octane rating 
+1894
+octant
+1895
+octarius
+1896
+octave
+1897
+octavillo
+1898
+octennium
+1899
+octet
+1900
+octuple
+1901
+octuplet
+1902
+odds
+1903
+oechsle
+1904
+oersted
+1905
+oe
+1906
+ohm
+1907
+ohm meter
+1908
+ohm per square
+1909
+ogdoad
+1910
+oitavo
+1911
+oka
+1912
+oke
+1913
+okta
+1914
+öl
+1915
+old style
+1916
+os
+1917
+olf
+1918
+olk
+1919
+olympiad
+1920
+omer
+1921
+omn. bih.
+1922
+omn. hor.
+1923
+onça
+1924
+once
+1925
+oncia
+1926
+onza
+1927
+ons
+1928
+open window unit
+1929
+owu
+1930
+order of magnitude
+1931
+osmolal
+1932
+osmolar
+1933
+osmole
+1934
+osm
+1935
+ostent
+1936
+ounce
+1937
+oz
+1938
+oz av
+1939
+oz t
+1940
+toz
+1941
+oz ap
+1943
+ounce force
+1944
+ozf
+1945
+ounce mole
+1946
+ozmol
+1947
+ounce per gallon
+1948
+oz/gal
+1949
+ounce per square foot
+1950
+oz/ft2
+1951
+ounce weight
+1952
+oxgang
+1953
+p
+1954
+paardekracht
+1955
+pk
+1956
+pace
+1957
+pack
+1958
+pack year
+1959
+packen
+1960
+pair
+1961
+pr
+1962
+pair royal
+1963
+palermo scale
+1964
+palm
+1965
+palmful
+1966
+palmo
+1967
+parasang
+1968
+paris foot
+1969
+paris point
+1970
+parsec
+1971
+pc
+1972
+psc
+1973
+part
+1974
+particle flux unit
+1975
+pfu
+1976
+part per billion
+1977
+ppb
+1978
+part per million
+1979
+ppm
+1980
+part per quadrillion
+1981
+ppq
+1982
+part per thousand
+1983
+ppth
+1984
+ppt
+1985
+part per trillion
+1986
+pascal
+1987
+pa
+1988
+pascal second
+1989
+pa·s
+1990
+pat
+1991
+pcf
+1992
+pci
+1993
+pé
+1994
+pearl grain
+1995
+pebi-
+1996
+pi-
+1997
+peck
+1998
+pencil hardness
+1999
+-penny
+2000
+-d
+2001
+penny
+2002
+pennyweight
+2003
+dwtpwt
+2004
+pentad
+2005
+per annum
+2006
+percent
+2007
+per cent
+2008
+per centum
+2009
+%
+2010
+pct
+2011
+percentage point
+2012
+percentile
+2013
+perch
+2014
+perche
+2015
+per diem
+2016
+pd
+2017
+perfect ream
+2018
+perm
+2019
+per mensem
+2020
+per mill
+2021
+per mil
+2022
+per mille
+2023
+perm inch
+2024
+person hour
+2025
+perthousand
+2026
+pes
+2027
+peta-
+2028
+p-
+2029
+petabecquerel
+2030
+pbq
+2031
+petaflops
+2032
+pflops
+2033
+petagram
+2034
+pg
+2035
+petahertz
+2036
+phz
+2037
+petajoule
+2038
+pj
+2039
+petameter
+2040
+pm
+2041
+pf
+2042
+pferdestärke
+2043
+ps
+2044
+pfiff
+2045
+pfund
+2046
+pfd
+2047
+ph
+2048
+ph eur unit
+2049
+phi unit
+2050
+phon
+2051
+phot
+2052
+photon
+2053
+pi
+2054
+π
+2055
+pic
+2056
+pica
+2057
+pico-
+2058
+picocurie
+2059
+picofarad
+2060
+picogram
+2061
+picoliter
+2062
+pl
+2063
+picolo
+2064
+picomole
+2065
+pmol
+2066
+picosecond
+2067
+picotesla
+2068
+pt
+2069
+picul
+2070
+pie
+2071
+piece
+2072
+pied
+2073
+piede
+2074
+pieze
+2075
+pz
+2076
+pik
+2077
+pin
+2078
+pinch
+2079
+ping
+2080
+pint 
+2081
+pip
+2082
+pipa
+2083
+pipe
+2084
+pitch
+2085
+pixel
+2086
+planck
+2087
+planck length
+2088
+planck time
+2089
+platonic year
+2090
+-plet
+2091
+plethron
+2092
+-plex
+2093
+plf
+2094
+pli
+2095
+plotter unit
+2096
+-ply
+2097
+pmpo
+2098
+pn
+2099
+pnc
+2100
+pnu
+2101
+point
+2102
+poise
+2103
+po
+2104
+poiseuille
+2105
+pol
+2106
+pole
+2107
+polegada
+2108
+pollex
+2109
+poll
+2110
+polypin
+2111
+pon
+2112
+poncelet
+2113
+pond
+2114
+pony
+2115
+pood
+2116
+porosity
+2117
+pot
+2118
+pottle
+2119
+pouce
+2120
+poumar
+2121
+pound
+2124
+lb t
+2126
+poundal
+2127
+pdl
+2128
+pound cut
+2129
+lb cut
+2130
+pound foot
+2131
+lbf ft
+2132
+lb ft
+2133
+pound force
+2134
+pound mass
+2135
+pound mole
+2136
+lbmol
+2137
+pound per square foot
+2138
+lbf/ft2
+2139
+psf
+2140
+pound per square inch
+2141
+lbf/in2
+2142
+psi
+2143
+pound weight
+2144
+lb wt
+2145
+pous
+2146
+power
+2147
+pp
+2148
+pptr
+2149
+ppcm,
+2150
+ppi
+2151
+printer's ream
+2152
+prism diopter
+2153
+proof
+2154
+prf
+2155
+pru
+2156
+psia
+2157
+psid
+2158
+psig
+2159
+psu
+2160
+pu
+2161
+pud
+2162
+puff
+2163
+pulgada
+2164
+pull
+2165
+puncheon
+2166
+pund
+2167
+punnet
+2168
+pyong
+2169
+pyron
+2170
+q-
+2171
+q
+2172
+q.d.
+2173
+q.h.
+2174
+qian
+2175
+q.i.d.
+2176
+qintar
+2177
+quad
+2178
+quadbit
+2179
+quadrant
+2180
+quadrat-
+2181
+quadrennium
+2182
+quadrimester
+2183
+quadrumvirate
+2184
+quadruplet
+2185
+quadword
+2186
+quantum
+2187
+quart
+2188
+qt
+2189
+quarter
+2190
+qtr
+2191
+qr
+2192
+quartern
+2193
+quartern-loaf
+2194
+quarter tone
+2195
+quartet
+2196
+quartile
+2197
+quarto
+2198
+quaver
+2199
+quevenne scale
+2200
+quincena
+2201
+quinquennium
+2202
+quintal
+2203
+quintet
+2204
+quintile
+2205
+quintuplet
+2206
+quinzaine
+2207
+quinzena
+2208
+quire
+2209
+q unit
+2210
+r
+2211
+rad
+2212
+rd
+2213
+radar mile
+2214
+radian
+2215
+radian per second
+2216
+rad/s
+2217
+radiation unit
+2218
+rai
+2219
+rankine
+2220
+ratel
+2221
+rayl
+2222
+rayleigh
+2223
+ream
+2224
+rm
+2225
+réaumur
+2226
+rebah
+2227
+rebar sizes
+2228
+reciprocal megakelvin
+2229
+recommended dietary allowance
+2230
+rda
+2231
+redshift
+2232
+redwood second
+2233
+register ton
+2234
+rt
+2235
+rehoboam
+2236
+rem
+2237
+rep
+2238
+reputed pint
+2239
+reputed quart
+2240
+res
+2241
+retinol equivalent
+2242
+re
+2243
+tonne
+2244
+revolution
+2245
+rev
+2246
+revolution per minute
+2247
+rpm
+2248
+r/min
+2249
+reyn
+2250
+rhe
+2251
+rhine foot
+2252
+rheinfuss
+2253
+rhm
+2254
+rhode island
+2255
+ri
+2256
+rice cup
+2257
+richter scale
+2258
+rick
+2259
+ridge
+2260
+riga last
+2261
+right angle
+2262
+ring
+2263
+ring size
+2264
+rms
+2265
+rockwell hardness
+2266
+rh-
+2267
+rod
+2268
+roede
+2269
+roentgen
+2270
+röntgen
+2271
+rood
+2272
+root mean square
+2273
+ron
+2274
+ropani
+2275
+rope
+2276
+rotl
+2277
+rotel
+2278
+rottle
+2280
+round
+2281
+royal foot
+2282
+rsirsi
+2283
+run
+2284
+rundlet
+2285
+running foot
+2286
+rute
+2287
+rutherford
+2288
+rydberg
+2289
+sitio
+2290
+sixth
+2291
+sjømil
+2292
+skein
+2293
+skep
+2294
+skæppe
+2295
+skjeppe
+2296
+skock
+2297
+skot
+2298
+slinch
+2299
+slm
+2300
+slpm
+2301
+slug
+2302
+slyke
+2303
+sm
+2304
+smidgen
+2305
+smite
+2306
+smoot
+2307
+smoz
+2308
+snail
+2309
+snellen fraction
+2310
+snit
+2311
+soam
+2312
+soendre
+2313
+sol
+2314
+solar neutrino unit
+2315
+snu
+2316
+-some
+2317
+sone
+2318
+sotka
+2319
+sound transmission class
+2320
+stc
+2321
+south african geodetic foot
+2322
+s.a.g. ft
+2323
+span
+2324
+spat
+2325
+spf
+2326
+sphere
+2327
+spherical degree
+2328
+spin
+2329
+spindle
+2330
+splash
+2331
+split
+2332
+spoonful
+2333
+square
+2334
+sq
+2335
+square block
+2336
+square centimeter
+2337
+cm2
+2338
+square chain
+2339
+ch2
+2340
+sq ch
+2341
+square degree
+2342
+sq deg
+2343
+square foot
+2344
+ft2
+2346
+square inch
+2347
+in2
+2348
+sq in
+2349
+square kilometer
+2350
+km2
+2351
+square meter
+2352
+m2
+2353
+square mile
+2354
+mi2
+2355
+sq mi
+2356
+square rod
+2357
+rd2
+2358
+sq rd
+2359
+square yard
+2360
+yd2
+2361
+sq yd
+2362
+ss
+2363
+ssu
+2364
+stack
+2365
+stk
+2366
+stade
+2367
+stadion
+2368
+stadium
+2369
+standard
+2370
+std
+2371
+standard atmosphere
+2372
+standard cubic meter
+2373
+standard deviation
+2374
+sd
+2375
+standard gravity
+2378
+standard volume
+2379
+stang
+2380
+stanine
+2381
+stapp
+2382
+stat-
+2383
+stb 
+2384
+stein
+2385
+steinkast
+2386
+step
+2387
+steradian
+2388
+sr
+2389
+stere
+2390
+st
+2391
+sthene
+2392
+sn
+2393
+stick
+2394
+stilb
+2395
+sb
+2396
+stimp
+2397
+stock tank barrel
+2398
+stb
+2399
+stoke
+2400
+stokes
+2401
+stone
+2402
+stone's throw
+2403
+stop
+2404
+storey
+2405
+story
+2406
+stp
+2407
+streck
+2408
+stremma
+2409
+stride
+2410
+strike
+2411
+strob
+2412
+strong-cobb unit
+2413
+sc
+2414
+strontium unit
+2415
+su
+2416
+stu
+2417
+stubbie
+2418
+stunde
+2419
+sturgeon
+2420
+sun
+2421
+solar mass
+2422
+superficial
+2423
+super foot
+2424
+surface foot
+2425
+survey foot
+2426
+sus
+2427
+suture sizes
+2428
+svedberg
+2429
+sverdrup
+2430
+swg
+2431
+swing
+2432
+swu
+2433
+symbol per second
+2434
+sym/s
+2436
+tablespoon
+2437
+tbsp
+2438
+tblsp
+2439
+tsp
+2440
+tael
+2441
+tahil
+2442
+tagwerk
+2443
+talangwah
+2444
+tw
+2445
+talbot
+2446
+talent
+2447
+tan
+2448
+tarea
+2449
+tarefa
+2450
+tatami
+2451
+tce
+2452
+te
+2453
+teacupful
+2454
+teaspoon
+2455
+teaspoonful
+2456
+technical atmosphere
+2458
+tebi-
+2459
+ti-
+2460
+tenth-meter
+2461
+tera-
+2462
+t-
+2463
+terabecquerel
+2464
+tbq
+2465
+teraflops
+2466
+tflops
+2467
+teragram
+2468
+tg
+2469
+terahertz
+2470
+thz
+2471
+terajoule
+2472
+tj
+2473
+terameter
+2474
+tm
+2475
+terannual
+2476
+terawatt
+2477
+terawatt hour
+2478
+tw·h
+2479
+tertian
+2480
+tesla
+2481
+tetrad
+2482
+teu
+2483
+tev
+2484
+tex
+2485
+therblig
+2486
+therm
+2487
+thm
+2488
+thermal ohm
+2489
+thermie
+2490
+th
+2491
+thermochemical calorie
+2492
+calth
+2493
+thimbleful
+2494
+third
+2495
+third-octave
+2496
+thou
+2497
+thrave
+2498
+thread
+2499
+thumb
+2500
+tical
+2501
+tick
+2502
+tid
+2503
+tidal day
+2504
+tier
+2505
+tierce
+2506
+timber
+2507
+time
+2508
+time zone
+2509
+tin
+2510
+tithe
+2511
+tithing
+2512
+tmc ft
+2513
+tme
+2514
+to
+2515
+tod
+2516
+toe
+2517
+tog
+2518
+toise
+2519
+tola
+2520
+tolerance unit
+2521
+toman
+2522
+ton
+2523
+tn
+2526
+tønde
+2527
+tønde land
+2528
+tone
+2529
+tonelada
+2530
+tonne
+2531
+tonneau
+2532
+ton of force
+2533
+tnf
+2534
+ton per square inch
+2535
+tnf/in2
+2536
+tsi
+2537
+torino number
+2538
+torr
+2539
+tot
+2540
+tour
+2541
+tovar
+2542
+tower weights
+2543
+township
+2544
+twp
+2545
+tpi
+2546
+traffic unit
+2547
+tu
+2548
+tray
+2549
+trey
+2550
+triad
+2551
+triennial
+2552
+triennium
+2553
+trilliard
+2554
+trimester
+2555
+trio
+2556
+triple
+2557
+triplet
+2558
+triumvirate
+2559
+troland
+2560
+td
+2561
+troy weights
+2562
+trug
+2563
+truss
+2564
+tsubo
+2566
+tub
+2567
+tumbler
+2568
+tumblerful
+2569
+tun
+2570
+tunnland
+2571
+-tuple
+2572
+turbidity unit
+2573
+turn
+2574
+twaddle scale
+2575
+twain
+2576
+twelfth
+2577
+twelvemonth
+2578
+twip
+2579
+typp
+2583
+ui
+2584
+uld
+2585
+ulp
+2586
+um
+2587
+ums
+2588
+uncia
+2589
+unit
+2590
+unit call
+2591
+uc
+2592
+unit case
+2593
+unit pole
+2594
+magnetic pole
+2595
+universal time
+2596
+ut
+2597
+unze
+2598
+urna
+2599
+u.s. shipping ton
+2600
+usp unit
+2601
+v
+2602
+vac
+2603
+vagon
+2604
+val
+2605
+var
+2606
+vara
+2607
+vdc
+2608
+vedro
+2609
+verge
+2610
+vergee
+2611
+vershok
+2612
+verchok
+2613
+verst
+2614
+versta
+2615
+vehrsta
+2616
+viertel
+2617
+violle
+2618
+virgate
+2619
+viscosity grade
+2620
+vg
+2621
+vision
+2622
+viss
+2623
+vis
+2624
+vise
+2625
+volcanic explosivity index
+2626
+vei
+2627
+volt
+2628
+volume unit
+2629
+vu
+2630
+volumetric unit
+2631
+v/v
+2632
+w
+2633
+wah
+2634
+wales
+2635
+wan
+2636
+watch
+2637
+water column
+2638
+wc
+2639
+water horsepower
+2640
+whp
+2641
+water inch
+2642
+watt
+2643
+watt hour
+2644
+w·h
+2645
+watt year
+2646
+w·yr
+2647
+wave
+2648
+wavelength
+2649
+weber
+2650
+wb
+2651
+week
+2652
+wk
+2653
+werst
+2654
+wet ton
+2656
+wey
+2657
+whole note
+2658
+whole step
+2659
+whole tone
+2660
+winchester bushel
+2661
+winchester quart
+2662
+wind chill temperature index
+2663
+wcti
+2664
+wine gallon
+2665
+wineglass
+2666
+wineglassful
+2667
+word
+2668
+working level
+2669
+wl
+2671
+wrench sizes
+2672
+ws
+2673
+w/v
+2674
+w/w
+2675
+wyde
+2678
+x unit
+2679
+xu
+2680
+yard
+2681
+yd
+2682
+yard of ale
+2683
+yard of land
+2684
+yardland
+2685
+year
+2686
+y
+2687
+yr
+2688
+yi
+2689
+yo
+2690
+y/o
+2691
+yocto-
+2692
+y-
+2693
+yoke
+2694
+yotta-
+2695
+yottameter
+2696
+ym
+2697
+z
+2698
+zak
+2699
+zentner
+2700
+ztr
+2701
+zepto-
+2702
+z-
+2703
+zetta-
+2704
+zettameter
+2705
+zm
+2706
+zhubov scale
+2707
+zoll
+2708
+﻿acre
+2709
+agate
+2710
+beer gallon
+2711
+beer
+2712
+ale gallon
+2713
+bushel
+2714
+cubic feet
+2715
+db a
+2716
+db c
+2717
+db m
+2718
+demi-
+2719
+fu?
+2720
+gpm
+2721
+gps
+2722
+hat-trick
+2723
+jerib
+2724
+nanostrain
+2725
+octane rating
+2726
+pint
+2727
+ppcm
+2728
+revenue ton
+2729
+rsi
+2730
+sabin
+2731
+sack
+2732
+sadzhen
+2733
+saffir-simpson category
+2734
+sagene
+2735
+sailmaker ounce
+2736
+salmanazar
+2737
+saltspoon
+2738
+sao
+2739
+saros
+2740
+saturation
+2741
+savart
+2742
+scale
+2743
+sccm
+2744
+scfd
+2745
+scfh
+2746
+scfm
+2747
+scheffel
+2748
+schepel
+2749
+schock
+2750
+schooner
+2751
+schoppen
+2752
+schtoff
+2753
+scim
+2754
+score
+2755
+scots foot
+2756
+scots mile
+2757
+scoville unit
+2758
+scruple
+2759
+se
+2760
+sea mile
+2761
+seah
+2762
+seam
+2763
+season
+2764
+second
+2765
+second-day-foot
+2766
+second-foot
+2767
+sed
+2768
+seemeile
+2769
+seer
+2770
+seidel
+2771
+semester
+2772
+semester hour
+2773
+semi-
+2774
+semibreve
+2775
+semicircle
+2776
+semih
+2777
+semiquaver
+2778
+semitone
+2779
+sennight
+2780
+septennium
+2781
+septet
+2782
+septuple
+2783
+septuplet
+2784
+ser
+2785
+sester
+2786
+sestet
+2787
+sextarius
+2788
+sextet
+2789
+sextuple
+2790
+sextuplet
+2791
+sf
+2792
+sfm
+2793
+sg
+2794
+shackle
+2795
+shade number
+2796
+shaftment
+2797
+shake
+2798
+shaku
+2799
+shannon
+2800
+sheaf
+2801
+shed
+2802
+shekel
+2803
+sheng
+2804
+sheqel
+2805
+shetland
+2806
+shift
+2807
+shipping ton
+2808
+sho
+2809
+shock
+2810
+shoe size
+2811
+shook
+2812
+shore hardness
+2813
+short hundredweight
+2814
+short ream
+2815
+short ton
+2816
+short ton unit
+2817
+shortword
+2818
+shot
+2819
+shovel
+2820
+shower unit
+2821
+sidereal day
+2822
+siegbahn unit
+2823
+siemens
+2824
+sieve
+2825
+sievert
+2826
+sigma
+2827
+sign
+2828
+stade, stadion
+2829
+tablespoonful
+2830
+feet
+2831
+aâ·h
+2832
+braã§a
+2833
+charriã¨re
+2834
+charriã¨re gauge
+2835
+chç
+2836
+cã¹n
+2837
+degree baumã©
+2838
+degree rã©aumur
+2839
+dã¶nã¼m
+2840
+ftâ·lb
+2841
+ftâ·lb/s
+2842
+ftâ·lbf
+2843
+ftâ·lbf/s
+2844
+ftâ·tn
+2845
+fuã¿
+2846
+gwâ·h
+2847
+haâ·m
+2848
+inâ·lbf
+2849
+kgfâ·m
+2850
+kgâ·m
+2851
+kvâ·a
+2852
+kwâ·h
+2853
+kwâ·yr
+2854
+lã‡
+2855
+lã©gua
+2856
+maâ·h
+2857
+mpaâ·s
+2858
+mwâ·d
+2859
+mwâ·h
+2860
+mâµ
+2861
+mã¥l
+2862
+nâ·m
+2863
+nâ·s
+2864
+onã§a
+2865
+paâ·s
+2866
+pferdestã¤rke
+2867
+rã©aumur
+2868
+rã¶ntgen
+2869
+sdf
+2870
+skã¦ppe
+2871
+square feet
+2872
+ssp
+2873
+sv
+2874
+twâ·h
+2875
+wâ·h
+2876
+wâ·yr
+2877
+â°c
+2878
+â°d
+2879
+â°f
+2880
+â°k
+2881
+â°r
+2882
+âµas
+2883
+âµbar
+2884
+âµci
+2885
+âµe
+2886
+âµeq
+2887
+âµf
+2888
+âµg
+2889
+âµgy
+2890
+âµin
+2891
+âµl
+2892
+âµm
+2893
+âµmol
+2894
+âµn
+2895
+âµp
+2896
+âµpa
+2897
+âµpo
+2898
+âµps
+2899
+âµrad
+2900
+âµrem
+2901
+âµs
+2902
+âµstrain
+2903
+âµsv
+2904
+âµt
+2905
+âµv
+2906
+âµâµ
+2907
+a/m
+2908
+ac ft
+2909
+apr
+2910
+b/s 
+2911
+bo
+2912
+bya 
+2913
+cu ftcf
+2914
+k-
+2915
+magnetic
+2916
+mk1
+2917
+mμ-
+2918
+pwt
+2919
+sem
+2920
+sem hr
+2921
+sh
+2922
+ua 
+2923
+μ
+2924
+μ-
+2925
+μa
+2926
+μas
+2927
+μbar
+2928
+μci
+2929
+μdeg
+2930
+μeq
+2931
+μf
+2932
+μg
+2933
+μgy
+2934
+μin
+2935
+μl
+2936
+μm
+2937
+μmol
+2938
+μn
+2939
+μp
+2940
+μpo
+2941
+μps
+2942
+μrad
+2943
+μrem
+2944
+μs
+2945
+μsec
+2946
+μsv
+2947
+μt
+2948
+μμ-
+2949
+μμf
