@@ -62,8 +62,6 @@ ah
 air mass
 31
 air watt
-32
-ale gallon
 33
 allergy unit
 34
@@ -326,8 +324,6 @@ beaufort scale
 becquerel
 163
 bq
-164
-beer gallon
 165
 beer
 166
@@ -588,8 +584,6 @@ candlepower
 cp
 294
 candy
-295
-can sizes
 296
 cantar
 297
@@ -2204,8 +2198,6 @@ imperial
 imperial gallon
 1105
 ig
-1106
-imperial units
 1107
 inch
 1108
@@ -3570,8 +3562,6 @@ mppcf
 mq
 1789
 msl
-1790
-msl 
 1791
 mstb
 1792
@@ -4468,8 +4458,6 @@ res
 retinol equivalent
 2242
 re
-2243
-tonne
 2244
 revolution
 2245
@@ -4740,8 +4728,6 @@ stanine
 stapp
 2382
 stat-
-2383
-stb 
 2384
 stein
 2385
@@ -5366,14 +5352,10 @@ zm
 zhubov scale
 2707
 zoll
-2708
-﻿acre
 2709
 agate
 2710
 beer gallon
-2711
-beer
 2712
 ale gallon
 2713
@@ -5388,22 +5370,8 @@ db c
 db m
 2718
 demi-
-2719
-fu?
-2720
-gpm
-2721
-gps
-2722
-hat-trick
 2723
 jerib
-2724
-nanostrain
-2725
-octane rating
-2726
-pint
 2727
 ppcm
 2728
@@ -5764,18 +5732,10 @@ wâ·yr
 âµv
 2906
 âµâµ
-2907
-a/m
-2908
-ac ft
 2909
 apr
-2910
-b/s 
 2911
 bo
-2912
-bya 
 2913
 cu ftcf
 2914
@@ -5794,8 +5754,6 @@ sem
 sem hr
 2921
 sh
-2922
-ua 
 2923
 μ
 2924

@@ -6,25 +6,28 @@ import time
 import re
 import parse
 
-match = open("D:\\crawl for unit\\work\\match.txt", "r")
-all = open("D:\\crawl for unit\\work\\unit-abbr.txt", "r")
+match = open("match.txt", "r")
+output = open("output.txt", "w")
 
-output = open("D:\\crawl for unit\\work\\output2.txt", "w")
-
-a = set()
 cnt = 0
+a = set()
+
 while True:
-    num = match.readline()
+    num = match.readline().strip()
     if not num:
         break
     num = int(num)
-    line = match.readline()
-    line = line.lower()
-    a.add(line)
-while True:
-    line = all.readline()
-    if not line:
-        break
-    line = line.lower()
-    if not line in a:
-        output.write(line);
+    #print num
+    word = match.readline().strip().lower()
+    if word in a:
+        print num, word
+    a.add(word)
+    s = open("data\\" + str(num) + ".txt", "r").readlines()
+    html = ""
+    for line in s:
+        html = html + line
+    ret = parse.parse1(html, num, word)
+    if (ret == 0):
+        print num, word
+        cnt = cnt + 1
+print cnt
