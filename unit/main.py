@@ -27,7 +27,7 @@ while True:
     for line in s:
         html = html + line
     ret = parse.parse1(html, num, word)
-    if (ret == 0):
-        print num, word
-        cnt = cnt + 1
+    if (ret == "-1"):
+        continue
+    output.write(ret + '\n' + word + '\n\n')
 print cnt

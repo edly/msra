@@ -2202,8 +2202,6 @@ ig
 inch
 1108
 in
-1109
-"
 1110
 inch of mercury
 1111
