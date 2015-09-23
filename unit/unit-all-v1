@@ -1,5 +1,6 @@
-﻿acre
+acre
 absorbance unit
+academic year
 acoustic ohm
 acre foot
 acre inch
@@ -57,6 +58,8 @@ atomic mass unit
 atomic number
 aught
 avoirdupois weights
+b
+b.i.d.
 b/d
 bag
 baht
@@ -79,20 +82,23 @@ barrel bulk
 barrer
 barrique
 barye
+basis point
 basis weight
 bau
 baud
-baumé
+baum�
 bc
 bce
 bcfe
 bcm
 bead sizes
+beat
 beaufort scale
 becquerel
 bee space
 beer gallon, beer and ale gallon
 bel
+bell
 bev
 bhp
 bi-
@@ -140,7 +146,7 @@ braccio
 brace
 brake horsepower
 braza
-braça
+bra�a
 breadth
 breakfast cup
 breve
@@ -162,11 +168,13 @@ butt
 button measure
 bya
 byte
+c
 ca
 caballeria
 caballo de vapor
 cabot
 cade
+calendar year
 caliber
 caliper
 call second
@@ -196,7 +204,7 @@ castellation
 catty
 cawney
 cawny
-caña
+ca�a
 cb-
 cc
 cca
@@ -228,6 +236,7 @@ centistokes
 centner
 centrad
 centum
+century
 cetane number
 cf
 cfe
@@ -242,8 +251,8 @@ chaldron
 champagne quart
 character
 charka
-charrière
-charrière gauge
+charri�re
+charri�re gauge
 cheval vapeur
 ch'ih
 chiliad
@@ -260,8 +269,10 @@ circle
 circular inch
 circular mil
 city block
+civil year
 clark degree
 clausius
+click
 clo
 clothier's yard
 clothyard
@@ -294,6 +305,7 @@ coulomb
 count
 cousins
 covado
+cover
 covido
 cpi
 cps
@@ -326,6 +338,7 @@ cwt
 cy
 cycle
 cycles per second
+d
 d-
 dag
 daily value
@@ -380,7 +393,7 @@ decitonne
 degree
 degree api
 degree balling
-degree baumé
+degree baum�
 degree brix
 degree celsius
 degree centigrade
@@ -440,18 +453,19 @@ dk-
 dn
 dobson unit
 dog watch
+dog year
 dol
 dollar
 donkey power
 donum
-dönüm
+d�n�m
 doppelzentner
 double
 double magnum
 double word
 doublet
 doubleword
-douzième
+douzi�me
 dozen
 dpa
 dpi
@@ -464,6 +478,8 @@ dram
 drap
 drex
 drill sizes
+drink
+drop
 drought severity category
 drum
 dry pint
@@ -482,6 +498,7 @@ dyne
 earth-rate unit
 ebc
 ebhc
+eclipse year
 ecm
 edr
 eer
@@ -524,6 +541,7 @@ exameter
 exbi-
 exposure value
 eyesight
+f
 f number
 f ratio
 f stop
@@ -559,6 +577,7 @@ finger
 finsen unit
 firkin
 firlot
+fiscal year
 fist
 fistmele
 fit
@@ -593,6 +612,7 @@ fortnight
 fot
 fother
 fotmal
+fourth
 fpm
 fps
 frail
@@ -609,11 +629,13 @@ full step
 funt
 furlong
 fuss
+g
 g/g
 g/kg
 g/t
 ga
 gage
+galactic year
 galileo
 gallon
 galopin
@@ -644,9 +666,11 @@ gigapascal
 gigatonne
 gigawatt
 gigawatt hour
+gigayear
 gilbert
 gill
 gillion
+gin
 glasgow coma scale
 glass
 glean
@@ -684,10 +708,13 @@ grav
 gray
 great gross
 great hundred
+great year
 green ton
 green tonne
+gregorian year
 grit
 gros
+gross
 gross ton
 growler
 gry
@@ -696,6 +723,7 @@ gt
 gtt
 gunter's chain
 gutenberg
+h
 hacienda
 hair's breadth
 halakim
@@ -749,12 +777,15 @@ horse
 horsepower
 horsepower hour
 hounsfield unit
+hour
+house
 hu
 hubble
 hue
 hundred
 hyl
-hüvelyk
+h�velyk
+i
 iacs
 ibu
 icfm
@@ -803,8 +834,10 @@ juchert
 jug
 julian day
 julian epoch
+julian year
 jupiter
 jutro
+k
 kaf
 kairi
 kanal
@@ -874,6 +907,7 @@ kilovolt ampere
 kilowatt
 kilowatt hour
 kiloyard
+kiloyear
 kin
 kip
 klafter
@@ -898,7 +932,7 @@ kvadrat-
 kwan
 kya
 kyu
-köddi
+k�ddi
 l
 lac
 lai
@@ -919,6 +953,7 @@ lea
 league
 leap
 leap second
+leap year
 legoa
 legua
 length
@@ -962,10 +997,10 @@ luster
 lustre
 lustrum
 lux
-légua
+l�gua
 m
 ma
-maß
+ma�
 mab
 mace
 mach
@@ -1040,6 +1075,7 @@ megatonne
 megawatt
 megawatt day
 megawatt hour
+megayear
 megohm
 meile
 mel
@@ -1184,6 +1220,7 @@ ngarn
 niacin equivalent
 nibble
 nile
+nine
 nip
 nit
 nm
@@ -1218,6 +1255,7 @@ octennium
 octet
 octuple
 octuplet
+odds
 oechsle
 oersted
 ogdoad
@@ -1238,7 +1276,7 @@ once
 oncia
 ons
 onza
-onça
+on�a
 open window unit
 order of magnitude
 osmolal
@@ -1252,9 +1290,11 @@ ounce per gallon
 ounce per square foot
 ounce weight
 oxgang
-pé
+p
+p�
 pace
 pack
+pack year
 packen
 pair
 pair royal
@@ -1265,6 +1305,7 @@ parasang
 paris foot
 paris point
 parsec
+part
 part per billion
 part per million
 part per quadrillion
@@ -1309,7 +1350,7 @@ petahertz
 petajoule
 petameter
 pf
-pferdestärke
+pferdest�rke
 pfu
 pfund
 ph
@@ -1347,6 +1388,7 @@ pixel
 planck
 planck length
 planck time
+platonic year
 -plet
 plethron
 plf
@@ -1415,6 +1457,7 @@ pund
 punnet
 pyong
 pyron
+q
 q-
 q unit
 q.d.
@@ -1446,6 +1489,7 @@ quintet
 quintile
 quintuplet
 quire
+r
 rad
 radar mile
 radian
@@ -1508,8 +1552,8 @@ running foot
 rute
 rutherford
 rydberg
-Réaumur
-röntgen
+R�aumur
+r�ntgen
 sabin
 sack
 sadzhen
@@ -1547,6 +1591,7 @@ season
 second
 second-day-foot
 second-foot
+section
 sed
 seemeile
 seer
@@ -1567,6 +1612,8 @@ septuplet
 ser
 sester
 sestet
+seven
+seventh
 sextarius
 sextet
 sextuple
@@ -1615,7 +1662,7 @@ skep
 skjeppe
 skock
 skot
-skæppe
+sk�ppe
 slinch
 slm
 slpm
@@ -1642,6 +1689,7 @@ spherical degree
 spin
 spindle
 splash
+split
 spoonful
 square
 square block
@@ -1688,6 +1736,7 @@ stp
 streck
 stremma
 stride
+strike
 strob
 strontium unit
 stu
@@ -1747,6 +1796,7 @@ thermal ohm
 thermie
 thermochemical calorie
 thimbleful
+third
 third-octave
 thou
 thrave
@@ -1820,8 +1870,9 @@ twelfth
 twelvemonth
 twip
 typp
-tønde
-tønde land
+t�nde
+t�nde land
+u
 ua
 ui
 uld
@@ -1833,6 +1884,7 @@ universal time
 unze
 urna
 usp unit
+v
 v/v
 vac
 vagon
@@ -1860,6 +1912,7 @@ volcanic explosivity index
 volt
 volume unit
 volumetric unit
+w
 w/v
 w/w
 wah
@@ -1875,6 +1928,7 @@ watt year
 wave
 wavelength
 weber
+week
 werst
 wet ton
 wey
@@ -1892,17 +1946,20 @@ working level
 wrench sizes
 ws
 wyde
+x
 x unit
 y/o
 yard
 yard of ale
 yard of land
 yardland
+year
 yi
 yocto-
 yoke
 yotta-
 yottameter
+z
 zak
 zentner
 zepto-
@@ -1911,1623 +1968,3 @@ zettameter
 zhubov scale
 zoll
 feet
-'''
-a/m
-absorbance unit
-ac
-ac ft
-ac in
-acfm
-acoustic ohm
-acre
-acre foot
-acre inch
-aeon
-air watt
-ale gallon
-alen
-almude
-aln
-alqueire
-alt h
-am
-amagat
-amp
-amp hr
-ampere hour
-ampere turn
-amphora
-angular mil
-animal unit
-anker
-apostilb
-arcminute
-arcsecond
-arm's-length
-arpent
-arratel
-arroba
-arshin
-artel
-asb
-assay ton
-atm
-atmo-meter
-atmos
-atmosphere
-aume
-aune
-aâ·h
-baker's dozen
-bale
-bank cubic meter
-bar abs
-barg
-barge
-barleycorn
-barn
-barrel
-barrel bulk
-barrique
-barye
-baud
-bbl
-bcfe
-bcm
-bd
-bd ft
-becquerel
-bee space
-beer gallon
-bel
-bev
-bf
-bg
-bhp
-biannually
-bicron
-biennium
-bigha
-billennium
-bimester
-bimillennium
-biot
-bips
-bit
-bit per second
-bl
-blondel
-board foot
-board of trade unit
-body inch
-boe
-boiler horsepower
-bole
-boll
-botu
-bougie
-bovate
-bpd
-bpm
-bps
-bq
-braccio
-brake horsepower
-braza
-braã§a
-breadth
-breakfast cup
-breve
-bril
-british horsepower
-british shipping ton
-british thermal unit
-bthu
-btu
-btuh
-bu
-bubnoff unit
-bucket
-bunder
-bundle
-bushel
-butt
-button measure
-byte
-caballeria
-caballo de vapor
-cal
-callipic cycle
-calorie
-calth
-candela
-candle
-candlepower
-cape foot
-cape rood
-carat
-carcel
-carga
-carreau
-carucate
-castellation
-catty
-cawney
-cawny
-cbar
-cc
-ccf
-ccm
-cd
-cda
-celsius
-celsius heat unit
-cental
-centiare
-centibar
-centigon
-centigrade
-centigram
-centigray
-centihg
-centiliter
-centimeter
-centimeter of mercury
-centimorgan
-centinewton
-centipoise
-centiradian
-centisecond
-centistokes
-centner
-centrad
-cf
-cfe
-cfh
-cfm
-cfs
-cgon
-cgy
-ch
-ch'ih
-ch2
-chalder
-chaldron
-champagne quart
-charka
-charriã¨re
-charriã¨re gauge
-chd
-cheval vapeur
-chilo
-chilo-
-chopine
-choppin
-chç
-ci
-cid
-circular inch
-circular mil
-civil year 
-cl
-clo
-clothier's yard
-clothyard
-clusec
-cm
-cm hg
-cm2
-cm3
-cmhg
-cmil
-cn
-coffeespoon
-col in
-collop
-collothun
-colp
-colpa
-column inch
-commercial acre
-cong
-congius
-cooling degree day
-coom
-coomb
-cord
-cord foot
-covado
-covido
-cp
-cpi
-cpo
-cps
-cran
-crannock
-crith
-crore
-crotchet
-crumb
-cs
-csec
-cst
-ctl
-cu
-cu ft
-cu in
-cuadra
-cubic centimeter
-cubic feet
-cubic foot
-cubic inch
-cubic meter
-cubic yard
-cubit
-cuerda
-cumec
-cun
-cunit
-cup
-cusec
-cv
-cwt
-cy
-cã¹n
-da
-dag
-daktylos
-dam
-daraf
-dash
-data mile
-db
-db spl
-db u
-db w
-dbar
-deadweight ton
-decade
-decagram
-decaliter
-decameter
-decanewton
-decare
-decatherm
-decennium
-decibar
-decibel
-decigram
-deciliter
-decimal foot
-decimeter
-decimillimeter
-decipol
-decitex
-decitonne
-deg
-deg da
-degree
-degree baumã©
-degree brix
-degree celsius
-degree centigrade
-degree day
-degree dornic
-degree ebc
-degree fahrenheit
-degree kelvin
-degree kmw
-degree lovibond
-degree macmichael
-degree oechsle
-degree quevenne
-degree rankine
-degree rã©aumur
-degree therner
-dekagram
-dekaliter
-dekameter
-dekan
-dekanewton
-dekare
-dekatherm
-demisemiquaver
-denaro
-denier
-dessertspoon
-dessiatina
-devil's dozen
-dg
-dhur
-didot point
-dieb. alt.
-dieb. tert.
-din
-diraa
-dl
-dm
-dmm
-dn
-dobson unit
-dog watch
-donkey power
-donum
-doppelzentner
-double magnum
-doubleword
-doz
-dozen
-dpi
-dps
-drachm
-drachma
-drachme
-dram
-drap
-drex
-drill sizes
-drink
-dry pint
-dry quart
-dry ton
-ds
-dsp
-dt
-dtex
-dth
-dtn
-dunum
-dwt
-dyn
-dyne
-dz
-dã¶nã¼m
-earth-rate unit
-ecm
-einstein unit
-ej
-electric horsepower
-electronvolt
-ell
-em
-emu/cc
-en
-engineer's chain
-engler degree
-enzyme unit
-eon
-eotvos unit
-ephah
-eq
-erg
-eru
-estadio
-esu
-etto
-ev
-exajoule
-exameter
-face cord
-faggot
-fanega
-fanegada
-farad
-farasang
-fardel
-farthingdale
-fathom
-fatt
-fbm
-fd
-feddan
-feet
-field box
-fillette
-firkin
-firlot
-fist
-fistmele
-fl
-fl oz
-flagon
-flask
-flick
-fluid dram
-fluid ounce
-fluid scruple
-fluidram
-fm
-fod
-foe
-food calorie
-foot
-foot of head
-foot per minute
-foot per second
-foot pound
-foot pound per second
-foot poundal
-foot ton
-footcandle
-footlambert
-fortnight
-fot
-fother
-fotmal
-fpm
-fps
-frail
-freight ton
-frigorie
-fsw
-ft
-ft/min
-ft/s
-ft/sec
-ft2
-ft3
-ftc
-fth
-ftl
-ftâ·lb
-ftâ·lb/s
-ftâ·lbf
-ftâ·lbf/s
-ftâ·tn
-fu
-fuder
-funt
-fur
-furlong
-fuss
-fuã¿
-g/kg
-g/m2
-g/t
-gal
-gallon
-galopin
-gbq
-geographical mile
-german legal meter
-gev
-gf
-gflops
-gg
-ghz
-gi
-gig
-gigabecquerel
-gigaflops
-gigagram
-gigahertz
-gigajoule
-gigaliter
-gigameter
-gigaparsec
-gigapascal
-gigatonne
-gigawatt
-gigawatt hour
-gill
-gj
-gl
-glm
-gm
-gmol
-gmole
-gnat's eye
-gpa
-gpc
-gpf
-gpg
-gpm
-gr
-gr/gal
-gradian
-grain
-gram
-gram calorie
-gram force
-gram mole
-gram molecule
-gram per square meter
-gram rad
-gram weight
-grano
-grav
-great gross
-green ton
-green tonne
-gros
-gross ton
-gs
-gsm
-gt
-gtt
-gunter's chain
-gw
-gwâ·h
-gy
-gyr
-ha
-halakim
-halbe
-half step
-hank
-hat trick
-hat-trick 
-haâ·m
-heaped bushel
-heating degree day
-hebdo-
-hectare
-hectare meter
-hectobar
-hectogram
-hectoliter
-hectometer
-hectopascal
-heer
-helek
-hemidemisemiquaver
-hemina
-henry
-hg
-hhd
-hide
-hl
-hm
-hogshead
-hold
-hoppus board foot
-hoppus foot
-hoppus ton
-horsepower
-horsepower hour
-hp hr
-hpa
-hr
-hyl
-icfm
-ie
-igpm
-immi
-imperial gallon
-in d.
-in hg
-in2
-in3
-inch
-inch of mercury
-inch of water gauge
-inch pound
-international foot
-international nautical mile
-international unit
-inâ·lbf
-ips
-ipy
-irish acre
-irish mile
-it calorie
-jag
-jansky
-jar
-jiffy
-jitro
-joch
-journal
-jtu
-jutro
-jy
-kaf
-kairi
-kanal
-karat
-kare meter
-kat
-katal
-katta
-kattha
-kayser
-kb
-kb/s
-kbar
-kbit
-kbp
-kbps
-kbq
-kbtu
-kc
-kcal
-kci
-kcmil
-kda
-keddah
-keg
-kerat
-kev
-kft
-kg
-kgcal
-kgf
-kgfâ·m
-kgm
-kgr
-kgs
-kgâ·m
-khz
-kilderkin
-kilo
-kilo-
-kiloampere
-kilobar
-kilobase
-kilobecquerel
-kilobit
-kilobyte
-kilocalorie
-kilocurie
-kilocycle
-kilodalton
-kiloelectronvolt
-kilofoot
-kilogauss
-kilogram
-kilogram calorie
-kilogram force
-kilogram meter
-kilogram weight
-kilohertz
-kilohm
-kilojoule
-kilokibibyte
-kiloline
-kiloliter
-kilometer
-kilomole
-kilonewton
-kiloohm
-kiloparsec
-kilopascal
-kilopond
-kilorad
-kilosecond
-kiloton
-kilovolt
-kilowatt
-kilowatt hour
-kilowatt year
-kiloyard
-kin
-kip
-kj
-kl
-kl)
-klafter
-klick
-klik
-km
-km/h
-km/l
-km2
-kmol
-kmph
-kmt
-kn
-knot
-koe
-koku
-kommerzlast
-kon
-koyan
-kp
-kpa
-kpc
-kph
-krad
-krina
-ksec
-ksf
-ksi
-kt
-kton
-kulmet
-kv
-kvâ·a
-kw
-kw hr
-kwan
-kwh
-kwâ·h
-kwâ·yr
-kyr
-kyu
-labor
-lac
-lakh
-lanac
-land mile
-lane meter
-langdo
-langley
-lap
-lb
-lb ft
-lb merc
-lb t
-lb wt
-lbf
-lbf ft
-lbf/ft2
-lbf/in2
-lbm
-lbmol
-ld
-lea
-league
-legoa
-legua
-li
-liang
-libbra
-lieue
-light second
-light watt
-light year
-ligne
-ligula
-lineal foot
-linear foot
-lippie
-liter
-litre
-livre
-lm
-lm h
-long hundredweight
-long ton
-longword
-lpf
-lpi
-lumberg
-lumen
-lumen hour
-lunar month
-lunation
-lusec
-luster
-lustre
-lustrum
-lux
-lx
-ly
-lã‡
-lã©gua
-m/s
-ma
-maf
-mag
-magnum
-mahnd
-manpower
-marc
-marine league
-marla
-mas
-masha
-maund
-maâ·h
-mb
-mbar
-mbbl
-mbf
-mbm
-mbo
-mbq
-mbtuh
-mc/s
-mcf
-mcfd
-mcfe
-mcg
-mcl
-mcm
-mcps
-mct
-mda
-mdeg
-meg
-megabar
-megabarrel
-megabase
-megabecquerel
-megabyte
-megacycle
-megadalton
-megaflops
-megagram
-megahertz
-megajoule
-megakelvin
-megalerg
-megaline
-megaliter
-megalithic yard
-megameter
-megampere
-meganewton
-megaohm
-megaparsec
-megapascal
-megapixel
-megapond
-megaton
-megatonne
-megawatt
-megawatt day
-megawatt hour
-megohm
-meile
-melchior
-meq
-mercantile pound
-meter
-meter per second
-meterlambert
-metonic cycle
-metre
-metric carat
-metric grain
-metric horsepower
-metric hundredweight
-metric mile
-metric pound
-metric quintal
-metric slug
-metric ton
-metric ton unit
-mev
-mfd
-mflops
-mg
-mg/dl
-mg/kg
-mgal
-mgd
-mgon
-mgy
-mh
-mho
-mhp
-mhz
-mi
-mi/gal
-mi/h
-mi2
-mic
-microampere
-microarcsecond
-microbar
-microcurie
-microdegree
-microeinstein
-microequivalent
-microfarad
-microflick
-microgram
-microgray
-microinch
-microliter
-micrometer
-micromicrofarad
-micromole
-micron
-micronewton
-micropascal
-micropoise
-microrad
-microradian
-microrem
-microsecond
-microsievert
-microstrain
-microtesla
-microvolt
-middy
-miglio
-miil
-mil
-mil-foot
-mile
-mile per gallon
-mile per hour
-milha
-military pace
-milla
-mille
-millennium
-milli-
-milli-k
-milliampere
-milliampere hour
-milliarcsecond
-millibar
-millicandela
-millicurie
-millidegree
-milliequivalent
-millier
-millifarad
-milligal
-milligauss
-milligram
-milligray
-millihenry
-millihorsepower
-millijoule
-millikelvin
-millilambert
-milliliter
-millilux
-millimass unit
-millimeter
-millimeter of mercury
-millimeter of water gauge
-millimicron
-millimole
-millinewton
-millioersted
-milliosmole
-milliparsec
-millipascal
-millipascal second
-milliphot
-millipoise
-millirad
-milliradian
-millirem
-millisecond
-millisiemens
-millisievert
-millitesla
-millivolt
-milliwatt
-milliwatt hour
-min
-miner's inch
-minim
-minipin
-minutum
-mips
-mired
-mj
-mk
-mkb
-mkono
-ml
-mlx
-mm
-mm hg
-mmb
-mmbo
-mmbtu
-mmcf
-mmcfe
-mmfd
-mmhg
-mmm
-mmol
-mmol/l
-mmscfd
-mmu
-moa
-module
-moe
-mol
-molad
-molal
-molar
-mole
-momme
-mondo point
-moog
-morgen
-mosm
-mou
-mp
-mpa
-mpaâ·s
-mpc
-mpg
-mph
-mpo
-mps
-mq
-mrad
-mrem
-ms
-msec
-msv
-msw
-mton
-mtu
-mud
-mutchkin
-mv
-mw
-mwd
-mwe
-mwt
-mwâ·d
-mwâ·h
-mx
-myg
-mym
-myr
-myriagram
-myriameter
-mâµ
-mã¥l
-nail
-nanoacre
-nanobar
-nanocurie
-nanofarad
-nanogram
-nanogray
-nanoliter
-nanometer
-nanomole
-nanon
-nanonewton
-nanoradian
-nanosecond
-nanosievert
-nanotesla
-nat
-nb
-nbar
-nci
-nebuchadnezzar
-neper
-net ton
-new candle
-newton meter
-newton second
-nf
-ng
-ngarn
-ngy
-nip
-nk
-nl
-nm
-nn
-noeud
-noggin
-nook
-normal cubic meter
-nrad
-ns
-nstrain
-nsv
-nt
-nybble
-nâ·m
-nâ·s
-obol
-octant
-octarius
-octave
-octavillo
-octennium
-octet
-oe
-ohm
-ohm meter
-oitavo
-oka
-oke
-okta
-olk
-olympiad
-omer
-omn. bih.
-once
-oncia
-ons
-onza
-onã§a
-open window unit
-osm
-osmolal
-osmolar
-osmole
-ostent
-ounce
-ounce force
-ounce mole
-ounce per gallon
-ounce per square foot
-ounce weight
-owu
-oxgang
-oz
-oz ap
-oz av
-oz t
-oz/ft2
-oz/gal
-ozf
-ozmol
-pa
-packen
-palmo
-parasang
-paris foot
-paris point
-parsec
-part per billion
-part per million
-part per quadrillion
-part per thousand
-part per trillion
-pascal second
-paâ·s
-pbq
-pcf
-pci
-pct
-pdl
-pearl grain
-peck
-pennyweight
-per annum
-per centum
-per diem
-per mensem
-per mil
-per mille
-percent
-perche
-perfect ream
-perm
-perm inch
-person hour
-pes
-petabecquerel
-petaflops
-petagram
-petahertz
-petajoule
-petameter
-pf
-pfd
-pferdestã¤rke
-pflops
-pfund
-ph
-phi unit
-phot
-phz
-pic
-pica
-picocurie
-picofarad
-picogram
-picoliter
-picolo
-picomole
-picosecond
-picotesla
-picul
-pied
-piede
-pieze
-pin
-pinch
-ping
-pint 
-pipa
-pj
-pk
-pl
-plethron
-plf
-pli
-plotter unit
-pmol
-pn
-poise
-pol
-polegada
-polypin
-pond
-pood
-pottle
-pouce
-poumar
-pound
-pound foot
-pound force
-pound mole
-pound per square foot
-pound per square inch
-poundal
-pous
-ppb
-ppi
-ppm
-ppq
-ppt
-ppth
-printer's ream
-pru
-ps
-psc
-psf
-psi
-psia
-psid
-psig
-pt
-pud
-pulgada
-puncheon
-pund
-punnet
-pyong
-pz
-q unit
-qian
-qintar
-qr
-qt
-qtr
-quadbit
-quadrat-
-quadrennium
-quadword
-quart
-quartern-loaf
-quinquennium
-quintal
-quire
-rad
-rad/s
-radar mile
-radian
-radian per second
-radiation unit
-rai
-rayl
-rd2
-ream
-rebah
-reciprocal megakelvin
-redwood second
-register ton
-rehoboam
-rem
-reputed quart
-rev
-revolution
-reyn
-rhe
-riga last
-rod
-roede
-roentgen
-ropani
-rotel
-rotl
-rottle
-royal foot
-rpm
-rundlet
-rute
-rã©aumur
-rã¶ntgen
-s.a.g. ft
-sabin
-sack
-sadzhen
-sagene
-salmanazar
-saltspoon
-sao
-saros
-sb
-sccm
-scfd
-scfh
-scfm
-scheffel
-schepel
-schoppen
-schtoff
-score
-scots foot
-scots mile
-sdf
-sea mile
-seah
-seam
-season
-sec
-second-day-foot
-second-foot
-sed
-seemeile
-semester
-semibreve
-semih
-semiquaver
-semitone
-sennight
-septennium
-ser
-sester
-sfm
-shackle
-shaku
-shed
-shekel
-sheng
-sheqel
-shetland
-shipping ton
-sho
-short hundredweight
-short ream
-short ton
-short ton unit
-shortword
-shovel
-shower unit
-sidereal day
-siegbahn unit
-siemens
-sievert
-sitio
-skein
-skjeppe
-skot
-skã¦ppe
-slinch
-slm
-slpm
-sm
-smidgen
-smoot
-sn
-sotka
-south african geodetic foot
-span
-spin
-sq
-sq ch
-sq deg
-sq ft
-sq in
-sq mi
-sq rd
-sq yd
-square block
-square centimeter
-square chain
-square degree
-square feet
-square foot
-square inch
-square kilometer
-square meter
-square mile
-square rod
-square yard
-sr
-ssp
-stade
-stadion
-standard atmosphere
-standard cubic meter
-stang
-stb
-stb 
-steradian
-stere
-sthene
-stilb
-stk
-stock tank barrel
-streck
-stremma
-strob
-strontium unit
-stu
-stubbie
-stunde
-super foot
-survey foot
-sv
-svedberg
-symbol per second
-t'sun
-tael
-talangwah
-tarea
-tarefa
-tatami
-tblsp
-tbq
-tbsp
-td
-teacupful
-teaspoon
-teaspoonful
-technical atmosphere
-tenth-meter
-terabecquerel
-teraflops
-teragram
-terahertz
-terajoule
-terameter
-terannual
-terawatt
-terawatt hour
-tertian
-tev
-tex
-tflops
-therm
-thermal ohm
-thermie
-thermochemical calorie
-thimbleful
-thm
-thou
-thrave
-thz
-tical
-tidal day
-tierce
-tj
-tmc ft
-tme
-tnf
-tnf/in2
-tod
-tog
-toise
-ton
-ton of force
-ton per square inch
-tonelada
-tonne
-tonneau
-torr
-tot
-tovar
-township
-toz
-tpi
-tray
-triennium
-trimester
-troland
-trug
-tsi
-tsp
-tsubo
-tub
-tumbler
-tumblerful
-tun
-tunnland
-turn
-twelvemonth
-twip
-twp
-twâ·h
-typp
-u.s. shipping ton
-ui
-um
-ums
-uncia
-unit pole
-unze
-urna
-vac
-vagon
-vara
-vdc
-vedro
-vehrsta
-verchok
-vergee
-vershok
-verst
-versta
-viertel
-virgate
-vise
-viss
-volt
-volumetric unit
-vu
-wah
-water horsepower
-water inch
-watt
-watt hour
-watt year
-wb
-werst
-wet ton
-wey
-wg
-whole step
-whole tone
-whp
-winchester bushel
-winchester quart
-wine gallon
-wineglass
-wineglassful
-working level
-ws
-wyde
-wâ·h
-wâ·yr
-x unit
-xu
-y/o
-yard
-yard of ale
-yard of land
-yardland
-yd
-yd2
-yd3
-yottameter
-yr
-zak
-zentner
-zettameter
-zm
-zoll
-ztr
-â°c
-â°d
-â°f
-â°k
-â°r
-âµas
-âµbar
-âµci
-âµe
-âµeq
-âµf
-âµg
-âµgy
-âµin
-âµl
-âµm
-âµmol
-âµn
-âµp
-âµpa
-âµpo
-âµps
-âµrad
-âµrem
-âµs
-âµstrain
-âµsv
-âµt
-âµv
-âµâµ

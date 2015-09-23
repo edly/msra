@@ -58,7 +58,7 @@ def parse1(s, num, word):
         return "Physical:Radiation"
     if (len(re.findall(re.compile(r'/input/\?i=(music(\+[a-zA-Z]+)*)&'), s)) > 0):
         return "Music"
-    if (len(re.findall(re.compile(r'/input/\?i=(electric\+resistance)&'), s)) > 0):
+    if (len(re.findall(re.compile(r'/input/\?i=(electric\+(resistance|current))&'), s)) > 0):
         return "Physical:Electric"
     if (len(re.findall(re.compile(r'/input/\?i=(electric\+potential\+difference)&'), s)) > 0):
         return "Physical:Electric"

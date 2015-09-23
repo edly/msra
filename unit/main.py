@@ -29,5 +29,5 @@ while True:
     ret = parse.parse1(html, num, word)
     if (ret == "-1"):
         continue
-    output.write(ret + '\n' + word + '\n\n')
+    output.write(ret + '\n' + word + '\n')
 print cnt
